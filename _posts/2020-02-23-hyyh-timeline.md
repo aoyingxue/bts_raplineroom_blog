@@ -14,7 +14,9 @@ toc: true
 
 号锡与母亲一起去游乐场，这是他第一次去游乐场。在旋转木马旁边母亲递给他一条巧克力棒，让号锡闭眼倒数十秒，结果睁眼后母亲已经离去，号锡被抛弃，并在孤儿院生活了十年。
 
-> ![highlight reel回忆中的小号锡](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdm3i8xsj211o0fqax7.jpg)highlight reel回忆中的小号锡
+> highlight reel回忆中的小号锡
+>
+> ![62462bb3ly1fupdm3i8xsj211o0fqax7](https://tva1.sinaimg.cn/large/0082zybpgy1gc8a89r0skj311o0fq78o.jpg)
 
 ### 2009/10/10
 
@@ -28,15 +30,15 @@ toc: true
 
 泰亨的父亲在长时间离家之后终于回家了。泰亨激动地跑去拥抱他，不记得是先闻到父亲的一身酒味、先听到父亲的咒骂声，还是先被父亲打了一巴掌；父亲用他的大手给了泰亨一个耳光，“你看什么呢？”接着拽起泰亨的肩膀，把他举在空中，抛向墙壁，他晕了过去；这是父亲第一次家暴他。
 
-> ![WINGS: Stigma](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdpm4964j211i0g3du4.jpg)WINGS: Stigma
+> ![WINGS: Stigma](https://tva1.sinaimg.cn/large/0082zybpgy1gc8a94o09xj311i0g341e.jpg)WINGS: Stigma
 >
-> ![WINGS: Stigma](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdpofr2pj211m0fq7ft.jpg)WINGS: Stigma
+> ![WINGS: Stigma](https://tva1.sinaimg.cn/large/0082zybpgy1gc8a9i8y34j311m0fqdi4.jpg)WINGS: Stigma
 
 ### 2011/4/6
 
 校外教学，因为当天父母都很忙没有去，所以智旻一个人去花卉植物园(풀꽃 수목원) 野餐，虽然因为没有父母陪同，智旻有点伤心，但是因为他在花卉绘画中得到了很高的赞誉，其他同学的母亲都夸赞自己成熟温柔，所以他觉得自己很酷；结束了活动，老师让他在原地等待老师，但他觉得自己找得到路；下雨了，其他同学和父母都回去了，周围一个人都没有，也没有车站和其他建筑，所以他只能抓着书包带狂奔；衣服都被雨淋湿了，恰巧这时他跑到植物园后门，发现那里有个类似仓库的地方。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdptbms8j212w0gbe47.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8a9qxpm0j312w0gbaeq.jpg)
 
 ### 2012/5
 
@@ -74,7 +76,7 @@ toc: true
 
 “我哪知道啊，南俊啊，南俊啊，南俊啊，真是烦死了。”南俊心想，真是后悔安慰弟弟要好好活下去。虽然在仓库能挺几天，以后又要怎么办呢。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdpxaarrj212w0gewyb.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8a9xgk1gj312w0gejvb.jpg)
 
 ### 2018/12/10 (MOTS:P)
 
@@ -98,7 +100,7 @@ toc: true
 
 新学期开始，智旻再一次转到新学校。同学们都在八卦他，他进出医院几次，也因此换了多所学校，社区附近的学校基本都去过了。因为迟到，智旻被罚去储物教室打扫卫生。储物教室本来是教室，后来变成了储物间。智旻开门的时候突然听到里面有声音，正准备关门的时候里面的人呼唤了智旻的名字，“嘿，你是朴智旻对吧？”他们是打扫教室的高年级学生，当智旻不知道该不该回应的时候有人拍了拍智旻的肩膀，“你不进来吗？”不知不觉的，智旻走进了教室。“再次见到你很开心，不知道你还记不记得我，我叫泰亨，我们同年级。”教室的门时开时关，七个一起打扫卫生的学生都到了，大家一起听歌、读书、跳舞、蹦跶，仿佛已经是忘年之交了。
 
-> ![校园三部曲](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdyenq94j212w0gfki3.jpg)校园三部曲
+> ![校园三部曲](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aa7dlm4j312w0gfjwi.jpg)校园三部曲
 >
 
 ### 2019/3/15 (MOTS:P)
@@ -119,7 +121,7 @@ toc: true
 
 号锡说“可我们没钱”，泰亨反驳道“我们可以走啊”，“等到火车站的时候我们肯定能想出办法的，当然我们还可以不吃晚饭省出点钱，”南俊插话道。柾国和泰亨在一边发牢骚。所有人都开始往火车站走，这时候智旻才清醒过来，像个孩子一样深低着头耸着肩膀。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdptbms8j212w0gbe47-20200223152242654.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aai0a94j312w0gbaeq.jpg)
 
 还未看到沙滩就已经听到了波浪互相拍打的声音，泰亨和号锡尖叫着冲了过去，智旻和硕珍紧跟其后。他们呼唤着“柾国！”，柾国向他们招手，假装笑得很开心。柾国一直不擅长表达自己的感情，曾经有人说他像个胆小怕事的孩子，这天的状态也是这样。柾国觉得自己与其他人格格不入。海滩上没什么好玩的，“让我们来赛跑吧！”号锡说完便冲了出去。其他人也跟着跑，但是一会就放弃了。天气实在太热了。南俊不知道从哪里找来了一把破了的太阳伞，七个人一起躺在下面。阳光从破洞里射下来，他们扭动身体躲避阳光。
 
@@ -131,7 +133,7 @@ toc: true
 
 玧其说：“最想实现的和最不可能实现的都叫做梦想，大概是因为人就是这么极度渴望吧。即使知道不可能实现也一定不能放弃，所以干脆不要拥有梦想。”柾国惊讶地问“为什么？”“拥有的话人活着会很艰难的。”玧其又开始咬起他的手指。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupga7xdn5j212w0ggncp.jpg)
+![62462bb3ly1fupga7xdn5j212w0ggncp](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aaroqx1j312w0gg0w1.jpg)
 
 “我们还得走多久啊？”泰亨这个问题问倒了号锡。“真奇怪，我确定它就在这哪里的。”他们站着围顾四周，并没有看到石头。“我们还要再往前走走吗？”“我一步都走不动了。”“我又饿又渴。”智旻看着手机叹了口气，泰亨凑近看了看，表情空洞地踢了一脚鹅卵石。
 
@@ -143,7 +145,7 @@ toc: true
 
 硕珍提议大家在这个地方拍张照片，于是七个人站成一排，背朝大海，接着大家就原路返回了。“我可以留下这张照片吗？”硕珍说着把拍立得拿出背包，在反面写了“6月12日”“你高吼的梦想，终会实现”。柾国抬头看向他，“你知道我当时说了什么吗？”硕珍拍拍他的肩膀，一话没说径直走开了。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgaagg9ej212w0gg48e.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ab341v3j312w0gg765.jpg)
 
 ### 2019/6/25
 
@@ -177,7 +179,7 @@ toc: true
 
 柾国和玧其在家长日当天，躲在他们的秘密教室，被老师发现后，柾国被老师推到在地，玧其用身体保护柾国不受伤害推住了老师
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdyi3ym6j211p0fuh11.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ab98f9yj311p0fugod.jpg)
 
 ### 2020/6/17
 
@@ -203,7 +205,9 @@ toc: true
 
 > ……但其实今天是个特别的日子，是个如果有写日记一定会将今天写下的日子，但我不会去写，不想要因为写了之后引起问题。我今天撒了谎，我直视医师的双眼闷闷地说：“我什么都记不得了。”
 
-<img src="%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fz3o9wr41aj213l1kw78c.jpg" alt="Smeraldo books 190112更新" style="zoom:33%;" />Smeraldo books 190112更新
+> ![62462bb3ly1fz3o9wr41aj213l1kw78c](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ac2yre6j30u017478c.jpg)
+>
+> Smeraldo books 190112更新
 
 ### **2020/9/30**
 
@@ -255,17 +259,17 @@ toc: true
 
 > 突然惊响的喇叭声使我睁开双眼，车子惊险地从我身旁呼啸而过，刺眼的车头灯还有阵风袭来，让烂醉如泥的我失去重心踉跄不稳，驾驶骂了几句，当我也想回骂时发现琴声已经消失，火苗熊熊燃烧的声音、车子呼啸的声音、风擦身而过的声音都还清晰可听，唯独钢琴声消失殆尽，为何停止了？是谁在弹琴？……我缓缓地移动脚步，想要就此离开，但依旧下意识地靠上前去，我弹奏了一个错误的音节，柾国转过头来望向我，「哥」。这是我高中辍学之后，第一次看见他。
 
-> ![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdyj2cdqj211h0fswjg.jpg)
+> ![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aci6bsuj311h0fsgmq.jpg)
 >
-> ![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdyod12ij211g0fpnal.jpg)
+> ![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ae3jsu7j311g0fp0v8.jpg)
 >
-> <img src="%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3gy1fyz3d0m9wyj20u0174hag.jpg" alt="SMERALDO BOOKS 更新" style="zoom:33%;" />SMERALDO BOOKS 更新
+> ![62462bb3gy1fyz3d0m9wyj20u0174hag](https://tva1.sinaimg.cn/large/0082zybpgy1gc8adnuuskj30u01740ww.jpg)SMERALDO BOOKS 更新
 
 ### 2022/3/29
 
 泰亨为了躲避警察，逃跑的糗样被南俊看到了，南俊用温暖的双手把他从地上拉起来。
 
-![image-20200223173447169](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/image-20200223173447169.png)
+![image-20200223173447169](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aehvvfwj31yr0u0u0z.jpg)
 
 ### 2022/4/11
 
@@ -275,15 +279,15 @@ toc: true
 
 号锡和泰亨去集装箱见南俊，顺便把玧其也叫上了，柾国也在。泰亨因为涂鸦被警察追捕，南俊把他捞出来所以晚到了；他的衬衣破了，所以换了南俊的衬衣；脱衣服的时候，南俊发现了泰亨背部的**伤疤**；玧其蹲坐在角落，号锡拿出了汉堡汽水，柾国尴尬地站在中间，就像曾经在仓库教室的情景一样
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdyrtaeoj212w0gewub.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aeqpm84j312w0gewhl.jpg)
 
 柾国故意去撞在街上游荡的不良少年们，被狠狠地揍一顿
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdywq65pj210g0ff1h2.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8afd3i9lj310g0ffgqh.jpg)
 
 柾国爬上工地，想跳下去自杀
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdyzdsndj211l0fsaif.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8afkafogj311l0fstak.jpg)
 
 > 我爬上工地的屋顶，夜色垄罩大地，甚至是侵蚀大地，我爬上栏杆，张开双手走著，有一度脚踩了空差点失去平衡，脑中闪过，如果再走一步就会死了吧，我死了的话，这一切就会结束，不会有人因为我消失而难过的。
 
@@ -291,19 +295,19 @@ toc: true
 
 南俊作为加油站的打工生，忍着自尊心无视富人戏耍帮忙捡纸钞，自卑和狼狈让他不敢直视硕珍，开车过来的硕珍只是看着他，没走过来，也没说话。（Smeraldo）
 
-<img src="%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fz0ffg5ihsj21gi23h43q.jpg" alt="img" style="zoom:33%;" />
+![62462bb3ly1fz0ffg5ihsj21gi23h43q](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ag8e868j30u017543q.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupfclscqej212w0g9qn2.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8agzpv6pj312w0g9wig.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupfcpq6u7j212w0gc1au.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ah8esr0j312w0gcn18.jpg)
 
 ### 2022/5/2
 
 玧其因为与父亲的无法互相理解试图脱离自己而选择点火自燃。
 
-（两个平行时空好像有差一点时间？闵是否自杀成功了？）
+（两个平行时空好像有差几天时间？闵是否自杀成功了？）
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3gy1fz0g379ul2j212w0geh0m.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ahkwxklj312w0ge0u3.jpg)
 
 ### 2022/5/10 (MOTS:P)
 
@@ -313,7 +317,7 @@ toc: true
 
 > 姨母也会像妈妈那样离弃我吗？我会再次失去我珍惜的人吗？一抬头，阳光照射下来，然后世界开始崩塌。车轮在沥青上磨擦的声音、沿着河面吹来的风，还有跟姨母一起经历的所有回忆，在这阳光中塌下。我就这样倒在地上去。
 
-![image-20200223173833922](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/image-20200223173833922.png)
+![image-20200223173833922](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ahyz6alj31z70u04qq.jpg)
 
 ### 2022/5/19
 
@@ -323,15 +327,15 @@ toc: true
 
 泰亨出门回到家发现父亲在家暴姐姐，于是拿起了酒瓶捅死了父亲
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupfq6ionuj211d0g216w.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ai6hzh0j311d0g2mzk.jpg)
 
 无奈之下，无助的泰亨拨打了南俊的电话；“哥，我想见你……”
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupfpq1gc4j212w0giwx2.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aihszjrj312w0gidj5.jpg)
 
 南俊没接到电话/没去帮忙
 
-> ![南俊没有打开电话亭接到电话，电话亭上用油漆写着LIAR](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupfpruovwj211s0fon5h.jpg)南俊没有打开电话亭接到电话，电话亭上用油漆写着LIAR
+> ![南俊没有打开电话亭接到电话，电话亭上用油漆写着LIAR](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aip0w93j311s0foq4n.jpg)南俊没有打开电话亭接到电话，电话亭上用油漆写着LIAR
 
 泰亨的姐姐(可能)代替了泰亨承认了罪行
 
@@ -341,15 +345,15 @@ toc: true
 
 他们一起去海边玩耍
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupga7xdn5j212w0ggncp-20200223152707383.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aivzsclj312w0gg0w1.jpg)
 
 南俊打电话。柾国站在不远处。南俊和对方说，“他只比我小一岁不是吗，跟我没什么关系吧，那也不是我能负责的，他会自己看着办吧。”泰亨听到之后非常生气。（南俊说的应该是自己弟弟南贤？）
 
 泰亨质问硕珍还有没有隐藏着的事情，南俊拉住他，他又想到之前听到的南俊的电话，甩掉了他的手。硕珍主动道歉，南俊抓住泰亨的胳膊想拉他出去说，泰亨内心其实希望南俊能责备一下自己可南俊却放了手。那瞬间硕珍打了泰亨，泰亨出走。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgaeuz23j212w0gknfd.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aj1c0yvj312w0gkgpn.jpg)
 
-![image-20200223175857274](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/image-20200223175857274.png)
+![image-20200223175857274](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ajaixt4j31z30u0e82.jpg)
 
 
 
@@ -359,37 +363,37 @@ toc: true
 
 > 硕珍哥那在黑暗中消失的车子上，那天晚上迎着我撞上了车头灯。身体在半空中浮起的感觉、无法吞咽也无法呼吸的一刻、身体突然像发作似的摇晃起来时的恐惧感、意识朦胧中难以忍受的寒冷、死亡的影子，很有那一刻看到留着车祸痕迹的保险杠。 (MOTS:P)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgall624j211p0ft4co.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ajloc92j311p0ftdie.jpg)
 
 ### **2022/5/25**
 
 糖和女友（待确定？）
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgaogtbrj211o0fv15v.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ajubre1j311o0fv76r.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgaty2w5j212w0gbh8t.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ak0nsw8j312w0gbq76.jpg)
 
 ### 2022/5/31
 
 智旻和号锡在练功房练舞，号锡十多年的朋友（女友）来给号锡庆生；当听到妹子喊了他一句「要去哪，号锡啊」，和七岁时听到的那句“号锡啊”很相似，号锡想起了当年被母亲抛弃的时候
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgayv3nej211p0fte0t.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8akax8o2j311p0ftq6x.jpg)
 
 ### **2022/6/5**
 
 南俊在桥上碰见了传单女孩，女孩戴着黄色发带
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgb7hjy0j20zv0fb1kx.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8akfh3j3j30zv0fbq90.jpg)
 
 ### **2022/6/8**
 
 糖脱掉了写着“dream”“不是自己type”的t恤，起身拿起了一支香烟和打火机，但是意识到女孩拿走了他的打火机，换成了黄色棒棒糖和一件“dream”T恤
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgbfdjuuj211l0fwh8h.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8akud41aj311l0fwq73.jpg)
 
 接着他收到了一条短信，非常开心
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgp12lf4j212w0g9hbx.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8al58h1wj312w0g9jvl.jpg)
 
 > 站起身来时听到了讯息声，看到萤幕上显示的三个字，周围的空气彷彿瞬间明亮起来，心脏也扑通扑通地跳著。看著讯息我将手上的香淤折成两半，回过神来，镜子映照著我的笑容，身上穿着那件红色写著”DREAM”又紧身的的T恤，没来由很开心地像傻瓜般笑著。
 
@@ -401,19 +405,19 @@ toc: true
 
 出车祸之后的几个月之后在医院遇到了女生
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgunc7h7j211i0fwkdj.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8alabs4jj311i0fwgpn.jpg)
 
 ### **2022/6/15**
 
 玧其接到智旻给自己打的电话，“哥，柾国他……”他冲到医院看到柾国却不敢进病房。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupguqxbmyj212w0gdqkk.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8alfd2ugj312w0gd42c.jpg)
 
 > 我看见柾国躺在那裡。我不自觉转过头，我无法看他。那一瞬间，我突然听见钢琴声、烈焰声、建筑的崩塌声。我抱著头慢慢坐下，都是因为你，要是没有你就好了。那是母亲的声音，不，是我的声音，或是某人的声音。因为这段话，我孤独地度过无数时光。我想相信不是这样，但柾国却躺在那裡。
 
 女孩在马路上试图拉住玧其，被玧其一把推开
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgux5j3tj212w0gcaxj.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8amo7timj312w0gcq7f.jpg)
 
 > 穿越斑马线时，有人突然抓住我的手，我不住回头。是谁？不，我不在乎。无论是谁都一样。别到我身边来，滚，拜托让我一个人，我不想让你受伤，也不想受伤，所以拜托，别靠近我。
 
@@ -421,13 +425,13 @@ toc: true
 
 泰泰碰到女生在便利店偷东西，帮她付了钱
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgv4do9aj211n0fv7wh.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8amti1blj311n0fv7bc.jpg)
 
 ### **2022/6/25**
 
 泰亨第三次碰到那个女生，发现那个女生在跟踪他并且躲起来不想让他发现，于是他对那个女孩说
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgvc2riaj212w0g7noc.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8an0tsjlj312w0g7jwg.jpg)
 
 > “我会在这等到你过来为止”，我说。另一个影子被吓着震动了一下，但依旧不为所动地停在原地，「我都看到了」我指着地上的影子。然后听到重重踩在地上的脚步声渐渐靠近而来。我笑了。
 
@@ -441,7 +445,7 @@ toc: true
 
 智旻一个人在舞蹈房练习，想要练到能和号锡哥哥媲美并肩的程度，但还是失败了
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgvglwjkj212w0gdtte.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8an6upu1j312w0gdq6s.jpg)
 
 ### **2022/7/4**
 
@@ -449,17 +453,17 @@ toc: true
 
 > ……本以为我已经克服那些事，但事实并非如此。我得逃走，得洗干净，得远离这一切。镜中的我，是仍在雨中挣扎逃离的八岁小孩…… 
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgvlv2ctj212w0ggaq0.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8anbvi3kj312w0ggjul.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgvqprjkj212w0gce0n.jpg)
+![62462bb3ly1fupgvqprjkj212w0gce0n](https://tva1.sinaimg.cn/large/0082zybpgy1gc8angw87vj312w0gcdjk.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgvu2itlj212w0geaor.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8anqqpj4j312w0gejuf.jpg)
 
 智旻看见号锡从不远处跑过，看着他背着女生冲向医院，智旻落寞地转身往回走
 
 > ……像我这种人，能做到的就只是让对方跌倒受伤、或者是因为那伤口而颤抖不已逃离现场，再不然就是后知后觉地追出去，又在半路停下飞奔的步伐。我转身往回走，每跨出一步，运动鞋就喷出雨水。开着大灯的汽车从我身旁呼啸而过，我很不好，不，我很好，我没有受伤。这点程度不算什麽，我真的很好……
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgvy1ozvj212w0gewxv.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8anu6st7j312w0gejv2.jpg)
 
 到医院检查后女生只是受到了轻微脑震荡，“没事吧？”我问。她只是说头有点痛，同时伸手要我把背包还她。女生不小心露出了买好的机票，号锡知道女生已经通过了海外舞团海选，即将出国离开他。
 
@@ -467,19 +471,19 @@ toc: true
 
 硕珍在火车铁轨旁遇到了一个女生，她丢了她的红色笔记本。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgw1oam8j211o0ftarb.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ao1k8hyj311o0ftgoy.jpg)
 
 ### **2022/7/13**
 
 南俊和传单女孩坐上了一辆公交车，已经一个月了，他俩在同一个图书馆学习，在同一个公交车站坐同一辆公交车。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgw8y1asj212w0gd4qp.jpg)
+![62462bb3ly1fupgw8y1asj212w0gd4qp](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ao9lrm3j312w0gdjxd.jpg)
 
 女孩睡着了，南俊犹豫着要不要叫醒她，最后决定不叫，偷偷把手上的发圈放在女生书包上，头也不回地下车了
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgwd1jtgj212w0gbql2.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aohagu7j312w0gb0w7.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgwjk3utj212w0gcu0c.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aokig4bj312w0gc7a0.jpg)
 
 ### **2022/7/16**
 
@@ -497,13 +501,13 @@ toc: true
 
 柾国偷偷从医院的花圃中偷了一束花出来，打开女生房门的时候却发现女生已经不在了；他开始回想曾经一起度过的时光，手握鲜花却没有可送之人了
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgwo4ailj212w0gdavh.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aot07jmj312w0gd781.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgwt43fhj212w0gc4ld.jpg)
+![62462bb3ly1fupgwt43fhj212w0gc4ld](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ap05zhxj312w0gc42r.jpg)
 
 离开医院的时候，柾国回忆着之前在长椅上，与女孩讲述过去和哥哥们经历的时候，和女孩说的话总是以哥哥们开始，对柾国而言哥哥们是家人也是老师，“我所有的故事都在哥哥们的故事里，我只在与哥哥们的关系中存在”
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgwxcgm6j212w0ggqir.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ap6sn6bj312w0ggtbw.jpg)
 
 ### 2022/8/13
 
@@ -513,9 +517,9 @@ toc: true
 
 硕珍开车行驶在十字路口，本应该加速的时候不知为何他突然停了。停车之后才看见发现的花店
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgwz9xk1j211p0fsjyz.jpg)
+![](https://tva1.sinaimg.cn/large/0082zybpgy1gc8apc0flqj311p0fsgn4.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgx4tmyyj20zw0f8na3.jpg)
+![62462bb3ly1fupgx4tmyyj20zw0f8na3](https://tva1.sinaimg.cn/large/0082zybpgy1gc8apf9tmnj30zw0f8mzd.jpg)
 
 在这家花店里找到了Smeraldo，虽然没有现货但是还是预定了八月底的花
 
@@ -525,13 +529,13 @@ toc: true
 
 按照女孩红色日记本checklist里写的喜好来讨她欢心（有Smeraldo），硕珍换好衣服打算去见女孩
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgx87bnlj211o0fxaqv.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8apt2stvj311o0fxadg.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgxerb5bj211p0frnhk.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8apw03u6j311p0frdjl.jpg)
 
 他终于拿到Smeraldo打算去找女孩，结果女孩被撞死
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgxivh2gj211o0fwkbr.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aq67au9j311o0fwjv0.jpg)
 
 在女生被撞车之后，硕珍发现自己拥有回溯时间的能力
 
@@ -549,13 +553,13 @@ toc: true
 
 硕珍打开车窗，丢给南俊一个打火机，“好久不见”。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupfcrs1wnj212w0ggk1g.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aqkhmb5j312w0gggnl.jpg)
 
 站在天台的柾国被玧其一则电话惊醒了，玧其阻止了他跳楼（？）
 
-<img src="%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fz19s9vk2dj213l1kwdmg.jpg" alt="img" style="zoom:33%;" />
+![62462bb3ly1fz19s9vk2dj213l1kwdmg](/Users/aoyingxue/Documents/Websites/btsraplineroom_blog/_posts/%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fz19s9vk2dj213l1kwdmg.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupe2st5w1j212w0gbalx.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aqzafofj312w0gbgnq.jpg)
 
 
 
@@ -569,7 +573,7 @@ toc: true
 
 泰亨为了躲避警察，逃跑的糗样被南俊看到了，南俊温暖的手把他从地上拉起来。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupfyf0xu7j212w0gab29.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8arfvx0jj312w0ga46e.jpg)
 
 ### 2022/4/28
 
@@ -577,7 +581,7 @@ toc: true
 
 （泰亨了解平行时空的超能力？）
 
-![image-20200223173751708](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/image-20200223173751708.png)
+![image-20200223173751708](https://tva1.sinaimg.cn/large/0082zybpgy1gc8argd10wj31ys0u04qp.jpg)
 
 ### 2022/4/30 (MOTS:P)
 
@@ -591,15 +595,15 @@ toc: true
 
 玧其被柾国救出。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdzfx960j212w0g8ata.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8arhwfcwj312w0g80wd.jpg)
 
 ### 2022/5/2
 
 硕珍：“我还能够纠正失误过错，拯救其他人吗？这个问题的重量和深度，我难以估量。”
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3gy1fyz3x4hhaxj212w0g5ame.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8arl1hccj312w0g5jsn.jpg)
 
-![SMERALDO BOOKS 更新](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3gy1fyz3cym06uj20u01741e6.jpg)
+![SMERALDO BOOKS 更新](https://tva1.sinaimg.cn/large/0082zybpgy1gc8arr43fcj30u017477x.jpg)
 
 柾国去了南俊的集装箱家，做梦梦见玧其站在床上，床垫火舌窜起，柾国冲向烈焰，竭尽全力只说出了一句“我们不是说好一起去海边吗”。睁眼后发现南俊在摇他的肩膀，“怎么了，做噩梦了吗？”南俊摸了摸他的额头，发现他发烧了。
 
@@ -619,13 +623,13 @@ toc: true
 
 以为看见妈妈出现在楼道的号锡追了出去，结果失去重心，被智旻拉住。从高中进了急救室之后智旻就一直呆在医院里，号锡问他想不想出去，智旻“不知道怎样才能出去了”
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdzj4k1uj212w0g9dvj.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8arx3onpj312w0g9q5i.jpg)
 
 ### **2022/5/15**
 
 号锡叫醒智旻，南俊哥放哨，玧其拖着护士，柾国和泰亨在电梯和他们碰头，所有人一起带智旻离开医院。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupdzpamo2j212w0ga4qp.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8as2d8x8j312w0gadlk.jpg)
 
 ### **2022/5/16**
 
@@ -635,15 +639,15 @@ toc: true
 
 号锡和泰亨走到岔路口，号锡问泰亨人怎么样，“你真的不饿？”泰亨点了点头，两人分道扬镳；这时号锡接到电话 （阿珍？）
 
-泰亨低头看了看手上血迹，正要晕倒的时候号锡接住了他；他想不起来父亲是什么时候消失的，就在拿起酒瓶刺向父亲之前，不知道因为什么，他停住了，转而将酒瓶砸向地板；反应过来之后，他拿起手机想打电话给南俊
+泰亨低头看了看手上血迹，正要晕倒的时候号锡接住了他；他想不起来父亲是什么时候消失的，就在拿起酒瓶刺向父亲之前，不知道因为什么，他停住了，转而将酒瓶砸向地板；反应过来之后，他拿起手机想打电话给南俊。
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupfq88zyvj212w0gahbp.jpg)
+![62462bb3ly1fupfq88zyvj212w0gahbp](https://tva1.sinaimg.cn/large/0082zybpgy1gc8ay1yihvj312w0gawji.jpg)
 
 号锡把泰亨从警察局接出来，警察局就在泰亨家旁边；他想起了自己家庭对自己施加的痛苦
 
 > ……我的心情都这样了，这家伙不知道是什么感觉。他有多么心痛、多么心碎？他的心脏是否还在跳动着？心裡有多么难受？这样的想法，令我无法看着他的脸，我只好抬头仰望天空。在阴郁的阳光下，一架飞机正飞过天空。第一次看到泰亨背上的伤痕，是在南俊的货柜秘密基地见面时。虽然面对天真地笑着说获得一件T恤的泰亨，没有人开口说话，但每个人心里的某个角落都哐噹一声崩塌……这个世界在我逐渐麻木之前，总是带给我新的伤痕。我知道，世上没有从没受过伤的人。但为什么会需要这么深的伤痕？究竟是为了什么？为什么会发生这种事？
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupfpun1mzj212w0gatm6.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aswc4jtj312w0gawh8.jpg)
 
 ### 2022/5/22 (MOTS:P)
 
@@ -661,13 +665,13 @@ toc: true
 >
 > 我用双臂挡住脸孔紧闭着双眼。瞭望台上发生了什么事，令我胆怯也万分焦急，可是我没法在风沙中睁开眼睛。
 
-（站上瞭望台的从泰亨一人变成了16两人？）
+（站上瞭望台的从泰亨一人变成了16两人？硕珍和泰亨解释？）
 
 > 大风减弱下来，便看见硕珍哥正在从瞭望台下来，还有泰亨在瞭望台上垂着头。硕珍哥下来之后就起动了车子，我除了踏前一步以外，没有能做的事。
 
 当晚大家回到松州去了，因为南俊主动让大家回家，于是一团糟的旅行告一段落。
 
-![image-20200223180223163](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/image-20200223180223163.png)
+![image-20200223180223163](https://tva1.sinaimg.cn/large/0082zybpgy1gc8awofxx3j31ys0u0x6r.jpg)
 
 ### 2022/5/29 (MOTS:P)
 
@@ -755,11 +759,11 @@ toc: true
 
 硕珍决定放弃像女孩日记里一样无谓的改变自己，而选择放手
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgxockxxj212w0gdat6.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8avy10bpj312w0gdgov.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgxs0im8j212w0gbk9i.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aw3qjecj312w0gbdj1.jpg)
 
-![img](%E6%97%B6%E9%97%B4%E7%BA%BF.assets/62462bb3ly1fupgxw282xj212w0gdtqn.jpg)
+![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc8aw84fk4j312w0gdq64.jpg)
 
 > 看到本以为丢了的日记，女孩好像很惊慌。女孩喜欢的电影，想去的地方，喜欢的花，梦想的未来…每翻一页都会在脑海中浮现。这好像也是我为女孩做的事情。抱歉的话说不出口。红色日记像交叉路的信号灯一样放在我们之间。 
 >
@@ -771,4 +775,5 @@ toc: true
 
 > 200223 更新Map of the Soul的notes内容，书的后半章暂缺
 > 部分参考gerger1212和BOMHARU1230的翻译内容
+
 ## 
