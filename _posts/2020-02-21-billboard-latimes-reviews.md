@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 200221 Billboard & LA TIMES 专辑评论节选
+title: "200221 Billboard & LA TIMES 专辑评论节选"
 date: 2020-02-21
 Author: RaplineRoom
 categories: album reviews

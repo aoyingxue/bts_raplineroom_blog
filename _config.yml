@@ -47,7 +47,7 @@ footer-links:
   flickr: #https://www.flickr.com/<>
   github: aoyingxue/btsraplineroom_blog #https://github.com/<>
   instagram: #https://instagram.com/<>
-  linkedin: aoyingxue #https://www.linkedin.com/in/<>
+  linkedin:  #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
@@ -56,8 +56,7 @@ footer-links:
   youtube: aoyingxue # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2020
-  InternationalPopKSensationSunshineRainbow TraditionalTransferUSBHubShrimpBTS
+footer-text: Copyright (c) 2020 InternationalPopKSensationSunshineRainbow TraditionalTransferUSBHubShrimpBTS
 
 # 评论，注意，请不要同时添加多种不同的评论区
 
