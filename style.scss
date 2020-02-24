@@ -320,7 +320,7 @@ img {
 //
 
 .wrapper-sidebar {
-  width: 25%;
+  width: 30%;
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-color: $background-color;
@@ -642,7 +642,7 @@ nav {
       display: inline-block;
       margin: 1px;
       color: $base-color;
-      false-color: $tag-index-label-background-color;
+      background-color: $tag-index-label-background-color;
       border-radius: 3px;
 
       &:hover {

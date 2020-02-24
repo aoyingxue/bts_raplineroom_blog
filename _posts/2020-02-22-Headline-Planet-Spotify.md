@@ -3,9 +3,9 @@ layout: post
 title: 200222 HEADLINE PLANET "Spotify榜单首日成绩"
 date: 2020-02-21
 Author: RaplineRoom
-categories: streaming data
 tags: [news, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 新闻, 7, 流媒体, 成绩]
 comments: true
+toc: true
 ---
 
 
