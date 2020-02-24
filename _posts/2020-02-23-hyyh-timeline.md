@@ -1,16 +1,12 @@
 ```
----
-layout: post
+--- layout: post
 title: 200223 花样年华宇宙图文时间线更新
 date: 2020-02-23
 Author: RaplineRoom
 categories: hyyh timeline
 tags: [bts, hyyh, map of the soul, debut, rm, suga, jhope, jungkook, jin, v, taehyung, jimin, bighit, *南俊, *玧其, *号锡, *硕珍, *智旻, *泰亨, *柾国, 花样年华*, love yourself, 7, timeline, notes, hyyh notes]
-comments: false
---- 
+comments: false --- 
 ```
-
-
 
 > 200223 更新Map of the Soul的notes内容，书的后半章暂缺
 >
