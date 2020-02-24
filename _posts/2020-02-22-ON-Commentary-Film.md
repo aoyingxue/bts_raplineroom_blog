@@ -4,8 +4,9 @@ title: 200222 ON Commentary Film
 date: 2020-02-21
 Author: RaplineRoom
 categories: 
-tags: [bts, rapline, news, rm, suga, jhope, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, on, map of the soul, map*, 7 ]
+tags: [Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 新闻, 7, Interviews, 采访]
 comments: false
+toc: false
 ---
 
 
