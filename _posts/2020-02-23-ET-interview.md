@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 200222 Billboard采访视频
+title: 200222 ET采访视频
 date: 2020-02-22
 Author: RaplineRoom
 categories: interviews
