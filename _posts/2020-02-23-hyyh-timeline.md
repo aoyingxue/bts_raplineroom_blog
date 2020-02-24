@@ -13,7 +13,7 @@ pinned: true
 
 > 200223 更新Map of the Soul的notes内容，书的后半章暂缺
 >
-> 部分参考[gerger1212](http://german1212.pixnet.net/blog/post/354159626-%E8%8A%B1%E6%A8%A3%E5%B9%B4%E8%8F%AF-the-notes-1-4-%28%E9%A0%86%E6%99%82%E5%BA%8F%29-%5B%E6%96%87%E7%AB%A0%E7%BF%BB%E8%AD%AF%5)和BOMHARU1230的翻译内容
+> 部分参考gerger1212和BOMHARU1230的翻译内容
 
 ### 2008  
 
