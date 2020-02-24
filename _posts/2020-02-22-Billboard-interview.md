@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title: 200222 Billboard采访视频
@@ -7,8 +6,9 @@ Author: RaplineRoom
 categories: interviews
 tags: [bts, news, billboard, map of the soul, debut, grammy, rm, suga, jhope, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 格莱美, 成绩, 新闻, 7, 采访, 视频]
 comments: false
---- 
-```
+---
+
+ 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/adRdu7jSn64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

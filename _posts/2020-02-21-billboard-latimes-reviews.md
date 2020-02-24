@@ -1,5 +1,4 @@
 ---
-​---
 layout: post
 title: 200221 Billboard & LA TIMES 专辑评论节选
 date: 2020-02-21
@@ -7,8 +6,9 @@ Author: RaplineRoom
 categories: album reviews
 tags: [bts, news, billboard, map of the soul, debut, grammy, rm, suga, jhope, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 格莱美, 成绩, 新闻, 7, 采访, 视频, album, review, 测评, 评测, la times]
 comments: false 
-​--- 
 ---
+
+## Billboard 专辑评论
 
 ……
 
@@ -20,7 +20,7 @@ UGH!中，BTS的三位rapper RM, SUGA, J-Hope用过去在cypher和粉丝最爱�
 
 ……Respect令人想起了BTS的早期生涯，类似的声音在之前的专辑中经常出现，尤其是两人对话式的结尾，SUGA说起他的大邱话，常常出现在早期的歌曲中，比如“[Ma City](https://www.youtube.com/watch?v=MlM1fbaHZTQ)” 和 “[Paldogangsan](https://www.youtube.com/watch?v=gwgy2MbjWKs)”。在这里，他们讨论了“Respect“这个词，他在最后感叹道“英语真难啊”。Respect追忆了他们的过去、现在，以及现在作为韩国艺人或者说是说韩语的艺人在世界舞台上的统治地位。
 
-## 200221 LA Times 专辑评论
+## LA Times 专辑评论
 
 
 “这个组合深受喜爱的原因，是他们打破kpop局限的歌词，讨论聚光灯代价的坦率，和这些经历对他们友谊的影响。Kpop粉丝并不需要会说韩语去理解，但如果要求你看懂，那没有组合会比BTS更适合用来深入研究了。”
