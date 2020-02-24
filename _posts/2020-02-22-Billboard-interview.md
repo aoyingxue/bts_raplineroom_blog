@@ -10,8 +10,6 @@ comments: false
 --- 
 ```
 
-# 200222 Billboard采访视频
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/adRdu7jSn64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 （小其老师喝了口星爸爸美式）

@@ -1,4 +1,4 @@
-```
+```html
 ---
 layout: post
 title: 200221 Billboard & LA TIMES 专辑评论节选
@@ -9,8 +9,6 @@ tags: [bts, news, billboard, map of the soul, debut, grammy, rm, suga, jhope, �
 comments: false 
 --- 
 ```
-
-## 200221 Billboard “照亮阴影、反思职业生涯的新专7”
 
 ……
 
