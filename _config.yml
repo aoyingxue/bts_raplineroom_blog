@@ -22,13 +22,13 @@ favicon: https://raw.githubusercontent.com/aoyingxue/btsraplineroom_blog/master/
 
 # 菜单中的按钮
 navigation:
-  - name: 首页
+  - name: Home
     url: /
-  - name: 关于
+  - name: About
     url: /about
-  - name: 归档
+  - name: Archive
     url: /archive
-  - name: 标签
+  - name: Tags
     url: /tags
 
 # 每页的文章数
@@ -79,7 +79,7 @@ url: btsraplineroom.com
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /btsraplineroom_blog
+baseurl: 
 
 
 #
