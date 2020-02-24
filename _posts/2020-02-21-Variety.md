@@ -6,7 +6,6 @@ Author: RaplineRoom
 categories: interviews
 tags: [bts, news, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 新闻, 7, Interviews, 采访]
 comments: false
-toc: false
 ---
 
 
