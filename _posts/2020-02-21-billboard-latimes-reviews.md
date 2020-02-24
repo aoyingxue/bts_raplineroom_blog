@@ -1,13 +1,13 @@
 ---
+​---
 layout: post
 title: 200221 Billboard & LA TIMES 专辑评论节选
 date: 2020-02-21
 Author: RaplineRoom
 categories: album reviews
 tags: [bts, news, billboard, map of the soul, debut, grammy, rm, suga, jhope, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 格莱美, 成绩, 新闻, 7, 采访, 视频, album, review, 测评, 评测, la times]
-
 comments: false 
-
+​--- 
 ---
 
 ……
