@@ -65,10 +65,10 @@ disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: c196ea63e4ba345797a1
+  clientSecret: d7069abcd90bc3d98f371af754da872b896ba129
+  repo: btsraplineroom_blog
+  owner: aoyingxue
 
 # 输入Google Analytics web tracking code
 google_analytics: UA-158973117-1
