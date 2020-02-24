@@ -6,9 +6,10 @@ Author: RaplineRoom
 categories: hyyh timeline
 tags: [HYYH, ,Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 花样年华, love yourself, 7, timeline, notes, hyyh notes]
 comments: false 
+pinned: true
 ---
 
-
+## 高中时代以前
 
 > 200223 更新Map of the Soul的notes内容，书的后半章暂缺
 >
