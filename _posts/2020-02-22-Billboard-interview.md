@@ -10,8 +10,6 @@ toc: false
 
  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/adRdu7jSn64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 （小其老师喝了口星爸爸美式）
 
 Q: 成员们最喜欢的7中的歌词？
@@ -67,3 +65,5 @@ Q: 你们在制作过程中有没有什么最喜欢的时刻？
 🐰：准备过程真的很令人激动，无论是回归，还是即将到来的巡演等等的一切。
 
 🐯：准备过程我真的特别幸福。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/adRdu7jSn64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
