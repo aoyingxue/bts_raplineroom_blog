@@ -3,7 +3,7 @@ layout: post
 title: 200225 时代杂志：专辑评价
 date: 2020-02-25
 author: RaplineRoom
-tags: [BTS, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 新闻, 7, Album Review, TIME, 时代]
+tags: [bts, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 新闻, 7, Album Review, TIME, 时代]
 comments: true
 toc: true
 ---
