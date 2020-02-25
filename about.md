@@ -62,4 +62,6 @@ RaplineRoom is dedicated to all 7 members of BTS and especially 3 members of rap
 
 The website is mainly for recording all the translation of news and album reviews posted by North American media platforms, and it is also going to include the HD Editorial Phots that I bought from Getty, etc, in the future. 
 
-#### 2020/02/25 Issues about tags not redirected correctly solved.
+#### 2020/02/25 
+Issues about tags not redirected correctly solved.
+Issues about GitTalk Comments and OAuth solved. Http changed to Https.
