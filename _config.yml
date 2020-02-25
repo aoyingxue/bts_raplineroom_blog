@@ -32,7 +32,7 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 10
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
@@ -51,7 +51,7 @@ footer-links:
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: cpeditsworld # https://<username>.tumblr.com
   twitter: BTS_RaplineRoom # https://www.twitter.com/<your_twitter_username>
-  youtube: aoyingxue # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
 footer-text: Copyright (c) 2020 InternationalPopKSensationSunshineRainbow TraditionalTransferUSBHubShrimpBTS
