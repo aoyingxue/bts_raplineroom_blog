@@ -65,9 +65,9 @@ footer-text: >
 disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
-gitalk:
-  clientID: c196ea63e4ba345797a1
-  clientSecret: d7069abcd90bc3d98f371af754da872b896ba129
+gitalk: # changed from http to https; has to apply for a new oauth
+  clientID: 21d3d4c2e3068bf88a7d
+  clientSecret: 0d009a2bc313111696dc353ec218818827cf0bc2
   repo: btsraplineroom_blog
   owner: aoyingxue
 
