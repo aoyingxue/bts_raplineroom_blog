@@ -28,7 +28,8 @@ layout: default
           <ul class="tag">
             {% for tag in post.tags %}
             <li>
-              <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+<!--              <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">-->
+              <a href="{{ site.baseurl }}/tags#{{ tag }}">
                 {{ tag }}
               </a>
             </li>
@@ -69,7 +70,8 @@ layout: default
         <ul class="tag">
           {% for tag in post.tags %}
           <li>
-            <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+<!--            <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">-->
+            <a href="{{ site.baseurl }}/tags#{{ tag }}">
               {{ tag }}
             </a>
           </li>
