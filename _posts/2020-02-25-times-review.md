@@ -34,9 +34,9 @@ BTS从不惧怕从更远的地方获取旋律和乐器灵感。JIMIN的Filter在
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi Mr. Gormley <a href="https://twitter.com/hashtag/CONNECT_BTS?src=hash&amp;ref_src=twsrc%5Etfw">#CONNECT_BTS</a> <a href="https://t.co/5vyY7hHtwD">pic.twitter.com/5vyY7hHtwD</a></p>&mdash; 방탄소년단 (@BTS_twt) <a href="https://twitter.com/BTS_twt/status/1230626716428587008?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-这也清晰地说明他们一直以来是如何释放压力的：通过分担责任。在专辑中，每个人都有闪光点。K-pop一直在与围绕爱豆机器的刻板印象和爱豆们创造的艺术价值作斗争，BTS不管发什么样合理又好听的作品，在商业上依旧能保证他们是世界最大的男团。但他们和BigHit选择发布欢迎听众进入组合内心世界的艺术作品，这对于他们所创造的社群热情来说，是如此自然和合适。运用熟悉的格式，和意想不到的社群建立合作伙伴关系，并欣然接受新兴科技和音乐技术，他们已经制定出一种使听众令人惊讶而满意的方法，在满足我们21世纪窥探欲的同时，让人们的注意力转移到他们的技艺和衍生宇宙产物。这张专辑就算不是他们作为个人的灵魂地图，也必定能算作一张全球性音乐机器追随的地图。
+这也清晰地说明他们一直以来是如何释放压力的：通过分担责任。在专辑中，每个人都有闪光点。K-pop一直在与围绕爱豆机器的刻板印象和爱豆们创造的艺术价值作斗争，BTS不管发什么样合理又好听的作品，在商业上依旧能保证他们是世界最大的男团。但他们和BigHit选择发布欢迎听众进入组合内心世界的艺术作品，这对于他们所创造的社群热情来说，是如此自然和合适。运用熟悉的套路模式，和意想不到的社群建立合作伙伴关系，并欣然接受新兴科技和音乐技术，他们已经制定出一种使听众令人惊讶而满意的方法，在满足我们21世纪窥探欲的同时，让人们的注意力转移到他们的技艺和衍生宇宙产物。这张专辑就算不是他们作为个人的灵魂地图，也必定能算作一张全球性音乐机器追随的地图。
 
 [link](https://time.com/5788922/bts-map-of-the-soul-7-review/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=editorial&amp;utm_term=entertainment_music&amp;linkId=83012685) 
 
-<div class="video-container"><iframe src='https://players.brightcove.net/293884104/gh5LeNtQaQ_default/index.html?videoId=6026484343001' allowfullscreen frameborder=0></iframe></div>
+<div class="video-container"><iframe width="824" height="480" src="https://players.brightcove.net/293884104/gh5LeNtQaQ_default/index.html?videoId=6026484343001" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
