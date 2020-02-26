@@ -30,7 +30,7 @@ BTS从不惧怕从更远的地方获取旋律和乐器灵感。JIMIN的Filter在
 
 ## 一个经典男团的本质
 
-对于那些错过经典男团流行风的人来说，莫要担心：BTS发行了Inner Child，这首歌在即使放在早期One Direction的专辑中也不会觉得奇怪。他们的甜美的歌谣，比如不可否认充满甜美的“零时”带有流行trap节奏和光晕般的bridge部分，直击心脏，“Friends”、柾国的R&B Solo曲“My Tim”，“Jamais Vu”，以及催人泪下的终章“We are Bulletproof: the Eternal”，让人更清晰地理解到，“太多的痛苦，太多的哭泣，我们只有7人，但现在我们还拥有了你，”他们歌颂着，反思着他们作为7个个体在7年内一起成长的故事。这是个很好的概念，虽然很单纯。
+对于那些错过经典男团流行风的人来说，莫要担心：BTS发行了Inner Child，这首歌在即使放在早期One Direction的专辑中也不会觉得奇怪。他们的甜美的歌谣，比如不可否认充满甜美的“零时”带有流行trap节奏和光晕般的bridge部分，直击心脏，“Friends”、柾国的R&B Solo曲“My Time”，“Jamais Vu”，以及催人泪下的终章“We are Bulletproof: the Eternal”，让人更清晰地理解到，“太多的痛苦，太多的哭泣，我们只有7人，但现在我们还拥有了你，”他们歌颂着，反思着他们作为7个个体在7年内一起成长的故事。这是个很好的概念，虽然很单纯。
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi Mr. Gormley <a href="https://twitter.com/hashtag/CONNECT_BTS?src=hash&amp;ref_src=twsrc%5Etfw">#CONNECT_BTS</a> <a href="https://t.co/5vyY7hHtwD">pic.twitter.com/5vyY7hHtwD</a></p>&mdash; 방탄소년단 (@BTS_twt) <a href="https://twitter.com/BTS_twt/status/1230626716428587008?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
