@@ -3,7 +3,7 @@ layout: post
 title: "200221 Billboard & LA TIMES 专辑评论节选"
 date: 2020-02-21
 author: RaplineRoom
-tags: [bts, news, Billboard, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 新闻, 7, album review]
+tags: [BTS, News, Billboard, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 新闻, 7, Album Review]
 author: RaplineRoom
 comments: true
 toc: false
