@@ -76,7 +76,8 @@ p {
 }
 
 a {
-  color: $link-color;
+  //color: $link-color;
+  color:#999988;
   text-decoration: none;
   cursor: pointer;
   -webkit-transition: all 0.5s;
