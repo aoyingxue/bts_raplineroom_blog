@@ -31,7 +31,7 @@ toc: true
 - [Metacritic](https://www.metacritic.com/music/map-of-the-soul-7/bts)
 - [MTV NEWS](http://www.mtv.com/news/3157460/bts-map-of-the-soul-7-track-by-track-review/)
 - [NME](https://www.nme.com/reviews/bts-map-of-the-soul-7-album-review-on-2613123 ) ：[翻译](https://btsraplineroom.com/NME/) (4/5)
-- Pitchfork (trash review) (6.3/10)
+- Pitchfork (6.3/10)
 - [Refinery 29](https://www.refinery29.com/en-us/2020/02/9449254/bts-on-lyrics-meaning )
 - [The Ringer](https://www.theringer.com/music/2020/2/21/21147288/bts-map-of-the-soul-7-review-takeaways )
 - [Teen Vogue](https://www.teenvogue.com/story/bts-map-of-the-soul-7-hidden-references-easter-eggs?utm_source=twitter&utm_medium=social&utm_brand=tv&utm_social-type=owned&mbid=social_twitter) 
