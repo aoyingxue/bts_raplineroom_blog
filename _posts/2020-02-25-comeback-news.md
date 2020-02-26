@@ -53,7 +53,7 @@ toc: true
 
 - [Entertainment Weekly文字+视频采访](https://ew.com/music/2020/02/25/bts-a-to-z-video/?utm_content=link&utm_term=E2D690C8-5812-11EA-8822-E8EF4744363C&utm_source=twitter.com&utm_campaign=entertainmentweekly_ew&utm_medium=social)
 
-  <div class="video-container"><iframe src="//players.brightcove.net/219646971/default_default/index.html?videoId=6135835138001" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="video-container"><iframe width="996" height="560" src="https://www.youtube.com/embed/yRl4Q-0Oaik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - E! News
 
