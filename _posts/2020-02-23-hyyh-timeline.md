@@ -11,6 +11,7 @@ autoCollapseToc: true
 ---
 
 > 200223 更新Map of the Soul的notes内容，书的后半章暂缺
+>
 > 部分参考gerger1212和BOMHARU1230的翻译内容，感谢原作者的辛苦付出！
 
 ## 高中以前
