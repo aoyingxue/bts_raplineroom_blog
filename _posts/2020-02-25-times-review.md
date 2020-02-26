@@ -14,9 +14,9 @@ toc: true
 
 这张专辑的主题是他们处于巅峰的孤独感，来源于他们在飞速增长名气过程中积累的感受，但BTS的情感不仅仅于此，他们怀疑，他们遗憾，他们也会犹豫，在用音乐阐述人性的过程中，他们摆脱了最狭隘也最疏离的K-pop形象——即把爱豆是为光鲜亮丽而完美的表演者，流水线般生产着流行音乐——转而迎合当下流行乐的最大趋势：坦诚。
 
-为此，BTS和许多主流流行乐最知名的名字合作已经不令人惊讶了。他们与Halsey合作的榜单高位歌曲Boy With Luv也许是一首泡泡糖粉丝会欣赏的歌曲，但它也同时巩固了与流行乐中关于精神健康坦率表达之间的联系。由Ed Sheeran合作撰写的歌曲Make it Right，是一首甜美而充满感情的献给世界的情歌，却在韩语歌词中隐藏着一个关于陷入困境的暗黑故事。接着是一首和南非-澳洲的流行歌手Troye Sivan合作制作的新歌Louder than Bombs，黑暗而艰险的氛围，夹着男孩们的假声，这是一段令人难以忘怀的音乐融合作品。它也在安抚苦苦挣扎着的听众，“我想告诉你，黑暗无处不在，但不要轻易恐惧。”J-Hope唱道。
+为此，BTS和许多主流流行乐最知名的名字合作已经不令人惊讶了。他们与Halsey合作的榜单高位歌曲Boy With Luv也许是一首喜欢泡泡糖的人会欣赏的歌曲，但它也同时巩固了与流行乐中关于对精神健康进行坦率表达之间的联系。由Ed Sheeran合作撰写的歌曲Make it Right，是一首甜美而充满感情的献给世界的情歌，却在韩语歌词中隐藏着一个关于陷入困境的暗黑故事。接着是一首和南非-澳洲的流行歌手Troye Sivan合作制作的新歌Louder than Bombs，黑暗而艰险的氛围，夹着男孩们的假声，这是一段令人难以忘怀的音乐融合作品。它也在安抚苦苦挣扎着的听众，“我想告诉你，黑暗无处不在，但不要轻易恐惧。”J-Hope唱道。
 
-流行音乐中流砥柱Sia出现在最后新单曲ON的bonus混音版本里。以受福音影响的管风琴开场，节奏强劲的打击乐和军鼓合奏，这首歌已然非常宏大了，在令人振奋的副歌中充满撕裂般的气势，“Can’t hold me down ' cause you know I’m a fighter”可能是专辑中最令人印象深刻的歌词了。（同样令人深刻的还有mv，由军乐队伴奏合作的BTS舞蹈视频。）Sia虽然只以对比鲜明的嗓音出现在歌曲和声中，但仅仅是她的存在（据报道是组合自己和Sia协调的）就已经表明了他们的雄心：作为一支在榜首的流行歌手，无论唱的是什么语言，都应该被严肃对待的事实。
+流行音乐中流砥柱Sia出现在最后新单曲ON的bonus混音版本里。以受福音影响的管风琴开场，节奏强劲的打击乐和军鼓合奏，这首歌已然非常宏大了，在令人振奋的副歌中充满撕裂般的气势，“Can't hold me down cause you know I'm a fighter”可能是专辑中最令人印象深刻的歌词了。（同样令人深刻的还有mv，由军乐队伴奏合作的BTS舞蹈视频。）Sia虽然只以对比鲜明的嗓音出现在歌曲和声中，但仅仅是她的存在（据报道是组合自己和Sia协调的）就已经表明了他们的雄心：作为一支在榜首的流行歌手，无论唱的是什么语言，都应该被严肃对待的事实。
 
 ## 带有朋克摇滚色彩的希腊神话
 
@@ -30,7 +30,7 @@ BTS从不惧怕从更远的地方获取旋律和乐器灵感。JIMIN的Filter在
 
 ## 一个经典男团的本质
 
-对于那些错过经典男团流行风的人来说，莫要担心：BTS发行了Inner Child，这首歌在即使放在早期One Direction的专辑中也不会觉得奇怪。他们的甜美的歌谣，比如不可否认充满甜美的“零时”带有流行trap节奏和光晕般的bridge部分，直击心脏，“Friends”、柾国的R&B Solo曲“My Time”，“Jamais Vu”，以及催人泪下的终章“We are Bulletproof: the Eternal”，让人更清晰地理解到，“太多的痛苦，太多的哭泣，我们只有7人，但现在我们还拥有了你，”他们歌颂着，反思着他们作为7个个体在7年内一起成长的故事。这是个很好的概念，虽然很单纯。
+对于那些错过经典男团流行风的人来说，莫要担心：BTS发行了Inner Child，这首歌在即使放在早期One Direction的专辑中也不会觉得奇怪。他们甜美的歌谣，比如不可否认充满甜蜜的“00:00” 流行trap节奏和光晕般的bridge部分，直击心脏，还有“Friends”、柾国的R&B Solo曲“My Time”，“Jamais Vu”，以及催人泪下的终章“We are Bulletproof: the Eternal”，都让人更清晰地理解到，“太多的痛苦，太多的哭泣，我们只有7人，但现在我们还拥有了你。”他们歌颂着，反思着他们作为7个个体在7年内一起成长的故事。这是个很好的概念，虽然很单纯。
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi Mr. Gormley <a href="https://twitter.com/hashtag/CONNECT_BTS?src=hash&amp;ref_src=twsrc%5Etfw">#CONNECT_BTS</a> <a href="https://t.co/5vyY7hHtwD">pic.twitter.com/5vyY7hHtwD</a></p>&mdash; 방탄소년단 (@BTS_twt) <a href="https://twitter.com/BTS_twt/status/1230626716428587008?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
