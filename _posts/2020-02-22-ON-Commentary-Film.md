@@ -14,4 +14,5 @@ toc: false
 
 “音乐，从好的鼓点、律动、还有好的歌词，再到好的信息，条条大路通罗马，这就是为什么有这么多独具风格的艺术家们，用不同的方式进行创作。”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/npfs6afvIhk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/npfs6afvIhk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+

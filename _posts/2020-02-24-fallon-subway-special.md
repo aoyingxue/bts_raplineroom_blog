@@ -160,20 +160,21 @@ comments: true
 肥伦：你们会在表演前做什么惯例动作吗？能给我看看嘛？
 俊：想一起做吗？我们会说防弹防弹防防弹然后把手向下挥
 
-<iframe width="824" height="480" src="https://www.youtube.com/embed/v_9vgidPJ8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="824" height="480" src="https://www.youtube.com/embed/v_9vgidPJ8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
-<iframe width="824" height="480" src="https://www.youtube.com/embed/-ASZexdSdWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="824" height="480" src="https://www.youtube.com/embed/-ASZexdSdWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
-<iframe width="824" height="480" src="https://www.youtube.com/embed/w1wA22Sx0kE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="824" height="480" src="https://www.youtube.com/embed/w1wA22Sx0kE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
-<iframe width="824" height="480" src="https://www.youtube.com/embed/MZh-w2nysuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="824" height="480" src="https://www.youtube.com/embed/MZh-w2nysuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
-<iframe width="824" height="480" src="https://www.youtube.com/embed/GJbOfFdHGqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="824" height="480" src="https://www.youtube.com/embed/GJbOfFdHGqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+

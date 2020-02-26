@@ -78,4 +78,5 @@ Q: 新专里你们最喜欢的部分是什么？最令你们骄傲的部分是�
 
 🐤：我们有一首新歌叫We are Bulletproof: The Eternal，有一句歌词是“We were only seven with you”这样的，每次唱起那句，我就会起鸡皮疙瘩
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oHEjhDiG7ts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/oHEjhDiG7ts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
