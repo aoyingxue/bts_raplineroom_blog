@@ -53,7 +53,7 @@ toc: true
 
 - [Entertainment Weekly文字+视频采访](https://ew.com/music/2020/02/25/bts-a-to-z-video/?utm_content=link&utm_term=E2D690C8-5812-11EA-8822-E8EF4744363C&utm_source=twitter.com&utm_campaign=entertainmentweekly_ew&utm_medium=social)
 
-  <div class="video-container"><iframe src='//players.brightcove.net/219646971/default_default/index.html?videoId=6135835138001' allowfullscreen frameborder=0></iframe></div>
+  <div class="video-container"><iframe src="//players.brightcove.net/219646971/default_default/index.html?videoId=6135835138001" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - E! News
 
@@ -74,7 +74,7 @@ toc: true
 
   <div class="video-container"><iframe width="482" height="360" src="https://www.youtube.com/embed/U12Eu1T_jkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-- Today Show:https://www.youtube.com/watch?v=-LrJxTtnqMg&feature=youtu.be https://twitter.com/TODAYshow/status/1230854040059285506?s=20 https://twitter.com/TODAYshow/status/1230850798105616384 
+- [Today Show](https://www.youtube.com/watch?v=-LrJxTtnqMg&feature=youtu.be https://twitter.com/TODAYshow/status/1230854040059285506?s=20 https://twitter.com/TODAYshow/status/1230850798105616384 )
 
 - [Variety](https://www.youtube.com/watch?v=7fVQGcvgmEQ) [翻译](https://btsraplineroom.com/Variety/) 
 
@@ -88,9 +88,4 @@ toc: true
 - [Variety](https://variety.com/2020/music/news/bts-late-night-appearances-tonight-show-carpool-karaoke-colbert-watch-video-1203514872/) 
 - [Vogue](https://www.vogue.com/vogueworld/article/bts-jimmy-fallon-rick-owens-performance-looks?utm_social-type=owned&utm_brand=vogue&mbid=social_twitter&utm_medium=social&utm_source=twitter)
 - [Vogue UK](https://www.vogue.co.uk/arts-and-lifestyle/article/bts-album-map-of-the-soul?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1582670920)
-- Jimmy Fallon: [文字翻译](https://btsraplineroom.com/fallon-subway-special/)
-  - First Impressions: https://www.youtube.com/watch?v=v_9vgidPJ8g&t=10sFan 
-  - Questions: https://www.youtube.com/watch?v=jLLAt0eC-ykSubway 
-  - Olympics: https://www.youtube.com/watch?v=-ASZexdSdWEKatz: https://www.youtube.com/watch?v=w1wA22Sx0kEON 
-  - On Performance: https://www.youtube.com/watch?v=MZh-w2nysuIDance 
-  - Party ending: https://www.youtube.com/watch?v=GJbOfFdHGqA&t=5s
+- [Jimmy Fallon文字翻译和视频](https://btsraplineroom.com/fallon-subway-special/)  
