@@ -3,12 +3,12 @@ layout: post
 title: Map of The Soul:7 Comeback 新闻链接整理
 date: 2020-02-25
 author: RaplineRoom
-tags: [BTS, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 7, 资源]
+tags: [BTS, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 7, 资源, Links, News, Album Reviews]
 comments: true
 toc: false
 ---
 
-> Thanks to [modooborahae](https://twitter.com/modooborahae) . [Original link is here.](https://docs.google.com/document/d/1qJTg2sHR_AW42E0-RJkVbF2bcbg0KFuyZOBDXtV_ejo/edit) 
+> Thanks to [modooborahae](https://twitter.com/modooborahae) . [Original link is here.](https://docs.google.com/document/d/1qJTg2sHR_AW42E0-RJkVbF2bcbg0KFuyZOBDXtV_ejo/edit)  Updated on Feb. 25
 
 ## 专辑简介
 
@@ -34,6 +34,7 @@ toc: false
 - Pitchfork (trash review) (6.3/10)
 - [Refinery 29](https://www.refinery29.com/en-us/2020/02/9449254/bts-on-lyrics-meaning )
 - [The Ringer](https://www.theringer.com/music/2020/2/21/21147288/bts-map-of-the-soul-7-review-takeaways )
+- [Teen Vogue](https://www.teenvogue.com/story/bts-map-of-the-soul-7-hidden-references-easter-eggs?utm_source=twitter&utm_medium=social&utm_brand=tv&utm_social-type=owned&mbid=social_twitter) 
 - [Rolling Stone](https://www.rollingstone.com/music/music-album-reviews/bts-map-of-the-soul-7-2-957346/amp/?__twitter_impression=true ) (80/100)
 - [TIME](https://time.com/5788922/bts-map-of-the-soul-7-review/?amp=true&__twitter_impression=true )：[翻译](https://btsraplineroom.com/times-review/) 
 - [Variety](https://t.co/MhHjsviDvE?amp=1 ) ：[翻译](https://btsraplineroom.com/Variety/) 
