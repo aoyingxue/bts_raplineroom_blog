@@ -64,25 +64,13 @@ The website is mainly for recording all the translation of news and album review
 
 #### 2020/02/25 
 Issues about tags not redirected correctly solved.
+
 Issues about GitTalk Comments and OAuth solved. Http changed to Https.
 
 Responsive embedded video solved. Adding video-container into style.css . 
 
-```css
-.video-container {
-position: relative;
-padding-bottom: 56.25%;
-padding-top: 30px; height: 0; overflow: hidden;
-}
- 
-.video-container iframe,
-.video-container object,
-.video-container embed {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-}
-```
+#### 2020/02/27
 
+Add a responsive Calendar page and embed the calendar of BTS US ARMY. Thanks to their efforts. 
+
+Change GitTalk comment to disqus comment. 
