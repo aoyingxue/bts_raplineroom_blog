@@ -30,6 +30,8 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
+  - name: Calendar
+    url: /calendar
 
 # 每页的文章数
 paginate: 10
@@ -62,14 +64,14 @@ footer-text: >
 # 评论，注意，请不要同时添加多种不同的评论区
 
 # 输入Disqus shortname，即可添加评论区
-disqus: #shortname
+disqus: raplineroom #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
-gitalk: # changed from http to https; has to apply for a new oauth
-  clientID: 21d3d4c2e3068bf88a7d
-  clientSecret: 0d009a2bc313111696dc353ec218818827cf0bc2
-  repo: btsraplineroom_blog
-  owner: aoyingxue
+#gitalk: # changed from http to https; has to apply for a new oauth
+#  clientID: 21d3d4c2e3068bf88a7d
+#  clientSecret: 0d009a2bc313111696dc353ec218818827cf0bc2
+#  repo: btsraplineroom_blog
+#  owner: aoyingxue
 
 # 输入Google Analytics web tracking code
 google_analytics: UA-158973117-1
