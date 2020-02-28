@@ -20,7 +20,7 @@ BTS的新MV “ON”才发布几个小时，就已经打破了YouTube的记录�
 
 BTS的粉丝们也喜欢打破新纪录，本想要在*Kinetic Manifesto Film: Come Prima*首映上有所推进。今天大约五个小时的时间里，、#ONVIDEOPARTY 成为了全球最大的推特趋势，巅峰时期有150多万条推文。粉丝们聚集在一起，将这段新MV推向了一个非凡的高度，渴望在YouTube上创造一个新的首日记录。
 
-不过，在这一点上，BTS粉丝只会与自己竞争。*Boy with Luv*设置了一个令人生畏的标准，但根据早期指标，新的ON MV将与之竞争。
+不过，在这一点上，BTS粉丝只会与自己竞争。Boy with Luv设置了一个令人生畏的标准，但根据早期指标，新的ON MV将与之竞争。
 
 [原文链接](https://www.forbes.com/sites/bryanrolli/2020/02/27/btss-on-video-had-the-biggest-premiere-in-youtube-history/#5471b77c77ae) 
 
