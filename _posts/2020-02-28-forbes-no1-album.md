@@ -3,7 +3,7 @@ layout: post
 title: 200228 福布斯：BTS成为第一个在德国专辑榜上一位的亚洲艺人
 date: 2020-02-28
 author: RaplineRoom
-tags: [BTS, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 7, Forbes]
+tags: [BTS, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 7, Forbes, News]
 comments: true
 toc: false
 ---

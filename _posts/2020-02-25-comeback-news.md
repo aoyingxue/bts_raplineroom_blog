@@ -6,6 +6,8 @@ author: RaplineRoom
 tags: [BTS, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 7, 资源, Links, News, Album Reviews]
 comments: true
 toc: true
+pinned: true
+autoCollapseToc: true
 ---
 
 > Thanks to [modooborahae](https://twitter.com/modooborahae) . [Original link is here.](https://docs.google.com/document/d/1qJTg2sHR_AW42E0-RJkVbF2bcbg0KFuyZOBDXtV_ejo/edit)  Updated on Feb. 25
