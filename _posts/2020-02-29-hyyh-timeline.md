@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 花样年华宇宙图文时间线更新 (200229 更新至7)
+title: 花样年华宇宙图文时间线 (200229 更新至7)
 date: 2020-02-29
 Author: RaplineRoom
 tags: [BTS, HYYH, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 花样年华, love yourself, 7, timeline, notes, hyyh notes]
@@ -10,11 +10,7 @@ pinned: true
 autoCollapseToc: true
 ---
 
-> 200229 更新至Map of the Soul: 7的notes内容（书的后半章暂缺）。
->
-> 参考[gerger1212]([http://german1212.pixnet.net/blog/post/358890734-%e8%8a%b1%e6%a8%a3%e5%b9%b4%e8%8f%af-the-notes-1-4-%28mots-7%2c-%e9%a0%86%e6%99%82%e5%ba%8f%29-%5b%e6%96%87%e7%ab%a0%e7%bf%bb%e8%ad%af](http://german1212.pixnet.net/blog/post/358890734-花樣年華-the-notes-1-4-(mots-7%2c-順時序)-[文章翻譯)的翻译内容，感谢原作者的辛苦付出！
->
-> 暂时目录还不能滚动，bug待解决。
+> 200229 时间线整理更新至 Map of the Soul: 7的 notes 内容（书的后半章暂缺）。内容参考[gerger1212](http://german1212.pixnet.net/blog/post/358890734-%e8%8a%b1%e6%a8%a3%e5%b9%b4%e8%8f%af-the-notes-1-4-%28mots-7%2c-%e9%a0%86%e6%99%82%e5%ba%8f%29-%5b%e6%96%87%e7%ab%a0%e7%bf%bb%e8%ad%af)的翻译内容，感谢原作者的辛苦付出！暂时目录还不能滚动，bug待解决。由于不知道回溯结果以及回溯次数，所以主要按照回溯前的原时间线和回溯过程中的时间线为分类，欢迎微博和评论区留言讨论。
 
 ## 高中以前
 
