@@ -3,7 +3,7 @@ layout: post
 title: 200223 ET采访视频
 date: 2020-02-23
 Author: RaplineRoom
-tags: [BTS, News, Map of The Soul, RM, SUGA, JHOPE, JUNGKOOK, JIN, V, JIMIN, 金南俊, 闵玧其, 郑号锡, 金硕珍, 朴智旻, 金泰亨, 田柾国, 新闻, 7, Interviews, 采访]
+tags: [Map of The Soul:7, Interviews, 采访]
 comments: true
 toc: false
 ---
