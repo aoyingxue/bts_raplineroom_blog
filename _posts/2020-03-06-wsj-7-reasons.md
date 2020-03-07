@@ -1,6 +1,6 @@
 ---
 layout: post
-Title:200306 华尔街日报 “南韩BTS成为美国现象的七大原因”
+title:200306 华尔街日报 “南韩BTS成为美国现象的七大原因”
 date: 2020-02-10
 author: RaplineRoom
 tags: [News, 新闻, WSJ, 华尔街日报, Map of the Soul:7]
