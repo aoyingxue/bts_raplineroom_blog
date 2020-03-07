@@ -2,7 +2,7 @@
 layout: post
 title: 花样年华宇宙图文时间线 (200229 更新至7)
 date: 2020-02-29
-Author: RaplineRoom
+author: RaplineRoom
 tags: [HYYH, Love Yourself, Map of The Soul, 花样年华Notes, 时间线]
 comments: true
 toc: false
