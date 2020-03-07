@@ -1,11 +1,11 @@
 ---
 layout: post
 title:200306 华尔街日报 “南韩BTS成为美国现象的七大原因”
-date: 2020-02-10
+date: 2020-03-06
 author: RaplineRoom
 tags: [News, 新闻, WSJ, 华尔街日报, Map of the Soul:7]
 comments: true
-toc: true
+toc: false
 ---
 
 对于南韩男团BTS而言，其庞大而反主流的流行专辑Map of the Soul:7的成功，标志着这支崛起的K-Pop乐队正在巩固其在美国文化中的地位。

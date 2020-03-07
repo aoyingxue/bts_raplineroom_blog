@@ -7,7 +7,6 @@ tags: [Map of The Soul:7, 资源, 新闻, 专辑评价, Links, News, Album Revie
 comments: true
 toc: true
 pinned: true
-autoCollapseToc: true
 ---
 
 > Thanks to [modooborahae](https://twitter.com/modooborahae) . [Original link is here.](https://docs.google.com/document/d/1qJTg2sHR_AW42E0-RJkVbF2bcbg0KFuyZOBDXtV_ejo/edit)  Updated on Feb. 25
