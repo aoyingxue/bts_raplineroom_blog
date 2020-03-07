@@ -5,7 +5,7 @@ date: 2020-02-25
 author: RaplineRoom
 tags: [Map of The Soul:7, 资源, 新闻, 专辑评价, Links, News, Album Reviews]
 comments: true
-toc: true
+toc: false
 pinned: true
 ---
 

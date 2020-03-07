@@ -6,12 +6,9 @@ author: RaplineRoom
 tags: [Map of The Soul:7, Interviews, 采访]
 comments: true
 toc: false
-author: RaplineRoom
 ---
 
- 
-
-（小其老师喝了口星爸爸美式）
+ （小其老师喝了口星爸爸美式）
 
 Q: 成员们最喜欢的7中的歌词？
 
