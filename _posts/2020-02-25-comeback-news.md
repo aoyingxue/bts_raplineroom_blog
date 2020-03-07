@@ -90,3 +90,4 @@ pinned: true
 - [Vogue](https://www.vogue.com/vogueworld/article/bts-jimmy-fallon-rick-owens-performance-looks?utm_social-type=owned&utm_brand=vogue&mbid=social_twitter&utm_medium=social&utm_source=twitter)
 - [Vogue UK](https://www.vogue.co.uk/arts-and-lifestyle/article/bts-album-map-of-the-soul?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1582670920)
 - [Jimmy Fallon文字翻译和视频](https://btsraplineroom.com/fallon-subway-special/)  
+- [WSJ 7个原因](https://www.wsj.com/articles/seven-reasons-why-south-koreas-bts-is-an-american-phenomenon-11583505183?reflink=share_mobilewebshare) 
