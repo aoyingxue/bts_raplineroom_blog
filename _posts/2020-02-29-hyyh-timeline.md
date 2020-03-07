@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 花样年华宇宙图文时间线 (200229 更新至7)
+title: "花样年华宇宙图文时间线 (200229 更新至7)"
 date: 2020-02-29
 author: RaplineRoom
 tags: [HYYH, Love Yourself, Map of The Soul, 花样年华Notes, 时间线]
@@ -9,8 +9,6 @@ toc: false
 pinned: true
 ---
 
-> 
->
 > 200229 时间线整理更新至 Map of the Soul: 7的 notes 内容（书的后半章暂缺）。暂时目录还不能滚动，bug待解决。
 >
 > 由于不知道回溯结果以及回溯次数，所以主要按照回溯前的原时间线和回溯过程中的时间线为分类，欢迎微博和评论区留言讨论。
