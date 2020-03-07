@@ -3,7 +3,7 @@ layout: post
 title: 200227 英国大都市报Metro：BTS粉丝在ON MV中看到柾国被乌鸦啄食而受惊
 date: 2020-02-27
 author: RaplineRoom
-tags: [Map of The Soul:7, Metro, News, 新闻]
+tags: [Map of The Soul 7, Metro, News, 新闻]
 comments: true
 toc: false
 ---

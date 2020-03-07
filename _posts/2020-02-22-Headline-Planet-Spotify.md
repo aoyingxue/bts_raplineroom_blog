@@ -3,7 +3,7 @@ layout: post
 title: 200222 HEADLINE PLANET "Spotify榜单首日成绩"
 date: 2020-02-21
 Author: RaplineRoom
-tags: [News, Map of The Soul:7, 新闻, 成绩]
+tags: [News, Map of The Soul 7, 新闻, 成绩]
 comments: true
 toc: false
 ---

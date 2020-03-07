@@ -3,7 +3,7 @@ layout: post
 title: 200222 ON Commentary Film
 date: 2020-02-21
 Author: RaplineRoom
-tags: [Map of The Soul:7, Interviews, 采访]
+tags: [Map of The Soul 7, Interviews, 采访]
 comments: true
 toc: false
 ---

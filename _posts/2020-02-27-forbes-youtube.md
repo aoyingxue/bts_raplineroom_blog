@@ -3,7 +3,7 @@ layout: post
 title: 200227 福布斯：BTS ON视频成为YouTube历史上规模最大的首播视频
 date: 2020-02-27
 author: RaplineRoom
-tags: [Map of The Soul:7, Forbes, News, 新闻]
+tags: [Map of The Soul 7, Forbes, News, 新闻]
 comments: true
 toc: false
 ---
