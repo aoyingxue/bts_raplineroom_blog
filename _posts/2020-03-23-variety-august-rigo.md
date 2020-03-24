@@ -52,3 +52,4 @@ toc: false
 
 ……（Rigo生活方面的讨论在此省略）
 
+[原文链接](https://variety.com/2020/music/news/bts-songwriter-august-rigo-interview-black-swan-on-map-of-soul-7-1203541618/) 
