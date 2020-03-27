@@ -39,7 +39,7 @@ SM下的嘻哈厂牌Million Market成员，写作GXXD / GirlNexxtDoor读作Girl 
 
 H1GHR旗下双人制作组合，94line，朴社长御用专辑制作人，标志词“Groovy Everywhere”，除了朴社长之外还和Dok2、Younha、Dynamic Duo还有高等Rapper的合作。前两年还在采访中谈到闵其有和他们交流聊天过。
 
-![GroovyRoom (https://tva1.sinaimg.cn/large/00831rSTgy1gd983s3fnoj30ru0pse81.jpg) Lyrics, Music, News and Biography | MetroLyrics](https://lastfm.freetls.fastly.net/i/u/arO/7c05b13dec861e2338f9865c2de6fbcc)
+![](https://lastfm.freetls.fastly.net/i/u/arO/7c05b13dec861e2338f9865c2de6fbcc)
 
 ## Cha Cha Malone
 
@@ -75,13 +75,13 @@ A社的另一位硬核嘻哈beatmaker，和前社长赛萌帝基本合作了“�
 
 91年生洪时英，快乐源泉吉利宝，14年参加给我钱3，后被Swings邀请入社JM，并学习社长狂吃不止越来越胖（手动狗头），18和19年两年担任给我钱评委，常在自己制作的歌曲开头加入一句标志性的“G~R~Boy~”。
 
-![Giriboy Photos (https://tva1.sinaimg.cn/large/00831rSTgy1gd9a9kgy8jj30le0qg0u7.jpg) | Last.fm](https://lastfm.freetls.fastly.net/i/u/770x0/4f74fcf45e0f3182d344bb20280de37b.jpg)
+![](https://lastfm.freetls.fastly.net/i/u/770x0/4f74fcf45e0f3182d344bb20280de37b.jpg)
 
 ## BOYCOLD
 
 95年生Sony旗下小帅哥，小学就会beatbox，高中成立了嘻哈组织并开始制作音乐和rap，后来因为觉得自己的rap能力不如制作能力就专心转为幕后了，因为和BewhY是大学校友于是认识了他并与他进行合作，后来和赵东林一起参加了给我钱8的制作人行列。歌曲开头会插入标志性的“Hey boy, it's cold.”
 
-![BOYCOLD music, videos, stats, and photos | Last.fm](https://tva1.sinaimg.cn/large/00831rSTgy1gd9a4rgf72j30u011l117.jpg)
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gd9a4rgf72j30u011l117.jpg)
 
 ## Others
 
@@ -99,4 +99,4 @@ A社的另一位硬核嘻哈beatmaker，和前社长赛萌帝基本合作了“�
 
 6. SLO：“SLO야 그거 틀어봐”
 
-还有想安利的制作人，欢迎在评论讨论～
+大家若有想安利的制作人，欢迎在评论讨论～
