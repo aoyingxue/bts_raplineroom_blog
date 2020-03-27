@@ -13,7 +13,7 @@ toc: false
 
 ## GRAY
 
-AOMG最有才华的beatmaker制作人之一，1986年生李星和，人称“山花”，长了一张堪比南柱赫的脸却要靠才华吃饭，合作范围已远达泰国偶像女星，神曲无数。重点是真的帅（矮）。参与的歌曲中常会出现的那句标志性“Gray~”的ASMR是Zion T录的。
+AOMG最有才华的beatmaker制作人之一，1986年生李星和，人称“山花”，长了一张堪比南柱赫的脸却要靠才华吃饭，合作范围已远达泰国偶像女星，神曲无数。重点是真的帅（虽然不高）。参与的歌曲中常会出现的那句标志性“Gray~”的ASMR是Zion T录的。
 
 <img src="https://tva1.sinaimg.cn/large/00831rSTgy1gd979p0pq1j30u011iaef.jpg" alt="10 Rappers Who Are Not Only Extremely Talented, But Also Extremely ..." style="zoom:50%;" />
 
