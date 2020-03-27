@@ -27,7 +27,7 @@ AOMG最有才华的beatmaker制作人之一，1986年生李星和，人称“山
 
 不漏叔的HIGHGRND旗下艺人，Fanxy Child成员之一，93年生全胜贤，米粒也是LA党，不仅会写歌还会设计封面，Crush的Oasis音乐和封面设计都是他操刀的。
 
-![Millic | Cool kidz, Rappers, Boy squad](https://tva1.sinaimg.cn/large/00831rSTgy1gd97o6zwv5j30pg0xc7cj.jpg)
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gd97o6zwv5j30pg0xc7cj.jpg)
 
 ## GXXD
 
