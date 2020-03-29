@@ -1,15 +1,13 @@
 ---
 layout: post
-title: 200327 南韩嘻哈R&B Beat-makers 制作人（不负责不完全）安利
+title: 200327 南韩嘻哈R&B Beat-makers 制作人（不完全）安利
 date: 2020-03-27
 author: RaplineRoom
 tags: [安利]
 toc: false
 ---
 
-<iframe src="https://open.spotify.com/embed/playlist/1wTNBoL3Ygx3cvqQADxhwV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-> P.S: 除了Others之外，按顺序每人放了四首代表作在歌单中。
+<iframe src="https://open.spotify.com/embed/playlist/1wTNBoL3Ygx3cvqQADxhwV" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## GRAY
 
@@ -21,7 +19,7 @@ AOMG最有才华的beatmaker制作人之一，1986年生李星和，人称“山
 
 92年生权革，艺名来源自James Dean，Dean+Influenza，曾以Deanfluenza的艺名/匿名在幕后制作了多年的kpop（包括某蛋），一个不喜欢露脸、不喜欢露身体、明明唱歌贼好听却要走幕后的帅哥，沉淀多年在LA个人出道，出道曲是和格莱美获奖词曲作家Eric Bellinger合作的I'm Not Sorry，后成为Fanxy Child成员(ZICO / Crush / Dean / Penomeco / Millic /Stay Tuned...)之一，常见语录“different R&B”。
 
-<img src="https://tva1.sinaimg.cn/large/00831rSTgy1gd97gcsucrj318y0u0axq.jpg" alt="Dean韩国活动时期" style="zoom:50%;" />
+<img src="/Users/aoyingxue/Desktop/dean.png" alt="Dean韩国活动时期" style="zoom:50%;" />
 
 ## millic
 
@@ -39,13 +37,13 @@ SM下的嘻哈厂牌Million Market成员，写作GXXD / GirlNexxtDoor读作Girl 
 
 H1GHR旗下双人制作组合，94line，朴社长御用专辑制作人，标志词“Groovy Everywhere”，除了朴社长之外还和Dok2、Younha、Dynamic Duo还有高等Rapper的合作。前两年还在采访中谈到闵其有和他们交流聊天过。
 
-<img src="https://lastfm.freetls.fastly.net/i/u/arO/7c05b13dec861e2338f9865c2de6fbcc" style="zoom:50%;" />
+<img src="/Users/aoyingxue/Desktop/7c05b13dec861e2338f9865c2de6fbcc.png" style="zoom:50%;" />
 
 ## Cha Cha Malone
 
 另外一位朴社长和AOMG的御用制作人，凡是AOMG的大火艺人大多都和他合作过。87年生的他原名Chase Vincent Malone，是个土生土长的西雅图黑人歌手兼制作人，加入AOMG和H1GHR是因为朴社长和他同为Art of Movement bboy团队相知相识就引荐进自己公司了。标志词“I need a cha cha beat boy”。（郑帝元的出道曲也是他帮忙编曲的）
 
-<img src="https://tva1.sinaimg.cn/large/00831rSTgy1gd98gevipmj30yi0pqwit.jpg" alt="Hiphop Korea — Jay Park &amp; Cha Cha Malone with CHARLI XCX. Could..." style="zoom:50%;" />
+<img src="/Users/aoyingxue/Desktop/00831rSTgy1gd98gevipmj30yi0pqwit.png" alt="Hiphop Korea — Jay Park &amp; Cha Cha Malone with CHARLI XCX. Could..." style="zoom:50%;" />
 
 ## Code Kunst 
 
