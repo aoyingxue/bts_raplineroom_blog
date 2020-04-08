@@ -7,7 +7,7 @@ tags: [安利]
 toc: false
 ---
 
-<iframe src="https://open.spotify.com/embed/playlist/1wTNBoL3Ygx3cvqQADxhwV" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<div class="video-container"><iframe src="https://open.spotify.com/embed/playlist/1wTNBoL3Ygx3cvqQADxhwV" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
 
 ## GRAY
 
