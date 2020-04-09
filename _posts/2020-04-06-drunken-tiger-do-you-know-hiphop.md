@@ -19,3 +19,4 @@ Swings E7 29分左右:
 
 <div class="video-container"><iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=33897713&bvid=BV14t411Z7iq&cid=59359391&page=7" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>
 
+*All rights reserved.* 
