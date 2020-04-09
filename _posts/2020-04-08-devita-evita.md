@@ -3,7 +3,7 @@ layout: post
 title: 200408 FADER "DeVita已经在她的 Evita! 新MV中展现了她为未来而制作的歌曲”
 date: 2020-04-08
 author: RaplineRoom
-tags: [字幕, 视频]
+tags: [嘻哈, 字幕, 视频]
 comments: true
 toc: false
 ---
