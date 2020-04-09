@@ -7,6 +7,8 @@ tags: [嘻哈, 安利]
 toc: false
 ---
 
+南韩嘻哈R&B Beat-makers 制作人（不完全）安利
+
 <div class="video-container"><iframe src="https://open.spotify.com/embed/playlist/1wTNBoL3Ygx3cvqQADxhwV" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
 
 ## GRAY
