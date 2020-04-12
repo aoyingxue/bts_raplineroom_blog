@@ -14,9 +14,9 @@ toc: false
 
 咋一个公益向的mv走向这么搞笑 真是辛苦外援吉利boy憋笑了
 
+原视频请关注AOMGOFFICIAL官方油管频道～
+
 （歌词：油管AOMGOFFICIAL / 压制：拉普房）
-
-
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/NDgenGeqSeI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
