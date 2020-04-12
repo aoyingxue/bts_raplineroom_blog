@@ -7,9 +7,7 @@ tags: [嘻哈, 安利]
 toc: false
 ---
 
-南韩嘻哈R&B Beat-makers 制作人（不完全）安利
-
-<div class="video-container"><iframe src="https://open.spotify.com/embed/playlist/1wTNBoL3Ygx3cvqQADxhwV" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
+歌单列表见最后 https://open.spotify.com/playlist/1wTNBoL3Ygx3cvqQADxhwV?si=y4TFJBZAQDuTd9n6EFyTPA
 
 ## GRAY
 
@@ -39,13 +37,13 @@ SM下的嘻哈厂牌Million Market成员，写作GXXD / GirlNexxtDoor读作Girl 
 
 H1GHR旗下双人制作组合，94line，朴社长御用专辑制作人，标志词“Groovy Everywhere”，除了朴社长之外还和Dok2、Younha、Dynamic Duo还有高等Rapper的合作。前两年还在采访中谈到闵其有和他们交流聊天过。
 
-<img src="/Users/aoyingxue/Desktop/7c05b13dec861e2338f9865c2de6fbcc.png" style="zoom:50%;" />
+![7c05b13dec861e2338f9865c2de6fbcc](https://tva1.sinaimg.cn/large/007S8ZIlgy1gdretk8sg4j30ru0pse81.jpg)
 
 ## Cha Cha Malone
 
 另外一位朴社长和AOMG的御用制作人，凡是AOMG的大火艺人大多都和他合作过。87年生的他原名Chase Vincent Malone，是个土生土长的西雅图黑人歌手兼制作人，加入AOMG和H1GHR是因为朴社长和他同为Art of Movement bboy团队相知相识就引荐进自己公司了。标志词“I need a cha cha beat boy”。（郑帝元的出道曲也是他帮忙编曲的）
 
-<img src="/Users/aoyingxue/Desktop/00831rSTgy1gd98gevipmj30yi0pqwit.png" alt="Hiphop Korea — Jay Park &amp; Cha Cha Malone with CHARLI XCX. Could..." style="zoom:50%;" />
+![00831rSTgy1gd98gevipmj30yi0pqwit](https://tva1.sinaimg.cn/large/007S8ZIlgy1gdretdr292j30yi0pqgpy.jpg)
 
 ## Code Kunst 
 
@@ -100,3 +98,5 @@ A社的另一位硬核嘻哈beatmaker，和前社长赛萌帝基本合作了“�
 6. SLO：“SLO야 그거 틀어봐”
 
 大家若有想安利的制作人，欢迎在评论讨论～
+
+<div class="video-container"><iframe src="https://open.spotify.com/embed/playlist/1wTNBoL3Ygx3cvqQADxhwV" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
