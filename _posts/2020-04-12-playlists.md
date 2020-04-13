@@ -28,19 +28,19 @@ toc: false
 
 ❐ R&B 慢节奏催眠曲：[ ˈlʌləbaɪ ] [Spotify链接](http://t.cn/A6wqD8Ij)
 
-❐ Zico的KOZ社艺人制作全辑：Label | KOZ (prod. ZICO/Dvwn) [Spotify链接](http://t.cn/A6wqD8IK)
+❐ Zico的KOZ社艺人制作全辑：Label \| KOZ (prod. ZICO/Dvwn) [Spotify链接](http://t.cn/A6wqD8IK)
 
-❐ Dean/Crush/Zico等人的嘻哈crew：Crew | FanxyChild / ClubEskimo [Spotify链接](http://t.cn/A6wqD8Ip)
+❐ Dean/Crush/Zico等人的嘻哈crew：Crew \| FanxyChild / ClubEskimo [Spotify链接](http://t.cn/A6wqD8Ip)
 
-❐ A社和厂牌全辑：Label | AOMG / H1GHR [Spotify链接](http://t.cn/A6wqD8Il)
+❐ A社和厂牌全辑：Label \| AOMG / H1GHR [Spotify链接](http://t.cn/A6wqD8Il)
 
-❐ Giriboy的嘻哈crew - 宇宙飞行：Crew | WYBH 우주비행 [Spotify链接](http://t.cn/A6wqD8I9)
+❐ Giriboy的嘻哈crew - 宇宙飞行：Crew \| WYBH 우주비행 [Spotify链接](http://t.cn/A6wqD8I9)
 
-❐ 以nafla为代表的造雨社：Label | MKIT RAIN [Spotify链接](http://t.cn/A6wqD8I0)
+❐ 以nafla为代表的造雨社：Label \| MKIT RAIN [Spotify链接](http://t.cn/A6wqD8I0)
 
 ❐ 以部分造雨社成员为代表的42 crew：[Spotify链接](http://t.cn/A6wqD8IN) 
 
-❐ 成员曾为大黑练习生/制作人的厂牌PLT：Label | PLT (Planetarium Records) [Spotify链接](http://t.cn/A6wqD8IS)
+❐ 成员曾为大黑练习生/制作人的厂牌PLT：Label \| PLT (Planetarium Records) [Spotify链接](http://t.cn/A6wqD8IS)
 
 ❐ 给黑子的嘻哈diss曲：[Spotify链接](http://t.cn/A6wqD8IC) 
 
