@@ -4,9 +4,9 @@ title: 200412 近期总结向Spotify歌单汇总
 date: 2020-04-12
 author: RaplineRoom
 tags: [歌单, 安利]
-toc: false
-comments:true
 ---
+
+
 
 汇总一下近期总结向Spotify歌单～
 
@@ -14,7 +14,7 @@ comments:true
 
 包括防弹相关、南韩黒泡相关、R&B相关、还有一些主题向的歌单，其中一些歌单已经养了好一段时间了，都是我比较常听的歌曲～
 
-缺歌的可以看看，想安利的也欢迎来协作歌单里安利我！
+
 
 |               歌单名称               |                链接                 |                             简介                             |
 | :----------------------------------: | :---------------------------------: | :----------------------------------------------------------: |
@@ -35,5 +35,7 @@ comments:true
 |              Crew \| 42              | [Spotify链接](http://t.cn/A6wqD8IN) |               以部分造雨社成员为代表的42 crew                |
 |  Label \| PLT (Planetarium Records)  | [Spotify链接](http://t.cn/A6wqD8IS) |              成员曾为大黑练习生/制作人的厂牌PLT              |
 |              for haters              | [Spotify链接](http://t.cn/A6wqD8IC) |                      给黑子的嘻哈diss曲                      |
+
+缺歌的可以看看，想安利的也欢迎来协作歌单里安利我！
 
 *To be continued...* 
