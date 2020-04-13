@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 200323 Variety 和BTS合作大卖歌曲是什么感觉？‘这是具有历史性的，’合作者August Rigo评价说到。
+title: 200323 Variety:和 BTS合作大卖歌曲是什么感觉？‘这是具有历史性的，’合作者August Rigo评价说到。
 date: 2020-03-23
 author: RaplineRoom
 tags: [Variety, Map of the Soul 7, Interviews, 采访]
