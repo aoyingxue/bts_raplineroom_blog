@@ -98,6 +98,8 @@ A社的另一位硬核嘻哈beatmaker，和前社长赛萌帝基本合作了“�
 
 6. SLO：“SLO야 그거 틀어봐”
 
-大家若有想安利的制作人，欢迎在评论讨论～
+
 
 <div class="video-container"><iframe src="https://open.spotify.com/embed/playlist/1wTNBoL3Ygx3cvqQADxhwV" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
+
+大家若有想安利的制作人，欢迎在评论讨论～

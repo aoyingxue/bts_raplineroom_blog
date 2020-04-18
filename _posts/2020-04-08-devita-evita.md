@@ -16,4 +16,6 @@ toc: false
 
 <div class='video-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/i66mvf1bh8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+（歌词：油管AOMGOFFICIAL / 压制：拉普房）
+
 *All rights reserved.* 

@@ -27,5 +27,7 @@ J-Hope问Issac剪掉这么多叶子会不会很伤心，当 Issac 回答道“�
 
 ![img](https://tva1.sinaimg.cn/large/007S8ZIlgy1gdrebfeeizj31o30u0x1k.jpg)
 
-原文：[网页链接](http://t.cn/A6w4Yr5w) 
+[网页链接](http://t.cn/A6w4Yr5w) ⬅️ 原文网址
+
+
 
