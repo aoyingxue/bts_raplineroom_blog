@@ -6,6 +6,7 @@ author: RaplineRoom
 tags: [嘻哈, 字幕, 视频]
 comments: true
 toc: false
+
 ---
 
 
@@ -16,5 +17,5 @@ toc: false
 
 对美国嘻哈街头文化感兴趣的朋友可以蹲守网飞了解一下！
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/ouYQUkL7Ttc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="560" height="400" src="https://www.youtube.com/embed/ouYQUkL7Ttc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
