@@ -3,7 +3,7 @@ layout: post
 title: 200407 Korea Now: 韩国文化部长关于BTS的部分采访【中字】
 date: 2020-04-07
 author: RaplineRoom
-tags: [Interviews, 采访, 字幕, 视频]
+tags: [Interviews]
 comments: true
 toc: false
 ---
