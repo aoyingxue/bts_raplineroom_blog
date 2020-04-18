@@ -4,8 +4,6 @@ title: 200406 Drunken Tiger (드렁큰타이거) - Do You Know Hip Hop (너희�
 date: 2020-04-06
 author: RaplineRoom
 tags: [嘻哈, 字幕, 视频]
-comments: true
-toc: false
 ---
 
 “爱嘻哈的话就一起沉醉吧”
