@@ -77,7 +77,7 @@ disqus: raplineroom #shortname
 google_analytics: UA-158973117-1
 
 # 输入Google AdSense code
-google_ad_client: ca-pub-5133541748054290
+data-ad-client: ca-pub-5133541748054290
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: btsraplineroom.com
