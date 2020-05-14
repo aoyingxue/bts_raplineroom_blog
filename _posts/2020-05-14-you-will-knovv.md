@@ -72,3 +72,5 @@ PS: Some tour promo photos:
 （由于官方资料较少 大多以我的了解编写的 若有错误的地方请指正）
 
 Spotify 歌单：[链接](https://open.spotify.com/playlist/55RgUszKnHyM3qkG2rnkdO?si=Gp8F_Wc6QuqeP1Eo4Tzh4A)
+
+<iframe src="https://open.spotify.com/embed/playlist/55RgUszKnHyM3qkG2rnkdO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
