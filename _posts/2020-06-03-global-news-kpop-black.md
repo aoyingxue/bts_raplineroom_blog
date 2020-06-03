@@ -8,7 +8,9 @@ comments: true
 toc: false
 ---
 
-“世界需要多一点防弹，少一点操蛋”——原文记者Josh K. Elliott
+> **“世界需要多一点防弹，少一点操蛋”**
+>
+> ——原文记者Josh K. Elliott 
 
 “White Lives Matter”、“Blue Lives Matter”这样的话题经常被用来批判Black Lives Matter运动，而今天这些话题却被看起来毫无关系的K-pop视频和动图所淹没。
 
