@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 200607 Dear Class of 2020 奥巴马完整毕业致辞英文稿（听译）
+title: 200607 Dear Class of 2020 奥巴马完整毕业致辞英文稿
 date: 2020-06-07
 author: RaplineRoom
 tags: [News, 新闻]
