@@ -38,7 +38,7 @@ Include Posters in JK's room, VHS Cassettes on the floor and Vinyls in the LP st
 
 ---
 
-### Queen - Poster (Brazil, 1981" style="zoom:50%;" />
+### Queen - Poster (Brazil, 1981)
 
 <img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%203.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%203.png" style="zoom:50%;" />
 
@@ -158,7 +158,7 @@ Also chosen as the album cover of "On Air - Live at the BBC Volume 2".
 
 - Ocean's Eleven
 - The Pledge
-- Hold Your Man (1933" style="zoom:50%;" />
+- Hold Your Man (1933)
 - ...
 
 <img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2011.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2011.png" style="zoom:50%;" />
@@ -205,7 +205,7 @@ Genre‎: ‎Hard rock‎, ‎new wave
 
 ---
 
-### The B-52's, 1979 (debut album" style="zoom:50%;" />
+### The B-52's, 1979 (debut album)
 
 Genre‎: ‎New wave
 
@@ -215,7 +215,7 @@ Genre‎: ‎New wave
 
 ---
 
-### Rock 'N Roller Disco (1979, Vinyl" style="zoom:50%;" />
+### Rock 'N Roller Disco (1979, Vinyl)
 
 <img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2022.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2022.png" style="zoom:50%;" />
 
@@ -249,7 +249,7 @@ Genre‎: ‎New wave
 
 ---
 
-### Wham! - Fantastic (album, 1983" style="zoom:50%;" />
+### Wham! - Fantastic (album, 1983)
 
 <img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2030.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2030.png" style="zoom:50%;" />
 
@@ -265,7 +265,7 @@ Genre‎: ‎New wave
 
 ---
 
-### Boyz II Men - Cooleyhighharmony (1992, Vinyl" style="zoom:50%;" />
+### Boyz II Men - Cooleyhighharmony (1992, Vinyl)
 
 <img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2034.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2034.png" style="zoom:50%;" />
 
@@ -273,7 +273,7 @@ Genre‎: ‎New wave
 
 ---
 
-### Kinks - Kinks (album, 1998" style="zoom:50%;" />
+### Kinks - Kinks (album, 1998)
 
 <img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2036.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2036.png" style="zoom:50%;" />
 
@@ -297,7 +297,7 @@ Genre‎: ‎New wave
 
 ---
 
-### John Kiley - Gigantic Pipe Organ (Vinyl" style="zoom:50%;" />
+### John Kiley - Gigantic Pipe Organ (Vinyl)
 
 <img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2042.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2042.png" style="zoom:50%;" />
 
@@ -305,7 +305,7 @@ Genre‎: ‎New wave
 
 ---
 
-### Elvis Presley - Elvis Gold 30 Vol.2 (1973, Vinyl" style="zoom:50%;" />
+### Elvis Presley - Elvis Gold 30 Vol.2 (1973, Vinyl)
 
 <img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2044.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2044.png" style="zoom:50%;" />
 
@@ -313,7 +313,7 @@ Genre‎: ‎New wave
 
 ---
 
-### The Bee Gees - Saturday Night Fever (Soundtrack, 1977" style="zoom:50%;" />
+### The Bee Gees - Saturday Night Fever (Soundtrack, 1977)
 
 <img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2046.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2046.png" style="zoom:50%;" />
 
