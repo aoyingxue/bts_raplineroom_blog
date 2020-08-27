@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  References in Dynamite MV (Dynamite MV中的经典流行文化引用)
+title:  References in Dynamite MV (Dynamite MV中的经典流行文化引用" style="zoom:50%;" />
 date: 2020-08-26
 author: RaplineRoom
 tags: [BTS, 安利]
@@ -16,67 +16,67 @@ Include Posters in JK's room, VHS Cassettes on the floor and Vinyls in the LP st
 
 ### The Beatles - Abbey Road, 1969
 
-![/images/2020-08-26-References-in-Dynamite-MV/beatles1.png](/images/2020-08-26-References-in-Dynamite-MV/beatles1.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/beatles1.png" alt="/images/2020-08-26-References-in-Dynamite-MV/beatles1.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled.png" style="zoom:50%;" />
 
 ---
 
 ### AC/DC - Album Covers - Official Poster
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%201.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%201.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%201.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%201.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki4xqzdj20go0p10vo.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki4xqzdj20go0p10vo.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki4xqzdj20go0p10vo.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki4xqzdj20go0p10vo.jpg" style="zoom:50%;" />
 
 ---
 
 ### The Terminator, 1984
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%202.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%202.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%202.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%202.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki68krej20il0rtmzx.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki68krej20il0rtmzx.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki68krej20il0rtmzx.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki68krej20il0rtmzx.jpg" style="zoom:50%;" />
 
 ---
 
-### Queen - Poster (Brazil, 1981)
+### Queen - Poster (Brazil, 1981" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%203.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%203.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%203.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%203.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%204.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%204.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%204.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%204.png" style="zoom:50%;" />
 
 ---
 
 ### David Bowie - Aladdin Sane, 1973
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%205.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%205.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%205.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%205.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki8xpgrj20nq0zkk4l.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki8xpgrj20nq0zkk4l.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki8xpgrj20nq0zkk4l.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4ki8xpgrj20nq0zkk4l.jpg" style="zoom:50%;" />
 
 ---
 
 ### David Bowie - Aladdin Sane Collage Poster
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%206.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%206.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%206.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%206.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiadkz0j20fn0rswht.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiadkz0j20fn0rswht.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiadkz0j20fn0rswht.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiadkz0j20fn0rswht.jpg" style="zoom:50%;" />
 
 ---
 
 ### David Bowie - Playing 'Soul Train' on ABCs, Nov. 4th 1975
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%207.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%207.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%207.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%207.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kicpdgwj20u014r78u.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kicpdgwj20u014r78u.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kicpdgwj20u014r78u.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kicpdgwj20u014r78u.jpg" style="zoom:50%;" />
 
 ---
 
 ### David Bowie, Lyon, Palais des Sports, May 24 1983
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kidz8l1j20by0kuab4.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kidz8l1j20by0kuab4.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kidz8l1j20by0kuab4.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kidz8l1j20by0kuab4.jpg" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%208.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%208.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%208.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%208.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/david_bowie.png](/images/2020-08-26-References-in-Dynamite-MV/david_bowie.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/david_bowie.png" alt="/images/2020-08-26-References-in-Dynamite-MV/david_bowie.png" style="zoom:50%;" />
 
 ---
 
@@ -84,43 +84,43 @@ Include Posters in JK's room, VHS Cassettes on the floor and Vinyls in the LP st
 
 Interview and photo session for 'Music Life' magazine, on the band's Hot Space Japan tour at a hotel in Fukuoka, Japan, 
 
-![/images/2020-08-26-References-in-Dynamite-MV/queen.png](/images/2020-08-26-References-in-Dynamite-MV/queen.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/queen.png" alt="/images/2020-08-26-References-in-Dynamite-MV/queen.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiexfaqj20jx0ow0ud.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiexfaqj20jx0ow0ud.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiexfaqj20jx0ow0ud.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiexfaqj20jx0ow0ud.jpg" style="zoom:50%;" />
 
 ---
 
 ### Queen - Rio festival, Brazil, January 1985
 
-![/images/2020-08-26-References-in-Dynamite-MV/nirvana.png](/images/2020-08-26-References-in-Dynamite-MV/nirvana.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/nirvana.png" alt="/images/2020-08-26-References-in-Dynamite-MV/nirvana.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%209.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%209.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%209.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%209.png" style="zoom:50%;" />
 
 ---
 
 ### Nirvana - London, United Kingdom, September 4th, 1991
 
-![/images/2020-08-26-References-in-Dynamite-MV/nirvana%201.png](/images/2020-08-26-References-in-Dynamite-MV/nirvana%201.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/nirvana%201.png" alt="/images/2020-08-26-References-in-Dynamite-MV/nirvana%201.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiie96dj20ku0vgn1w.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiie96dj20ku0vgn1w.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiie96dj20ku0vgn1w.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kiie96dj20ku0vgn1w.jpg" style="zoom:50%;" />
 
 ---
 
 ### Nirvana - Smells Like... Poster
 
-![/images/2020-08-26-References-in-Dynamite-MV/nirvana_smells_like.png](/images/2020-08-26-References-in-Dynamite-MV/nirvana_smells_like.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/nirvana_smells_like.png" alt="/images/2020-08-26-References-in-Dynamite-MV/nirvana_smells_like.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kig2y6zj20u014vqag.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kig2y6zj20u014vqag.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kig2y6zj20u014vqag.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kig2y6zj20u014vqag.jpg" style="zoom:50%;" />
 
 ---
 
 ### Nirvana - The Year Grunge Broke, 1991 / Rolling Stone cover, April 16, 1992
 
-![/images/2020-08-26-References-in-Dynamite-MV/nirvana2.png](/images/2020-08-26-References-in-Dynamite-MV/nirvana2.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/nirvana2.png" alt="/images/2020-08-26-References-in-Dynamite-MV/nirvana2.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kihghjuj20cs0k5jt0.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kihghjuj20cs0k5jt0.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kihghjuj20cs0k5jt0.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kihghjuj20cs0k5jt0.jpg" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/28fbd527c1bf80f576a2cc3e18b7d31b.jpg](/images/2020-08-26-References-in-Dynamite-MV/28fbd527c1bf80f576a2cc3e18b7d31b.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/28fbd527c1bf80f576a2cc3e18b7d31b.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/28fbd527c1bf80f576a2cc3e18b7d31b.jpg" style="zoom:50%;" />
 
 ---
 
@@ -128,17 +128,17 @@ Interview and photo session for 'Music Life' magazine, on the band's Hot Space J
 
 photo by Stephen Sweet, 1993
 
-![/images/2020-08-26-References-in-Dynamite-MV/nirvana2_copy_3.png](/images/2020-08-26-References-in-Dynamite-MV/nirvana2_copy_3.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/nirvana2_copy_3.png" alt="/images/2020-08-26-References-in-Dynamite-MV/nirvana2_copy_3.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kik9hqej20dw0jlabn.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kik9hqej20dw0jlabn.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kik9hqej20dw0jlabn.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kik9hqej20dw0jlabn.jpg" style="zoom:50%;" />
 
 ---
 
 ### Nirvana - Photo in 1989
 
-![/images/2020-08-26-References-in-Dynamite-MV/nirvana2_copy.png](/images/2020-08-26-References-in-Dynamite-MV/nirvana2_copy.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/nirvana2_copy.png" alt="/images/2020-08-26-References-in-Dynamite-MV/nirvana2_copy.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kijgahmj20g60o0mzr.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kijgahmj20g60o0mzr.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kijgahmj20g60o0mzr.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kijgahmj20g60o0mzr.jpg" style="zoom:50%;" />
 
 ---
 
@@ -146,11 +146,11 @@ photo by Stephen Sweet, 1993
 
 Also chosen as the album cover of "On Air - Live at the BBC Volume 2".
 
-![/images/2020-08-26-References-in-Dynamite-MV/beatles.png](/images/2020-08-26-References-in-Dynamite-MV/beatles.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/beatles.png" alt="/images/2020-08-26-References-in-Dynamite-MV/beatles.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kileyo8j21481kw7ey.jpg](/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kileyo8j21481kw7ey.jpg)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kileyo8j21481kw7ey.jpg" alt="/images/2020-08-26-References-in-Dynamite-MV/62462bb3gy1gi4kileyo8j21481kw7ey.jpg" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2010.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2010.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2010.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2010.png" style="zoom:50%;" />
 
 ---
 
@@ -158,10 +158,10 @@ Also chosen as the album cover of "On Air - Live at the BBC Volume 2".
 
 - Ocean's Eleven
 - The Pledge
-- Hold Your Man (1933)
+- Hold Your Man (1933" style="zoom:50%;" />
 - ...
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2011.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2011.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2011.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2011.png" style="zoom:50%;" />
 
 ---
 
@@ -169,11 +169,11 @@ Also chosen as the album cover of "On Air - Live at the BBC Volume 2".
 
 ### Stussy Logo
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2012.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2012.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2012.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2012.png" style="zoom:50%;" />
 
 ### Supreme Logo
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2013.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2013.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2013.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2013.png" style="zoom:50%;" />
 
 ---
 
@@ -181,9 +181,9 @@ Also chosen as the album cover of "On Air - Live at the BBC Volume 2".
 
 ### Poster, The Smithsonian Folklife Festival, 2019
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2014.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2014.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2014.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2014.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2015.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2015.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2015.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2015.png" style="zoom:50%;" />
 
 ---
 
@@ -191,130 +191,130 @@ Also chosen as the album cover of "On Air - Live at the BBC Volume 2".
 
 Genre‎: ‎Hard rock‎, ‎new wave
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2016.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2016.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2016.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2016.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2017.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2017.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2017.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2017.png" style="zoom:50%;" />
 
 ---
 
 ### Mega Disco Mix, 1995
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2018.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2018.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2018.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2018.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2019.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2019.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2019.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2019.png" style="zoom:50%;" />
 
 ---
 
-### The B-52's, 1979 (debut album)
+### The B-52's, 1979 (debut album" style="zoom:50%;" />
 
 Genre‎: ‎New wave
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2020.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2020.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2020.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2020.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2021.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2021.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2021.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2021.png" style="zoom:50%;" />
 
 ---
 
-### Rock 'N Roller Disco (1979, Vinyl)
+### Rock 'N Roller Disco (1979, Vinyl" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2022.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2022.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2022.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2022.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2023.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2023.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2023.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2023.png" style="zoom:50%;" />
 
 ---
 
 ### Chuck Berry - All-time Rock'n'Roll Party Hits
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2024.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2024.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2024.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2024.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2025.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2025.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2025.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2025.png" style="zoom:50%;" />
 
 ---
 
 ### The Beatles - 'Sgt. Pepper's Lonely Hearts Club Band, 1967
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2026.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2026.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2026.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2026.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2027.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2027.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2027.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2027.png" style="zoom:50%;" />
 
 ---
 
 ### Guns N Roses - Poster
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2028.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2028.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2028.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2028.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2029.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2029.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2029.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2029.png" style="zoom:50%;" />
 
 *Can't find the exactly same poster.*
 
 ---
 
-### Wham! - Fantastic (album, 1983)
+### Wham! - Fantastic (album, 1983" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2030.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2030.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2030.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2030.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2031.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2031.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2031.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2031.png" style="zoom:50%;" />
 
 ---
 
 ### Everly Brothers - The Best Of The Everly Brothers, 1981
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2032.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2032.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2032.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2032.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2033.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2033.png)
-
----
-
-### Boyz II Men - Cooleyhighharmony (1992, Vinyl)
-
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2034.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2034.png)
-
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2035.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2035.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2033.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2033.png" style="zoom:50%;" />
 
 ---
 
-### Kinks - Kinks (album, 1998)
+### Boyz II Men - Cooleyhighharmony (1992, Vinyl" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2036.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2036.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2034.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2034.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2037.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2037.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2035.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2035.png" style="zoom:50%;" />
+
+---
+
+### Kinks - Kinks (album, 1998" style="zoom:50%;" />
+
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2036.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2036.png" style="zoom:50%;" />
+
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2037.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2037.png" style="zoom:50%;" />
 
 ---
 
 ### Scorpions - Live, 1991
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2038.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2038.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2038.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2038.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2039.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2039.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2039.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2039.png" style="zoom:50%;" />
 
 ---
 
 ### Real Life - Heartland, 1983
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2040.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2040.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2040.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2040.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2041.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2041.png)
-
----
-
-### John Kiley - Gigantic Pipe Organ (Vinyl)
-
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2042.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2042.png)
-
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2043.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2043.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2041.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2041.png" style="zoom:50%;" />
 
 ---
 
-### Elvis Presley - Elvis Gold 30 Vol.2 (1973, Vinyl)
+### John Kiley - Gigantic Pipe Organ (Vinyl" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2044.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2044.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2042.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2042.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2045.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2045.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2043.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2043.png" style="zoom:50%;" />
 
 ---
 
-### The Bee Gees - Saturday Night Fever (Soundtrack, 1977)
+### Elvis Presley - Elvis Gold 30 Vol.2 (1973, Vinyl" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2046.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2046.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2044.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2044.png" style="zoom:50%;" />
 
-![/images/2020-08-26-References-in-Dynamite-MV/Untitled%2047.png](/images/2020-08-26-References-in-Dynamite-MV/Untitled%2047.png)
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2045.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2045.png" style="zoom:50%;" />
+
+---
+
+### The Bee Gees - Saturday Night Fever (Soundtrack, 1977" style="zoom:50%;" />
+
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2046.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2046.png" style="zoom:50%;" />
+
+<img src="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2047.png" alt="/images/2020-08-26-References-in-Dynamite-MV/Untitled%2047.png" style="zoom:50%;" />
