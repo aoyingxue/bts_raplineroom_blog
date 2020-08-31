@@ -52,4 +52,6 @@ The writer-producer still sounds slightly dazed by his work’s overnight global
 
 自己的作品在一夜之间火遍全球，这位作家兼制作人依旧有点晕头转向。“我是在卧室的电脑上创作出来的这首歌，这么大热的东西竟然可以从这么简单的方式中创作出来，真是令我不可思议。”
 
-![David Stewart](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi9nfz6dh2j30ci08caae.jpg)
+原址：https://www.rollingstone.com/music/music-features/bts-dynamite-david-stewart-interview-1049628/
+
+![David Stewart](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi9vekfveej30ci08caae.jpg)
