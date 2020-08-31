@@ -8,11 +8,10 @@ comments: true
 toc: false
 ---
 
+- 所有日期均为B榜的Chart Debut Date，也就是榜单发布周期的周六（最后一天），会比歌曲发布日期滞后一到两周。
 - 封面、插图和记录均参考了Billboard官网于2020/8/3发布的新闻 https://www.billboard.com/photos/426225/billboard-hot-100-number-1-song-debuts
 
-- 所有日期均为B榜的Chart Debut Date，也就是榜单发布周期的周六（最后一天），会比歌曲发布日期滞后一到两周.
-
-- Spotify 歌单：[点击此处](https://open.spotify.com/playlist/1cxP7Tuxa3VA0377ta6Anr?si=jVffX2NAT6OBmoB8eGGOPw) 
+- Spotify 歌单：https://open.spotify.com/playlist/1cxP7Tuxa3VA0377ta6Anr?si=jVffX2NAT6OBmoB8eGGOPw
 
 ------
 
