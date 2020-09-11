@@ -26,4 +26,6 @@ Andrews解释道，“我拿到BTS唱的领唱部分，帮助他们训练发音�
 
 Andrews是加拿大本地人，在北美边界生活着，她认为“Dynamite”会成为一首“全球性”的歌曲。“他们终将统治世界，在这首歌之后未来会更疯狂的。它符合各种取向，不仅是一个当下瞬间而已，无论是当下10岁孩子还是未来50岁中年人，都会喜欢这首歌的。”
 
+原文链接：[点击此处](https://variety.com/2020/music/news/bts-dynamite-vocal-producer-jenna-andrews-interview-1234766050/)
+
 ![Jenna Andrews](https://tva1.sinaimg.cn/large/007S8ZIlgy1gin3pd3lwgj30ix0anafw.jpg)
