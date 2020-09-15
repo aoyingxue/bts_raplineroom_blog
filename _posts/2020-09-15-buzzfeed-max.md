@@ -11,6 +11,9 @@ toc: false
 （节选）
 
 “在2016年年末的时候，就在他发布首张专辑之后的几个月后，Max结婚了。今年的7月，他宣布他的妻子Emily怀上了他们的第一个孩子。新单曲‘Blueberry Eyes’是一个使用彩色MV讲述的爱情故事，这也是Max和闵玧其（更令人熟知的名字是Suga）的第二次合作，两人是在1月认识的，那时候Max在首尔巡演，然后2月BTS在美国宣传专辑Map of the Soul: 7的时候，他俩通过韩国烤肉和观赛湖人队比赛巩固了友谊。3个月后他们的第一个合作曲'Burn It'终于在Suga以艺名Agust D的第二张混音带中发布，这是专辑中极为出众的一首歌曲，那天原本Colour Vision专辑也计划发布的。Max开玩笑说到，‘如果真的发生了，那就麻烦了，我还挺感激我们把时间往后推了推的。’”
+
+![img](https://tva1.sinaimg.cn/large/007S8ZIlgy1girz8pyus4j30j60dp0ty.jpg)
+
 \-
 Q: 你在这张专辑中从合作者那学到了些什么吗？
 
@@ -43,5 +46,3 @@ MAX: 这个视频基本上就是迪士尼遇上韦斯安德森。所有剧情都
 我们的对话都很简单很可爱，总是像这样，“加油MAX! 加油蓝莓眼！”然后我回一句“加油Dynamite! 加油玧其！”
 
 原文链接: [点击此处](https://www.buzzfeed.com/eleanorbate/max-colour-vision-bts-suga-blueberry-eyes-interview)
-
-![img](https://tva1.sinaimg.cn/large/007S8ZIlgy1girvfltp9yj30j60dpdh1.jpg)
