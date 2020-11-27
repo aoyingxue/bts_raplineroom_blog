@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ❴ club eskimo ❵
+title:  Club Eskimo 安利简介
 date: 2020-07-13
 author: RaplineRoom
 tags: [嘻哈, 安利]
