@@ -14,10 +14,10 @@ description: 拉普房官方博客
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: images/RR-logo-2021-transparent-01.png
+avatar: /images/RR-logo-2021-transparent-01.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: images/apple-touch-icon.png
+favicon: /images/apple-touch-icon.png
 
 
 # 菜单中的按钮
@@ -69,10 +69,6 @@ disqus: raplineroom #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
 #gitalk: # changed from http to https; has to apply for a new oauth
-#  clientID: 21d3d4c2e3068bf88a7d
-#  clientSecret: 0d009a2bc313111696dc353ec218818827cf0bc2
-#  repo: btsraplineroom_blog
-#  owner: aoyingxue
 
 # 输入Google Analytics web tracking code
 google_analytics: UA-158973117-1
