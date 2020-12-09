@@ -419,7 +419,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-    color: red;
+    color: $base-color !important;
 
     @include mobile {
       margin: 0 10px;
