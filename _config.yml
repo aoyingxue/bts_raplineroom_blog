@@ -17,7 +17,7 @@ description: 拉普房官方博客
 avatar: https://raw.githubusercontent.com/aoyingxue/btsraplineroom_blog/master/images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/aoyingxue/btsraplineroom_blog/master/images/favicon.png
+favicon: images/favicon.ico
 
 
 # 菜单中的按钮
@@ -49,9 +49,9 @@ footer-links:
   instagram: #https://instagram.com/<>
   linkedin:  #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
+  rss: raplineroom #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
-  tumblr: cpeditsworld # https://<username>.tumblr.com
+  # tumblr: cpeditsworld # https://<username>.tumblr.com
   twitter: BTS_RaplineRoom # https://www.twitter.com/<your_twitter_username>
   youtube: # channel/<your_long_string> or user/<user-name>
 
