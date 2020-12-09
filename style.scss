@@ -419,10 +419,11 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    color: #343a40;
 
     @include mobile {
       margin: 0 10px;
-      color: #343a40;
+      
     }
   }
 }
