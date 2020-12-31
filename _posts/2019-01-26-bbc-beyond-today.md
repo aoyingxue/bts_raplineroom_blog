@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 190126 BBC Beyond Today / BTS: Who made Korea cool? /
+title: 190126 BBC Beyond Today - BTS: Who made Korea cool? 
 date: 2019-01-26
 author: RaplineRoom
 tags: [News, 新闻, BBC, BTS]
@@ -29,6 +29,5 @@ toc: false
 
 5. 韩国政府给韩国文化发展带来了一定的积极作用。在90年代的时候，有一个故事是说一个韩国外交官在香港想推广韩国文化，他与娱乐公司和广播公司合作，免费提供了许多字幕版本的韩剧。还有2000年代初在巴黎卢浮宫前，大使馆组织邀请了许多人来表演kpop舞蹈，带来了很好的营销效果。
 
-   (然后讲了一些关于韩国经济的事，没啥关系就不翻了)
 
 收听地址 [网页链接](http://t.cn/EtZ6u1r)
