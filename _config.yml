@@ -30,9 +30,9 @@ navigation:
     url: /tags
   - name: About
     url: /about
-  - name: 音乐互推投稿
+  - name: SongRECM
     url: /recmsurvey
-  - name: BTS Calendar
+  - name: BTSCalendar
     url: /calendar
 
 # 每页的文章数
