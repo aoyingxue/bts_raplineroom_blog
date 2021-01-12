@@ -30,10 +30,10 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
-  - name: BTS Calendar
-    url: /calendar
   - name: About
     url: /about
+  - name: BTS Calendar
+    url: /calendar
 
 # 每页的文章数
 paginate: 12
