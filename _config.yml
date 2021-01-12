@@ -30,7 +30,7 @@ navigation:
     url: /tags
   - name: About
     url: /about
-  - name: Song RECM
+  - name: 音乐互推投稿
     url: /recmsurvey
   - name: BTS Calendar
     url: /calendar
