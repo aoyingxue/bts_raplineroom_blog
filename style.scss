@@ -749,23 +749,8 @@ footer {
   }
 }
 //responsive video embedded
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 30px; height: 0; overflow: hidden;
-}
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
   /* Responsive iFrame */
+.video-container,
 .responsive-iframe-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -776,7 +761,10 @@ footer {
 
 .responsive-iframe-container iframe,
 .vresponsive-iframe-container object,
-.vresponsive-iframe-container embed {
+.vresponsive-iframe-container embed,
+.video-container iframe,
+.video-container object,
+.video-container embed {
   position: absolute;
   top: 0;
   left: 0;
@@ -784,6 +772,24 @@ footer {
   height: 100%;
 }
 
+// responsive survey embedded
+.survey{
+  position: relative;
+  padding-bottom: 100%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.survey iframe,
+.survey object,
+.survey embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
