@@ -24,17 +24,19 @@ favicon: /images/apple-touch-icon.png
 navigation:
   - name: Home
     url: /
-  - name: About
-    url: /about
+  - name: RECM Survey
+    url: /recmsurvey
   - name: Archive
     url: /archive
   - name: Tags
     url: /tags
   - name: Calendar
     url: /calendar
+  - name: About
+    url: /about
 
 # 每页的文章数
-paginate: 10
+paginate: 12
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
@@ -45,14 +47,14 @@ footer-links:
   email: admin@btsraplineroom.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: aoyingxue/btsraplineroom_blog #https://github.com/<>
-  instagram: #https://instagram.com/<>
+  instagram: raplineroom #https://instagram.com/<>
+  twitter: RaplineRoom # https://www.twitter.com/<your_twitter_username>
   linkedin:  #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
   rss: raplineroom #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
-  # tumblr: cpeditsworld # https://<username>.tumblr.com
-  twitter: BTS_RaplineRoom # https://www.twitter.com/<your_twitter_username>
+  tumblr: cpeditsworld # https://<username>.tumblr.com
+  github: aoyingxue/btsraplineroom_blog #https://github.com/<>
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
