@@ -45,15 +45,15 @@ excerpt_separator: <!-- more -->
 footer-links: 
   weibo: raplineroom #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   email: admin@btsraplineroom.com
+  twitter: RaplineRoom # https://www.twitter.com/<your_twitter_username>
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   instagram: raplineroom #https://instagram.com/<>
-  twitter: RaplineRoom # https://www.twitter.com/<your_twitter_username>
   linkedin:  #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
   rss: raplineroom #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
-  tumblr: cpeditsworld # https://<username>.tumblr.com
+  # tumblr: cpeditsworld # https://<username>.tumblr.com
   github: aoyingxue/btsraplineroom_blog #https://github.com/<>
   youtube: # channel/<your_long_string> or user/<user-name>
 
