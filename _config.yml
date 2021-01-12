@@ -30,7 +30,7 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
-  - name: Calendar
+  - name: BTS Calendar
     url: /calendar
   - name: About
     url: /about
