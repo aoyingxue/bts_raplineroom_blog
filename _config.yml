@@ -24,14 +24,14 @@ favicon: /images/apple-touch-icon.png
 navigation:
   - name: Home
     url: /
-  - name: RECM Survey
-    url: /recmsurvey
   - name: Archive
     url: /archive
   - name: Tags
     url: /tags
   - name: About
     url: /about
+  - name: Song RECM Survey
+    url: /recmsurvey
   - name: BTS Calendar
     url: /calendar
 
