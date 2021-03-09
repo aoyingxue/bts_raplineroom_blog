@@ -8,8 +8,6 @@ comments: true
 toc: false
 ---
 
-<iframe title="USATODAY-Embed Player" width="540" height="350" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="https://uw-media.usatoday.com/embed/video/4636784001?placement=snow-embed"></iframe><p>BTS和USA TODAY的Fatima Farha讨论"Dynamite"的成功以及组合将在周日格莱美颁奖典礼上的表演。</p>
-
 距离BTS出道表演已经有接近八年了。周日的格莱美颁奖典礼上，这七位来自南韩的男子将创造更多的第一。他们凭借他们英文冠单"Dynamite"获得最佳流行双人组合/组合表演的提名，这标志着组合第一次提名，也是K-pop组合的第一次。他们已经为表演准备好了，这也将是他们第一次用自己的歌曲上台表演（他们曾在2020年格莱美客串过，后面会更详细的聊到）。
 
 对RM、Jin、Suga、J-Hope、Jimin、V和Jungkook来说，创造历史和打破纪录并不是新鲜事。
@@ -19,6 +17,8 @@ toc: false
 一路上，他们还获得了一大批名为ARMY的超级忠实粉丝（爆料：我也是其中一员）。
 
 “我们真的很兴奋，仍然有种不现实的感觉。”Jimin通过翻译告诉USA TODAY，“我们仍在思考该怎么做，但我们知道这是一个极大的荣誉，深表感谢。我们在尽最大努力准备，用一场精彩的表演来回报从粉丝那获得的支持。”
+
+<iframe title="USATODAY-Embed Player" width="540" height="350" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="https://uw-media.usatoday.com/embed/video/4636784001?placement=snow-embed"></iframe>
 
 ## BTS的格莱美之旅
 
