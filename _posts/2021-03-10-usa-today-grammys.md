@@ -18,7 +18,7 @@ toc: false
 
 “我们真的很兴奋，仍然有种不现实的感觉。”Jimin通过翻译告诉USA TODAY，“我们仍在思考该怎么做，但我们知道这是一个极大的荣誉，深表感谢。我们在尽最大努力准备，用一场精彩的表演来回报从粉丝那获得的支持。”
 
-<iframe title="USATODAY-Embed Player" width="540" height="350" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="https://uw-media.usatoday.com/embed/video/4636784001?placement=snow-embed"></iframe>
+<div class='video-container'><iframe title="USATODAY-Embed Player" width="540" height="350" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="https://uw-media.usatoday.com/embed/video/4636784001?placement=snow-embed"></iframe></div>
 
 ## BTS的格莱美之旅
 
