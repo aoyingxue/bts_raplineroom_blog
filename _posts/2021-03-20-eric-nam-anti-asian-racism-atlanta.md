@@ -40,3 +40,5 @@ Daoyou Feng (44), Delaina Ashley Yaun Gonzalez (33), Suncha Kim (69), Hyun Jung 
 
 我们受到了伤害，筋疲力尽了，充满了悲伤和愤怒，这是理所当然的。但是我们必须继续坚持下去，我们必须继续积极地创造着变革，一个为了自己和后代而迫切渴望的变革。
 
+[原文链接](https://t.co/akpkjx9fNJ?amp=1)
+
