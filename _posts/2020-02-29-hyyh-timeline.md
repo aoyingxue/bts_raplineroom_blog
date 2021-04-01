@@ -764,7 +764,7 @@ pinned: true
 
 > 图：Film Out MV
 
-![IMG_0064](/Users/aoyingxue/Downloads/IMG_0064.PNG)
+![IMG_0064](https://tva1.sinaimg.cn/large/008eGmZEly1gp4oelmv19j31sx0u0x6v.jpg)
 
 ### 2022/6/12 (MOTS:P)
 
