@@ -93,3 +93,4 @@ toc: false
 **RM:** BTS的音乐一直都是关于我们的思考和我们的见解，当然音乐性上是非常重要的，但声音一直以来都不是最重要的，就像我们制作Dynamite或者之前的专辑，BTS是来自南韩所以我们的主题一直是关于打破界限，只要我们依旧自己撰写自己的歌词和旋律，只要我们把内心所想的真实情感写进音乐，无论听起来是什么样的音乐，都是专属于BTS的。
 
 <div class='video-container'><iframe width="666" height="373" src="https://www.youtube.com/embed/GuZJWDX4pTQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
