@@ -20,7 +20,7 @@ BTS魔幻般的神奇魅力是，他们拒绝流派限制，他们圆滑却又�
 
 当时，RM正在位于他唱片公司总部的一间经过声学处理的房间中，戴着一副白色医用口罩以保护旁边的翻译，戴着黑色渔夫帽，穿着一件来自LA的奢侈品品牌Fear Of God的黑色帽衫。就像RM在美国脱口秀中不得不多次解释的一样，他是通过狂看老友记DVD自学的一口流利的英语。但当对话内容变得复杂的时候，他对口译者的使用是完全可以理解的。
 
-![BTS, photographed in Seoul on April 6th, 2021 rolling stone cover bighit](https://tva1.sinaimg.cn/large/008i3skNgy1gqh3nx9905j30u010eqv5.jpg)
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gqh3nx9905j30u010eqv5.jpg" alt="BTS, photographed in Seoul on April 6th, 2021 rolling stone cover bighit" style="zoom:67%;" />
 
 RM是复杂性的拥护者，在准备接受精英大学教育之前，韩国组合Epik High激发了他对嘻哈的热爱，让他误打误撞成为了超级明星。方时赫，一位理智、热情而又慈爱的制作人巨头，创立了BTS的唱片公司Big Hit Entertainment (现为HYBE)，在2010年首先与RM签约，然后围绕着这位rapper的才华和魅力，逐渐组建了BTS。“当我第一次见RM的时候，”方时赫说道，“我就感觉到了一种责任，那就是在认清他的音乐才华和思维方式之后，助他成长为一名伟大的艺术家。”
 
@@ -78,9 +78,9 @@ BTS对阿米的宣传热情就和他们的粉丝对BTS一样，“阿米们比�
 
 自组合成立以来，没有任何一名BTS成员承认有过恋爱关系，虽然其中有几位成员暗示过在加入之前有过恋情。官方说法是他们太过忙碌，关于流行组合的通常思维可能会觉得BTS肯定会担心粉丝对这个话题的反应，但至少Suga是不接受这种看法的，“我其实不太能理解这个问题，阿米是多样性的团体，在这种假设的情况下，有些人可能会接受，有些人可能不能。但无论是关于恋爱或是其他问题，他们都是独立个体，所以对同一件事情的理解肯定也会有所不同。”
 
-![BTS, photographed in Seoul on April 6th, 2021 rolling stone cover bighit](https://tva1.sinaimg.cn/large/008i3skNgy1gqhxqkzygbj30u010e7wh.jpg)
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gqhxqkzygbj30u010e7wh.jpg" alt="BTS, photographed in Seoul on April 6th, 2021 rolling stone cover bighit" style="zoom:67%;" />
 
-2018年，BTS与方时赫的公司商谈续约合同，承诺再作为组合续约7年。在这个过程中，他们还获得了HYBE的股份。“这是非常有意义的，”RM说，“无论是对我们来说，还是对公司来说。我们承认并认证彼此是真正的合作伙伴。现在Bit Hit的成功就是我们的成功，反之亦然。”这也意味着去年HYBE上市时，该组合获得了数百万美金的意外之财。“这当然也非常重要，”RM笑着说。
+**2018年，BTS与方时赫的公司商谈续约合同，**承诺再作为组合续约7年。在这个过程中，他们还获得了HYBE的股份。“这是非常有意义的，”RM说，“无论是对我们来说，还是对公司来说。我们承认并认证彼此是真正的合作伙伴。现在Bit Hit的成功就是我们的成功，反之亦然。”这也意味着去年HYBE上市时，该组合获得了数百万美金的意外之财。“这当然也非常重要，”RM笑着说。
 
 每个经久不衰的韩国男团都会面临一个问题，这也是BTS即将面临的困境：鉴于与朝鲜持续的紧张关系，男性通常在28周岁生日以前必须开始进行长达21个月的兵役期。Jin在12月4日满28岁，但就在那个月，政府通过了一项法案，直接为他延长了期限，“受文化体育观光部部长推荐的、在国内以及世界范围内大大提升了韩国形象的流行文化艺术家”，现在可以延迟到30岁进行服役。
 
