@@ -92,5 +92,7 @@ Suga今年28岁，J-Hope27岁，RM今年要满27岁，所以他们的服役期�
 
 至少，对Jimin来说，BTS是永恒的。“我从来没想过我不是这个组合的一份子，”他说，“我无法想象我如果自己做会是什么样子。我想当我变老，长出胡子的时候，”他指着我的胡子笑着说，“直到最后一刻，当我已经老到不能再跳舞的时候，我会和成员们一起坐在舞台上，唱着歌，和粉丝互动。我觉得即使那样也很好，所以我希望尽可能地继续保持这样的状态。”
 
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">[中翻] 210513 Rolling Stone - &quot;BTS的胜利&quot; <br>全文：<a href="https://t.co/L4TWwewK4j">https://t.co/L4TWwewK4j</a><a href="https://twitter.com/hashtag/BTSxRollingStone?src=hash&amp;ref_src=twsrc%5Etfw">#BTSxRollingStone</a> <a href="https://twitter.com/hashtag/BTS?src=hash&amp;ref_src=twsrc%5Etfw">#BTS</a> <a href="https://twitter.com/hashtag/BTS_Butter?src=hash&amp;ref_src=twsrc%5Etfw">#BTS_Butter</a> <a href="https://twitter.com/hashtag/BTSARMY?src=hash&amp;ref_src=twsrc%5Etfw">#BTSARMY</a></p>&mdash; RaplineRoom (@RaplineRoom) <a href="https://twitter.com/RaplineRoom/status/1393094853165154306?ref_src=twsrc%5Etfw">May 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [原文链接](https://www.rollingstone.com/music/music-features/new-bts-song-2021-worlds-biggest-band-1166441/)
 
