@@ -2,7 +2,7 @@
 layout: post
 title: "采访PENOMECO：P NATION选择的‘全能’艺术家"
 date: 2021-04-20
-author: HYPEBEAST
+author: “HYPEBEAST Korea"
 tags: [Penomeco, Interviews, 采访]
 comments: true
 toc: false

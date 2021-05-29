@@ -2,7 +2,7 @@
 layout: post
 title: Colde描绘了一个理想主义的画面
 date: 2021-02-01
-author: The Kraze 杂志
+author: “The Kraze 杂志”
 tags: [Colde, Album Review, 专辑评价]
 comments: true
 toc: false
