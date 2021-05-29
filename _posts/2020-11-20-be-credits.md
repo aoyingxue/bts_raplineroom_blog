@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 201120 BTS《BE》credits一览
+title: BTS《BE》credits一览
 date: 2020-11-20
 author: RaplineRoom
 tags: [BTS, BE]

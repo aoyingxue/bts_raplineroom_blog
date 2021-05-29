@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200415 Soompi - 8eight中的白灿前辈在电台谈到防弹练习生时的事
+title: 8eight中的白灿前辈在电台谈到防弹练习生时的事
 date: 2020-04-15
-author: RaplineRoom
+author: Soompi
 tags: [News, 新闻]
 comments: true
 toc: false

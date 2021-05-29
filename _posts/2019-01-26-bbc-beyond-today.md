@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "190126 BBC Beyond Today BTS: Who made Korea cool?"
+title: "BBC Beyond Today BTS: Who made Korea cool?"
 date: 2019-01-26
-author: RaplineRoom
+author: BBC
 tags: [News, 新闻, BBC, BTS]
 comments: true
 toc: false

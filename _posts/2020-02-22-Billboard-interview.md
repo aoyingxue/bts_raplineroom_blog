@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200222 Billboard采访视频
+title: Billboard "Map of The Soul 7" 采访
 date: 2020-02-22
-author: RaplineRoom
+author: Billboard
 tags: [Map of The Soul 7, Interviews, 采访]
 comments: true
 toc: false

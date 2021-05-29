@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 210507 TheKoreaTimes - "eAeon在痛苦之后通过音乐寻找到了平和，发布了有BTS RM参与的专辑"
+title: "eAeon在痛苦之后通过音乐寻找到了平和，发布了有BTS RM参与的专辑"
 date: 2021-05-07
-author: RaplineRoom
+author: TheKoreaTimes
 tags: [eAeon, RM, Interviews, 采访]
 comments: true
 toc: false

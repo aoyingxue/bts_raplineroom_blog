@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 210515 Rolling Stone - "Jimin谈论完美主义、对阿米的思念、对舞蹈的热爱与BTS的未来"
+title: "Jimin谈论完美主义、对阿米的思念、对舞蹈的热爱与BTS的未来"
 date: 2021-05-16
-author: RaplineRoom
+author: Rolling Stone
 tags: [BTS, Jimin, Interviews, 采访]
 comments: true
 toc: false

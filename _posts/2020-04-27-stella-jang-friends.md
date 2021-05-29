@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200427 Herald - Stella Jang谈论她作为唱作人的成长和与BTS共同撰写Friends的故事
+title: Stella Jang谈论她作为唱作人的成长和与BTS共同撰写Friends的故事
 date: 2020-04-27
-author: RaplineRoom
+author: Herald
 tags: [News, 新闻]
 comments: true
 toc: false

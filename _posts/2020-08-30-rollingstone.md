@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200830 Rolling Stone - BTS’ ‘Dynamite’ 将一位资深作曲家推到了聚光灯下
+title: BTS的‘Dynamite’将一位资深作曲家推到了聚光灯下
 date: 2020-08-30
-author: RaplineRoom
+author: Rolling Stone 
 tags: [Interviews, 采访, 幕后]
 comments: true
 toc: false

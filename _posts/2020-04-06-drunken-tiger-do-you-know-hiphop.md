@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 200406 Drunken Tiger (드렁큰타이거) - Do You Know Hip Hop (너희가 힙합을 아느냐) MV【中字】
+title: Drunken Tiger - Do You Know Hip Hop (너희가 힙합을 아느냐)【中字MV】
 date: 2020-04-06
 author: RaplineRoom
 tags: [嘻哈, 字幕, 视频]

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 201013 TheKoreaTimes - BTS 占领了Billboard单曲榜的前两位（节选）
+title: BTS占领了Billboard单曲榜的前两位（节选）
 date: 2020-10-13
-author: RaplineRoom
+author: TheKoreaTimes
 tags: [BTS, News, 新闻]
 comments: true
 toc: false

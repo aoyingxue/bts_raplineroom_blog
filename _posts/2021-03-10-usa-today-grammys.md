@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "210310 USA Today - '仍然感觉很不真实'：无论是否在周日获奖，BTS都创造了格莱美历史"
+title: '仍然感觉很不真实'：无论是否在周日获奖，BTS都创造了格莱美历史
 date: 2021-03-10
-author: RaplineRoom
+author: USA Today
 tags: [BTS, News, 新闻]
 comments: true
 toc: false

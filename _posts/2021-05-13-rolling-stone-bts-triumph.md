@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 210513 Rolling Stone - "BTS的胜利"
+title: "BTS的胜利"
 date: 2021-05-13
-author: RaplineRoom
+author: Rolling Stone
 tags: [BTS, Interviews, 采访]
 comments: true
 toc: false

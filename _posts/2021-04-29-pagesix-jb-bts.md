@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "210429 PageSix 独家 - Justin Bieber可能将和K-pop超级明星BTS合作新歌 (节选翻译)"
+title: "独家 - Justin Bieber可能将和K-pop超级明星BTS合作新歌 (节选翻译)"
 date: 2021-04-29
-author: RaplineRoom
+author: PageSix
 tags: [BTS, News, 新闻]
 comments: true
 toc: false
@@ -12,10 +12,7 @@ toc: false
 
 “They are taking their time on it and going to make sure it is released right,” says the source.
 
-知情者猜测，这首歌可能会是JB最近发行的专辑
-’Justice’豪华版再贩中的一首，以保证专辑继续
-保持在榜单上（也是继Triple Chunks Deluxe后的
-第二版再贩）。
+知情者猜测，这首歌可能会是JB最近发行的专辑Justice豪华版再贩中的一首，以保证专辑继续保持在榜单上（也是继Triple Chunks Deluxe后的第二版再贩）。
 
 Our insider speculates that the track “could be part of a deluxe release of [[Bieber’s recently released album\] ‘Justice’](https://nypost.com/2021/03/19/with-new-justice-justin-biebers-comeback-fis-complete/) to keep the album on the charts.” (It would be the record’s second re-release, following the “Triple Chucks Deluxe” edition.)
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 201201 格莱美博物馆迷你大师课
+title: 格莱美博物馆迷你大师课
 date: 2020-12-01
-author: RaplineRoom
+author: 格莱美
 tags: [BTS, Interview, 采访]
 comments: true
 toc: false

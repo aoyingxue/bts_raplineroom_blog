@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200412 经济学人 - 韩国流行音乐中的知识分子
+title: 韩国流行音乐中的知识分子
 date: 2020-04-12
-author: RaplineRoom
+author: 经济学人
 tags: [News, 新闻, The Economist]
 comments: true
 toc: false

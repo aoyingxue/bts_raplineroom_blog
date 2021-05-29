@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 210521 Variety - "BTS新单曲Butter由哥伦比亚唱片公司首席CEO Ron Perry担任联合作家和联合制作人"
+title: "BTS新单曲Butter由哥伦比亚唱片公司首席CEO Ron Perry担任联合作家和联合制作人"
 date: 2021-05-21
-author: RaplineRoom
+author: Variety
 tags: [BTS, News, 新闻]
 comments: true
 toc: false

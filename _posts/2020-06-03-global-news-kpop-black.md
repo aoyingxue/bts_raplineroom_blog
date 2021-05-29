@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200603 Global News - K-pop粉丝占据了‘White Lives Matter’话题淹没掉了“种族歧视”的内容
+title: K-pop粉丝占据了‘White Lives Matter’话题，淹没掉了“种族歧视”的内容
 date: 2020-06-03
-author: RaplineRoom
+author: Global News
 tags: [News, 新闻]
 comments: true
 toc: false

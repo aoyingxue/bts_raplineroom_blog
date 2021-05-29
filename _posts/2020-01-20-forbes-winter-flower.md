@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200120 福布斯 “RM成为第五位登上Billboard数字单曲销量榜的KPOP Solo艺人”
+title: “RM成为第五位登上Billboard数字单曲销量榜的KPOP Solo艺人”
 date: 2020-01-20
-author: RaplineRoom
+author: Forbes
 tags: [RM, 金南俊, News, Forbes, 新闻]
 comments: true
 toc: false

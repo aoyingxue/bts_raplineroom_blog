@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 190103 Forbes - “BTS Jimin的solo曲Promise打破SoundCloud首日播放最高纪录”
+title: “BTS Jimin的solo曲Promise打破SoundCloud首日播放最高纪录”
 date: 2019-01-03
-author: RaplineRoom
+author: Forbes
 tags: [News, 新闻, Forbes, Jimin]
 comments: true
 toc: false

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200223 ET采访视频
+title: ET "Map of The Soul 7"采访视频
 date: 2020-02-23
-Author: RaplineRoom
+Author: ET
 tags: [Map of The Soul 7, Interviews, 采访]
 comments: true
 toc: false

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200512 stir - 艺术家Yiyun Kang参与CONNECT BTS的采访
+title: 艺术家Yiyun Kang参与CONNECT BTS的采访
 date: 2020-05-12
-author: RaplineRoom
+author: stir
 tags: [Interviews, 采访, CONNECT BTS]
 comments: true
 toc: false

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200926 MAX - Billboard 20问
+title: MAX的Billboard 20问
 date: 2020-09-26
-author: RaplineRoom
+author: Billboard
 tags: [BTS, News, 新闻, Interview, 采访]
 comments: true
 toc: false

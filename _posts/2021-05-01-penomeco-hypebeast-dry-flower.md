@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 210420 HYPEBEAST - "采访PENOMECO：P NATION选择的‘全能’艺术家"
-date: 2021-05-01
-author: RaplineRoom
+title: "采访PENOMECO：P NATION选择的‘全能’艺术家"
+date: 2021-04-20
+author: HYPEBEAST
 tags: [Penomeco, Interviews, 采访]
 comments: true
 toc: false

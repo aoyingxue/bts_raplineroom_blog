@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200915 BuzzFeed - MAX 谈及"Colour Vision", "Blueberry Eyes"以及和Suga的短信交流
+title: MAX 谈及"Colour Vision", "Blueberry Eyes"以及和Suga的短信交流
 date: 2020-09-15
-author: RaplineRoom
+author: BuzzFeed
 tags: [Interviews, 采访, 幕后]
 comments: true
 toc: false

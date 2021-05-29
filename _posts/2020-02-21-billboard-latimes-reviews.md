@@ -2,7 +2,7 @@
 layout: post
 title: "200221 Billboard & LA TIMES 专辑评论节选"
 date: 2020-02-21
-author: RaplineRoom
+author: Billboard & LA TIMES
 tags: [Billboard, Map of The Soul 7, Album Review, 专辑评价]
 comments: true
 toc: false

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 201001 Variety - BTS对歌曲创作、灵感来源与艺术性进行了反思
+title: BTS对歌曲创作、灵感来源与艺术性进行了反思
 date: 2020-10-01
-author: RaplineRoom
+author: Variety
 tags: [BTS, News, 新闻, Interview, 采访]
 comments: true
 toc: false

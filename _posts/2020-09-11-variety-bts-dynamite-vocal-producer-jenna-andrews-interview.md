@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200910 Variety - 解构BTS的Dynamite：声乐制作人Jenna Andrews透露“魔术”内幕（节选）
+title: 解构BTS的Dynamite：声乐制作人Jenna Andrews透露“魔术”内幕（节选）
 date: 2020-09-10
-author: RaplineRoom
+author: Variety
 tags: [Interviews, 采访, 幕后]
 comments: true
 toc: false

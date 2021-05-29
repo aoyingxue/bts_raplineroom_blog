@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200505 Variety - 由奥巴马夫妇领衔，将于BTS和Lady Gaga等人登上YouTube虚拟毕业典礼
+title: 由奥巴马夫妇领衔，将于BTS和Lady Gaga等人登上YouTube虚拟毕业典礼
 date: 2020-05-05
-author: RaplineRoom
+author: Variety
 tags: [News, 新闻]
 comments: true
 toc: false

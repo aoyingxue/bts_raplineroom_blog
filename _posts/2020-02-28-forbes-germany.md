@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "200228 福布斯：BTS成为第一个在德国专辑榜上一位的亚洲艺人"
+title: "BTS成为第一个在德国专辑榜上一位的亚洲艺人"
 date: 2020-02-28
-author: RaplineRoom
+author: Forbes
 tags: [Map of The Soul 7, Forbes, News, 新闻]
 comments: true
 toc: false

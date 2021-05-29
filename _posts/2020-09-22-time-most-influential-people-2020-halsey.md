@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200922 TIME - 2020年100大最具影响人物
+title: 2020年100大最具影响人物
 date: 2020-09-22
-author: RaplineRoom
+author: TIME
 tags: [BTS, News, 新闻]
 comments: true
 toc: false

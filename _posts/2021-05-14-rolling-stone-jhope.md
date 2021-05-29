@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 210514 Rolling Stone - "J-Hope谈论在BTS中的成长，以及他的下一张混音带等"
+title:"J-Hope谈论在BTS中的成长，以及他的下一张混音带等"
 date: 2021-05-14
-author: RaplineRoom
+author: Rolling Stone
 tags: [BTS, J-Hope, Interviews, 采访]
 comments: true
 toc: false

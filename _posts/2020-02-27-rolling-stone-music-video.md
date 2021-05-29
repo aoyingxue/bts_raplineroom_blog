@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200227 滚石：BTS发布第二支与野生动物一起拍摄的 ON MV 视频
+title: BTS发布第二支与野生动物一起拍摄的 ON MV 视频
 date: 2020-02-27
-author: RaplineRoom
+author: RollingStone
 tags: [Map of The Soul 7, Rolling Stone, News, 新闻]
 comments: true
 toc: false

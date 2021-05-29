@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "210320 TIME - 如果你对亚特兰大反亚裔的暴力行为感到震惊，那是因为你从未聆听。是时候听听我们的声音了。"
+title: "如果你对亚特兰大反亚裔的暴力行为感到震惊，那是因为你从未聆听。是时候听听我们的声音了。"
 date: 2021-03-20
-author: RaplineRoom
+author: TIME
 tags: [News, 新闻]
 comments: true
 toc: false

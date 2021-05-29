@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  References in Dynamite MV (Dynamite MV中的经典流行文化引用)
+title:  Dynamite MV中的经典流行文化引用
 date: 2020-08-26
 author: RaplineRoom
 tags: [BTS, 安利]

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 201230 大西洋 - BTS惊人的二元性
+title: BTS惊人的二元性
 date: 2020-12-30
-author: RaplineRoom
+author: 大西洋
 tags: [BTS, News, 新闻, Interviews, 采访]
 comments: true
 toc: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 200607 Dear Class of 2020 - 前第一夫人Michelle Obama完整毕业致辞英文稿
+title: Dear Class of 2020 - 前第一夫人Michelle Obama完整毕业致辞英文稿
 date: 2020-06-07
 author: RaplineRoom
 tags: [News, 新闻]

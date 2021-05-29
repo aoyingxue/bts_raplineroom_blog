@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200222 ON Commentary Film
+title: ON Commentary Film
 date: 2020-02-21
-Author: RaplineRoom
+author: BigHit Music
 tags: [Map of The Soul 7, Interviews, 采访]
 comments: true
 toc: false

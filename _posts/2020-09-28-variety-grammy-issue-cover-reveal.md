@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 200928 Variety - 封面倒计时：BTS在周三格莱美特辑发布前先行讨论“Dynamite”在榜单上的成功
+title: 封面倒计时：BTS在周三格莱美特辑发布前先行讨论“Dynamite”在榜单上的成功
 date: 2020-09-28
-author: RaplineRoom
+author: Variety
 tags: [BTS, News, 新闻, Interview, 采访]
 comments: true
 toc: false

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 210120 MTV News采访 - Epik High Is Here For You
+title: Epik High Is Here For You
 date: 2021-01-20
-author: RaplineRoom
+author: MTV News
 tags: [Epik High, News, 新闻, Interviews, 采访]
 comments: true
 toc: false
