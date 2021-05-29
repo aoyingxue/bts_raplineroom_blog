@@ -2,7 +2,7 @@
 layout: post
 title: "和BTS的RM就他在组合的早年经历、Drake，以及BTS是否算K-pop等问题进行深度对话"
 date: 2021-05-18
-author: "Rolling Stone"
+author: "RollingStone"
 tags: [BTS, RM, Interviews, 采访]
 comments: true
 toc: false

@@ -2,7 +2,7 @@
 layout: post
 title: 肥伦秀 BTS Subway Special
 date: 2020-02-24
-author: The Tonight Show with Jimmy Fallon
+author: The Tonight Show with Jimmy Fallon 肥伦秀
 tags: [Map of The Soul 7, Interviews, 采访, Fallon, Talk Show]
 comments: true
 toc: false
