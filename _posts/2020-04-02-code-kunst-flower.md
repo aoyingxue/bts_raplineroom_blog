@@ -1,9 +1,9 @@
 ---
 layout: post
-title: CODE KUNST - '꽃 (flower) (Feat. 社长, 禹元材, Giriboy)'【中字MV】
+title: "[中字MV] CODE KUNST - '꽃 (flower) (Feat. 社长, 禹元材, Giriboy)'"
 date: 2020-04-02
 author: RaplineRoom
-tags: [嘻哈, 字幕, 视频]
+tags: [嘻哈, 字幕, 视频, 中字MV]
 comments: true
 toc: false
 ---
