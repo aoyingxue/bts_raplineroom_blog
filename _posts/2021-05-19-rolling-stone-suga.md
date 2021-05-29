@@ -2,7 +2,7 @@
 layout: post
 title: "Suga谈论BTS在征服世界之后，如何能继续保持着饥渴感"
 date: 2021-05-19
-author: Rolling Stone
+author: "Rolling Stone"
 tags: [BTS, SUGA, Interviews, 采访]
 comments: true
 toc: false

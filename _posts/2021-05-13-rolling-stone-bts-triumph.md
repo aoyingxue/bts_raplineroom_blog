@@ -2,7 +2,7 @@
 layout: post
 title: "BTS的胜利"
 date: 2021-05-13
-author: Rolling Stone
+author: "Rolling Stone"
 tags: [BTS, Interviews, 采访]
 comments: true
 toc: false
