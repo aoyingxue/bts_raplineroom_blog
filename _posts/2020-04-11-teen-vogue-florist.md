@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BTS最喜欢的花艺老师Issac聊到和BTS相见的故事、抖音、以及他热爱鲜花的原因（节选）
+title: "BTS最喜欢的花艺老师Issac聊到和BTS相见的故事、抖音、以及他热爱鲜花的原因（节选）"
 date: 2020-04-11
-author: Teen Vogue杂志
+author: "Teen Vogue杂志"
 tags: [News, 新闻, Teen Vogue]
 comments: true
 toc: false
