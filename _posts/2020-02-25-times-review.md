@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Map of The Soul 7" 时代杂志专辑评价
+title: ""Map of The Soul 7" 时代杂志专辑评价"
 date: 2020-02-25
 author: Times
 tags: [Map of The Soul 7, Album Review, 专辑评价, TIME]
