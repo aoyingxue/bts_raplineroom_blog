@@ -3,7 +3,7 @@ layout: post
 title: 南韩BTS成为美国现象的七大原因
 date: 2020-03-06
 author: 华尔街日报
-tags: [BTS, Map of the Soul: 7, News]
+tags: [BTS, Map of the Soul 7, News]
 comments: true
 toc: false
 ---
