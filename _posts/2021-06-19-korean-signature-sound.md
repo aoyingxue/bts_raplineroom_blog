@@ -18,7 +18,7 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | ---------------------------------- | ------------------------------------------------------------ |
 | BILL STAX                          | *Stax*                                                       |
 | 朴振英                             | *JYP*                                                        |
-| Brave Brother                      | *Brave Sound~*                                               |
+| Brave Brothers                     | *Brave Sound~*                                               |
 | GRAY                               | *Gray~* (by Zion.T)                                          |
 | Giriboy                            | *GRBoy / GR* (by Kasper)                                     |
 | GroovyRoom                         | *Groovy, Everywhere* (by 外国小男孩)                         |
