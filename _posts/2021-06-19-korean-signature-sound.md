@@ -96,11 +96,11 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | Junior Chef                        | *Whipping whipping junior chef cooking / junior chef*        |
 | Jibby                              | *Jibby. make. money.*                                        |
 | Ca$hville                          | (? 小孩的声音                                                |
-| 2CHAMP (투챔프)                    | 2 champ beat                                                 |
-| Duble Sidekick                     | Double kick!                                                 |
-| MINO                               | I'm MINO/M INO.                                              |
-| RM                                 | RM                                                           |
-| J-Hope                             | Hope World                                                   |
+| 2CHAMP (투챔프)                    | *2 champ beat*                                               |
+| Duble Sidekick                     | *Double kick!*                                               |
+| MINO                               | *I'm MINO/M INO.*                                            |
+| RM                                 | *RM*                                                         |
+| J-Hope                             | *Hope World*                                                 |
 | ……                                 | ……                                                           |
 
 <div class='video-container'><iframe src="https://open.spotify.com/embed/playlist/0vuvwdhEvdp6h7oPwIs85L" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
