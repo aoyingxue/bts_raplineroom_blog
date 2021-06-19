@@ -101,6 +101,8 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | MINO (WINNER)                      | *I'm MINO/M INO.*                                            |
 | RM (BTS)                           | *RM*                                                         |
 | J-Hope (BTS)                       | *Hope World*                                                 |
+| Panda Gomm                         | *Panda~*                                                     |
+| sec paul                           | *Do not find Paul*                                           |
 | ……                                 | ……                                                           |
 
 <div class='video-container'><iframe src="https://open.spotify.com/embed/playlist/0vuvwdhEvdp6h7oPwIs85L" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
