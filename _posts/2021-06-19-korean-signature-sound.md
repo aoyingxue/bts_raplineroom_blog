@@ -12,11 +12,10 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 
 如果强调制作方面，则翻译为标志音更合适；但如果强调著作权，则称之为音频水印会更为合适。虽然大部分标志音由制作人使用，但并不一定只有作曲家或制作人才使用标志音。制作人有时会使用"Producer Tag"一词，可以看做是同义词。
 
-以下名单部分参考Namu关于[시그니처 사운드](https://namu.wiki/w/시그니처 사운드)维基页，对应歌单参考[Spotify](https://open.spotify.com/playlist/0vuvwdhEvdp6h7oPwIs85L?si=6ee9eb0db7894976)。
+以下名单部分参考Namu关于[시그니처 사운드](https://namu.wiki/w/시그니처 사운드)维基页，无特别排序，对应歌单请参考文章结尾的[Spotify](https://open.spotify.com/playlist/0vuvwdhEvdp6h7oPwIs85L?si=6ee9eb0db7894976)歌单。
 
 | 歌手/rapper/制作人                 | 标志音(Signature Sounds/Producer Tags)                       |
 | ---------------------------------- | ------------------------------------------------------------ |
-| MINO                               | *I'm MINO / M INO*                                           |
 | BILL STAX                          | *Stax*                                                       |
 | 朴振英                             | *JYP*                                                        |
 | Brave Brother                      | *Brave Sound~*                                               |
