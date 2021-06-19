@@ -103,7 +103,7 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | J-Hope (BTS)                       | *Hope World*                                                 |
 | Panda Gomm                         | *Panda~*                                                     |
 | sec paul                           | *Do not find Paul*                                           |
-| Gong Hoon                          | *플리즈공 (???Please, Gong)*                                 |
+| Gong Hoon                          | *플리즈공 (???Please, Gong/gone)*                            |
 | ……                                 | ……                                                           |
 
 <div class='video-container'><iframe src="https://open.spotify.com/embed/playlist/0vuvwdhEvdp6h7oPwIs85L" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
