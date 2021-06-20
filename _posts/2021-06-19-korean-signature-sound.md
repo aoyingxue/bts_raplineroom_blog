@@ -23,16 +23,16 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | Giriboy                            | *GRBoy / GR* (by Kasper)                                     |
 | GroovyRoom                         | *Groovy, Everywhere* (by 外国小男孩)                         |
 | Code Kunst                         | 偶尔有*'Holy Fucking Shit!'*或者*'Holy Fuck!'*的嘶吼男声在暗黑曲风里 |
-| ZICO                               | 出道早期*'ZICO'*/現*'ZI-A-CO'*/FANXY CHILD时期*'FANXY'*，KOZ后偶尔*'K.O.Z.'* |
+| ZICO                               | 出道早期*'ZICO'*/現*'ZI-A-CO'*/<br />FANXY CHILD时期*'FANXY'*，KOZ后偶尔*'K.O.Z.'* |
 | 朴经                               | *Aight!*                                                     |
 | P.O                                | 在小分队BLOCK B - BASTARZ时期偶尔*'It's me'*                 |
 | BLOCK B - BASTARZ                  | *BASTARZ*                                                    |
-| Cha Cha Malone                     | 前*'Cha Cha~*'(by 朴宰范)，現*'I need a chacha beat boy'* (by Hoody，也有说是朴宰范好友) |
+| Cha Cha Malone                     | 前*'Cha Cha~*'(by 朴宰范)<br />現*'I need a chacha beat boy'* (by Hoody，也有说是朴宰范好友) |
 | Andup                              | *'Andup in the house~'*                                      |
 | Kisum                              | *'K I S U M'*                                                |
-| Dok2                               | 早期为'*Thunderground music*'，自己制作的歌中为'*Gonzo*', G-MIX中出现'*It's the G-MIX*' |
+| Dok2                               | 早期为'*Thunderground music*' / <br />自己制作的歌中为'*Gonzo*' /<br />G-MIX中出现'*It's the G-MIX*' |
 | G-Dragon                           | '*GD*', BigBang中偶尔出现*'Big~Bang'*                        |
-| T.O.P                              | *'T.O.P' / 'T-T-TOP on the Mic' /* 常见*'Let me tell ya'*    |
+| T.O.P                              | *'T.O.P' / 'T-T-TOP on the Mic' /* <br />常见*'Let me tell ya'* |
 | Simon Dominic                      | 偶尔使用*'Simon says'*                                       |
 | Beenzino                           | *'Isshoman'*，念作 'It's Your Man'.                          |
 | 辉晟/Wheesung/Realslow             | 'REAL SLOW'，常为feat的艺人帮唱                              |
@@ -40,13 +40,13 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | Yumdda                             | *''八哥' / '살어 beat'*                                      |
 | 玟星/Moonbyul                      | *'Word Up! Moon Star'*                                       |
 | RAVI                               | *'RAVI the crackkidz'*                                       |
-| BlackNut                           | *'HANYOHAN, xxx, drop the beat' / '만약 블랙넛이 너를 못 믿으면 그냥 쏴 버려*' If Black Nut doesn't trust you, just shoot him.(模仿Metro Boomin) |
+| BlackNut                           | *'HANYOHAN, xxx, drop the beat' / <br />'만약 블랙넛이 너를 못 믿으면 그냥 쏴 버려*' If Black Nut doesn't trust you, just shoot him.(模仿Metro Boomin) |
 | SEVENTEEN                          | *'SEVENTEEN'*                                                |
 | Detempo                            | *'Mr.D's in the Building'*                                   |
-| DPR LIVE                           | *'Coming to you LIVE'* / 在中间出现 *'IIte Cool'*            |
+| DPR LIVE                           | *'Coming to you LIVE'* / <br />在中间出现 *'IIte Cool'*      |
 | Woogie                             | *'Woogie On & On'* (by Cha Cha Malone)                       |
 | Don Mills                          | *'Mills gon do it'*                                          |
-| CL                                 | *'How dare you, Set them on fire' / 'Where my kijibaes at?'* (常在现场开场时喊麦) |
+| CL                                 | *'How dare you, Set them on fire' / <br />'Where my kijibaes at?'* (常在现场开场时喊麦) |
 | 2NE1                               | '*2NE1*'                                                     |
 | BOYCOLD                            | *'Hey boy, it's cold'* (by Younha)                           |
 | Bronze                             | 偶尔有 '*We Got Bronze'* (by 朴宰范)                         |
@@ -57,15 +57,15 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | pH-1                               | *'pH-1 boy'*                                                 |
 | SHINee                             | *'SHINee's back'*                                            |
 | IOAH                               | '*IOAH*'                                                     |
-| Suga (BTS)                         | 轻吟 '*Suga*'                                                |
+| Suga (BTS)                         | 轻吟 '*Suga*' / A to the                                     |
 | Olltii                             | *'난 올라'*                                                  |
 | SLO                                | *'SLO야 그거 틀어봐'* (SLO啊放那首吧)                        |
 | Laptopboyboy (現FUTURISTIC SWAVER) | *'Laptopboyboy~'*                                            |
 | Woodie Gochild                     | *'yes im woodie gochild~' / 'gochild~'*                      |
 | Squabby Doo                        | *'Squabby'*                                                  |
-| The Need                           | 邪笑声/ 現 *'I Need You'*                                    |
+| The Need                           | 邪笑声/ <br />現 *'I Need You'*                              |
 | twlv                               | *'자신있나'* (有自信吗)                                      |
-| ZENE THE ZILLA                     | *'ZILLA ZILLA ZILLA PPP-Prrr~' / 女声'ZENE THE ZILLA uh-ha-ha'* |
+| ZENE THE ZILLA                     | *'ZILLA ZILLA ZILLA PPP-Prrr~' / <br />女声'ZENE THE ZILLA uh-ha-ha'* |
 | DAKSHOOD                           | *'What? Did you really make this?'*                          |
 | Primeboi                           | *'Prime boi music'*                                          |
 | sAewoo                             | *'s, A, e, woo.'*                                            |
@@ -75,11 +75,11 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | Coa White                          | *'콧치콧치'* <br />(哼哧哼哧, コッチコッチ, 这里这里的意思)  |
 | Cosmic boy                         | *'Can I Cosmic?'*                                            |
 | BRLLNT                             | 由该歌曲演唱者介绍 '*BRILLIANT*'                             |
-| Goosebumps                         | *Goosebumps/Goosebumps baby~/Goosebumps on the track*        |
+| Goosebumps                         | *Goosebumps/Goosebumps baby~/<br />Goosebumps on the track*/<br />Sik-K限定 *'Yo Goosebumps, send me some shit.'* |
 | Minit                              | *Wait a min, boy.*                                           |
 | Way Ched                           | *Way ched, It's your way.* (by sogumm)                       |
 | Eddy Pauer                         | *aaaaahh~~ Pauer!!*                                          |
-| slom                               | *slom*~ (Simon D限定)                                        |
+| slom                               | Simon D限定 *'slom'~*                                        |
 | DPR CREAM                          | *yo, is this cream?*                                         |
 | Big Banana                         | *Banana Beats.*                                              |
 | Cheno                              | *It’s not Cheno.*                                            |
@@ -104,6 +104,7 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | Panda Gomm                         | *Panda~*                                                     |
 | sec paul                           | *Do not find Paul*                                           |
 | Gong Hoon                          | *플리즈공 (???Please, Gong/gone)*                            |
+| B.I                                | *'Ho!'* 常在rap verse开头                                    |
 | ……                                 | ……                                                           |
 
 <div class='video-container'><iframe src="https://open.spotify.com/embed/playlist/0vuvwdhEvdp6h7oPwIs85L" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
