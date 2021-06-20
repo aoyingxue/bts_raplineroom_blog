@@ -23,9 +23,9 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | Giriboy                            | *GRBoy / GR* (by Kasper)                                     |
 | GroovyRoom                         | *Groovy, Everywhere* (by 外国小男孩)                         |
 | Code Kunst                         | 偶尔有*'Holy Fucking Shit!'*或者*'Holy Fuck!'*的嘶吼男声在暗黑曲风里 |
-| ZICO                               | 出道早期*'ZICO'*/現*'ZI-A-CO'*/<br />FANXY CHILD时期*'FANXY'*，KOZ后偶尔*'K.O.Z.'* |
-| 朴经                               | *Aight!*                                                     |
-| P.O                                | 在小分队BLOCK B - BASTARZ时期偶尔*'It's me'*                 |
+| ZICO (Block B)                     | 出道早期*'ZICO'*/現*'ZI-A-CO'*/<br />FANXY CHILD时期*'FANXY'*，KOZ后偶尔*'K.O.Z.'* |
+| 朴经 (Block B)                     | *Aight!*                                                     |
+| P.O (Block B)                      | 在小分队BLOCK B - BASTARZ时期偶尔*'It's me'*                 |
 | BLOCK B - BASTARZ                  | *BASTARZ*                                                    |
 | Cha Cha Malone                     | 前*'Cha Cha~*'(by 朴宰范)<br />現*'I need a chacha beat boy'* (by Hoody，也有说是朴宰范好友) |
 | Andup                              | *'Andup in the house~'*                                      |
