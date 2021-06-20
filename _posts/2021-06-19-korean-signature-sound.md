@@ -27,7 +27,7 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | 朴经 (Block B)                     | *Aight!*                                                     |
 | P.O (Block B)                      | 在小分队BASTARZ时期偶尔 *'It's me'*                          |
 | BLOCK B - BASTARZ                  | *BASTARZ*                                                    |
-| Cha Cha Malone                     | 前*'Cha Cha~*'(by 朴宰范)<br />現*'I need a chacha beat boy'* (by Hoody, 后说是朴宰范好友) |
+| Cha Cha Malone                     | 前*'Cha Cha~*'(by 朴宰范)<br />現*'I need a chacha beat boy'* (曾传说是Hoody, 后说是朴宰范西雅图邻居好友, 那位帮忙遛狗的妹子) |
 | Andup                              | *'Andup in the house~'*                                      |
 | Kisum                              | *'K I S U M'*                                                |
 | Dok2                               | 早期为'*Thunderground music*' / <br />自己制作的歌中为'*Gonzo*' /<br />G-MIX中出现'*It's the G-MIX*' |
