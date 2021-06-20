@@ -85,7 +85,7 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | Cheno                              | *It’s not Cheno.*                                            |
 | STAFFONLY                          | *I'm your Staff*                                             |
 | badassgatsby                       | *Your real badass*                                           |
-| JUSTHIS                            | *Bring Rap JUSTHIS* (改编自Was - ‘Made You Look’)            |
+| JUSTHIS                            | *Bring Rap JUSTHIS* (改编自Nas - ‘Made You Look’)            |
 | Swings                             | *Swings Swings Swings*                                       |
 | Tommy Strate                       | *I said make my fucking tags, Tommy Strate'n it all out*     |
 | DKash                              | *Da da da diamond / Diamond Cash Music*                      |
