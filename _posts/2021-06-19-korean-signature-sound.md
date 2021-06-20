@@ -57,7 +57,7 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | pH-1                               | *'pH-1 boy'*                                                 |
 | SHINee                             | *'SHINee's back'*                                            |
 | IOAH                               | '*IOAH*'                                                     |
-| Suga (BTS)                         | 轻吟 '*Suga*' / A to the                                     |
+| Suga (BTS)                         | 轻吟 '*Suga*'                                                |
 | Olltii                             | *'난 올라'*                                                  |
 | SLO                                | *'SLO야 그거 틀어봐'* (SLO啊放那首吧)                        |
 | Laptopboyboy (現FUTURISTIC SWAVER) | *'Laptopboyboy~'*                                            |
