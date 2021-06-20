@@ -23,15 +23,15 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | Giriboy                            | *GRBoy / GR* (by Kasper)                                     |
 | GroovyRoom                         | *Groovy, Everywhere* (by 外国小男孩)                         |
 | Code Kunst                         | 偶尔有*'Holy Fucking Shit!'*或者*'Holy Fuck!'*的嘶吼男声在暗黑曲风里 |
-| ZICO (Block B)                     | 出道早期*'ZICO'*/現*'ZI-A-CO'*/<br />FANXY CHILD时期*'FANXY'*，KOZ后偶尔*'K.O.Z.'* |
+| ZICO (Block B)                     | 出道早期*'ZICO'* / 現*'ZI-A-CO'* /<br />FANXY CHILD时期*'FANXY'* / KOZ后偶尔*'K.O.Z.'* |
 | 朴经 (Block B)                     | *Aight!*                                                     |
-| P.O (Block B)                      | 在小分队BLOCK B - BASTARZ时期偶尔*'It's me'*                 |
+| P.O (Block B)                      | 在小分队BASTARZ时期偶尔 *'It's me'*                          |
 | BLOCK B - BASTARZ                  | *BASTARZ*                                                    |
-| Cha Cha Malone                     | 前*'Cha Cha~*'(by 朴宰范)<br />現*'I need a chacha beat boy'* (by Hoody，也有说是朴宰范好友) |
+| Cha Cha Malone                     | 前*'Cha Cha~*'(by 朴宰范)<br />現*'I need a chacha beat boy'* (by Hoody, 后说是朴宰范好友) |
 | Andup                              | *'Andup in the house~'*                                      |
 | Kisum                              | *'K I S U M'*                                                |
 | Dok2                               | 早期为'*Thunderground music*' / <br />自己制作的歌中为'*Gonzo*' /<br />G-MIX中出现'*It's the G-MIX*' |
-| G-Dragon                           | '*GD*', BigBang中偶尔出现*'Big~Bang'*                        |
+| G-Dragon                           | '*GD*', BigBang中偶尔出现 *'Big~Bang'*                       |
 | T.O.P                              | *'T.O.P' / 'T-T-TOP on the Mic' /* <br />常见*'Let me tell ya'* |
 | Simon Dominic                      | 偶尔使用*'Simon says'*                                       |
 | Beenzino                           | *'Isshoman'*，念作 'It's Your Man'.                          |
