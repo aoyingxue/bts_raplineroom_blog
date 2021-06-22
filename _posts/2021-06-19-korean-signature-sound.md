@@ -48,7 +48,7 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | Don Mills                          | *'Mills gon do it'*                                          |
 | CL                                 | *'How dare you, Set them on fire' / <br />'Where my kijibaes at?'* (常在现场开场时喊麦) |
 | 2NE1                               | '*2NE1*'                                                     |
-| BOYCOLD                            | *'Hey boy, it's cold'* (by Younha)                           |
+| BOYCOLD                            | *'Hey boy, it's cold'* (by Younha) / 'Boycold in the trap' (Sik-K限定) |
 | Bronze                             | 偶尔有 '*We Got Bronze'* (by 朴宰范)                         |
 | UGP                                | *'U.G.P.'*                                                   |
 | Sik-K                              | *'Young hot yellow'*                                         |
@@ -99,7 +99,7 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | 2CHAMP (투챔프)                    | *2 champ beat*                                               |
 | Duble Sidekick                     | *Double kick!*                                               |
 | MINO (WINNER)                      | *I'm MINO/M INO.*                                            |
-| RM (BTS)                           | *RM*                                                         |
+| RM (BTS)                           | *RM* / *RKive*                                               |
 | J-Hope (BTS)                       | *Hope World*                                                 |
 | Panda Gomm                         | *Panda~*                                                     |
 | sec paul                           | *Do not find Paul*                                           |
