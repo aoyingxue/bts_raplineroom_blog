@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: "pH-1:"我不想因那些想用条条框框限制我的人而烦恼""
+Title: "pH-1:'我不想因那些想用条条框框限制我的人而烦恼'
 date: 2021-06-22
 author: NME
 tags: [Interviews, 采访]
