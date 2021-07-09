@@ -23,3 +23,5 @@ toc: false
 BTS将在"A Butterful Getaway with BTS"中第一次表演这首歌，该节目将于晚上9点在韩国网络平台Naver上直播。
 
 该组合还计划在美国时间周二与周三，在著名脱口秀节目"The Tonight Show Starring Jimmy Fallon"上演唱这两首歌曲。
+
+![482447CA-3BF3-4601-8BA1-056CD64B4652_1_105_c](https://tva1.sinaimg.cn/large/008i3skNgy1gsauu67ewlj30u60k4aga.jpg)
