@@ -88,26 +88,24 @@ toc: false
 
 **Tablo:** “哦天，那……过去和现在都有对吧？（思考着）我想和John Lennon一起写一首歌，虽然我不确定我是不是能胜任，但他应该会说，‘朋友，坐那边去把这个完成吧。’我们可能还会经常吵架，但我想我会很乐意和John Lennon一起写歌。我的意思是有那么多艺术家我都想同台，比如在Nirvana表演的时候给他们摇个铃啥的……有太多艺术家了。”
 
-You also had a fan moment when [Filipina singer and actress] Lea Salonga tweeted about Epik High recently.
+**你最近还遇到了个粉丝时刻，菲律宾歌手兼演员Lea Salonga前段时间发了关于Epik High的推？**
 
-**你最近还遇到了个粉丝时刻，菲律宾歌手兼演员Lea Salonga**
-
-Tablo: “I’m a huge, huge Disney music fan. Disney princess songs, specifically, really get me through difficult times. And Lea’s sung a lot of those songs, right? She was the voice of so many princesses so, like, it was crazy that she was listening to our music, and tweeting [about] us. I was like, just totally like a fanboy. But yeah, that was awesome.”
+Tablo: “我是一个超级超级的迪士尼音乐粉丝，尤其是迪士尼公主们的歌真的帮我度过了困难时期。Lea唱了很多这样的歌，她为了很多公主配音。所以她会听我们的歌，发关于我们的推，这真的太疯狂了。我就像个完完全全的fanboy，真的太棒了。”
 
 ![epik high tablo interview rain song inspiration younger generation mental health](https://tva1.sinaimg.cn/large/008i3skNgy1gskfe3ghjfj31ba0u0jvr.jpg)
 
 ### “我不知道我是不是想被人铭记住”
 
-When asked how he would like to be remembered, Tablo pauses for a few seconds to consider the question. “I think I’ve answered this in a strange way [before],” he says, breaking the silence. “Every time I’m asked this, I answer in such a drastically different way. People are going to think that I’m just making stuff up, but it changes day to day.”
+当被问到他是否想被人铭记住的时候，Tablo暂停了几秒思考了一下这个问题。“我觉得我之前应该用一种奇怪的方式回答过这个问题，”他打破了沉默，“每次我被问到这个问题，我的回答都完全不同。人们开始觉得我可能是在瞎编，但它真的每天都在变。”
 
-So, how *would* he like to be remembered at this present moment?
+**那么，在现在此刻的他，希望人们能记住什么呢？**
 
-“Honestly, I don’t know if *I* want to be remembered,” he replies after much thought. “I would rather [have people remember] that I made [them] feel a certain way within themselves. Whether [it’s] solace or feeling like you can do anything, or just an emotion you’ve never felt before – I’d like to be able to give people that.”
+“说实话，我不知道我是不是想被人铭记住，”他熟思后回答道，“我宁愿人们记得是我让他们感受到内心的某种感受，无论是被安慰的感觉、所向无敌的感觉，或者就是一种你从未感受过的情感——我希望能够给人们这样的感受。”
 
-“They can forget me, they can forget my songs, they can forget Epik High, they can forget where that feeling came from, but I would love it if they never forget that moment when they first felt it,” Tablo adds, echoing a classic saying by late poet Maya Angelou about how “people will forget what you said, people will forget what you did, but people will never forget how you made them feel”.
+“他们可以忘记我，忘记我的歌，忘记Epik High，忘记那样的感情是从何而来的，但我想他们绝不要忘记第一次感受到的那一瞬间，”Tablo补充说，而这正与一位过世的诗人Maya Angelou曾说过的经典语录相呼应，她说，“人们会忘记你所说所做的，但人们永远不会忘记你给他们的感受。”
 
-“Every day that passes, every year that passes, I do get scared because I know that with time, it’s very possible that we could slowly fade away,” Tablo muses. “And everyone does, right? But the fact that I’ve apparently influenced other people who can carry on influencing *other* people, and on and on – that sort of gives me hope.”
+“过去的每一天、每一年，我都会感到恐惧，因为我知道，随着时间的推移，我们很可能会慢慢消失于无形，”Tablo沉思着说，“每个人都是这样，对吧？但事实是我显然已经影响了‘其他人’，而这些人会继续影响更多的‘其他人’，如此延续，这给了我希望。”
 
-*Epik High’s new single ‘Rain Song’ is out now, with ‘Part Two’ of their ‘Epik High Is Here’ album expected to be released later this year.*
+*Epik High的新单曲‘Rain Song’已经发行了，第二部分的Epik High Is Here预计在下半年发行。*
 
 [原文链接](https://www.nme.com/features/music-interviews/epik-high-tablo-interview-rain-song-mental-health-k-pop-inspiration-younger-generation-2994321?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=)
