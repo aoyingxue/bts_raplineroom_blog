@@ -69,9 +69,9 @@ Signature Sound，是大众音乐、特别是嘻哈音乐的作曲家，为了�
 | DAKSHOOD                           | *'What? Did you really make this?'*                          |
 | Primeboi                           | *'Prime boi music'*                                          |
 | sAewoo                             | *'s, A, e, woo.'*                                            |
-| Ian Ka$h                           | *'Who got the cash? 또는 Ian Ka$her~'*                       |
+| Ian Ka\$h                          | 'Who got the cash? 또는 Ian Ka$her~'                         |
 | GXXD (Girlnexxtdoor, Vandale)      | '*Can I Come In?*' <br />(by Elisha Cuthbert, 利用了电影"The Girl Next Door"中的她饰演的Danielle的声音) |
-| APRO                               | *'APRO Is Different.'* (by Loopy)                            |
+| APRO                               | *'APRO Is Different.'* (是APRO最好的朋友泳勋的声音，ig：nabidle_blue) |
 | Coa White                          | *'콧치콧치'* <br />(哼哧哼哧, コッチコッチ, 这里这里的意思)  |
 | Cosmic boy                         | *'Can I Cosmic?'*                                            |
 | BRLLNT                             | 由该歌曲演唱者介绍 '*BRILLIANT*'                             |
