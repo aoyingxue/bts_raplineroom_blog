@@ -41,11 +41,17 @@ toc: false
 -----
 
 > Photographer/ Heejune Kim
+>
 > Talent: One at MGMT PROJECT 
+>
 > Contributing editor/ Y W Lee 
+>
 > Stylist/ Youngjin Kim
+>
 > Hair/ Enoc Lee
+>
 > Make up/ Sukkyung Lee
+>
 > Casting: Timotej Letonja
 >
 > [原文](https://www.numeromag.nl/conversation-one#_) 
