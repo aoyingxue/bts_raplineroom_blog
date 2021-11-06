@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tabber - "Adrenaline" / THE:RISE SEASON 4 采访"
+title: "Tabber - Adrenaline / THE:RISE SEASON 4 采访"
 date: 2021-08-11
 author: Melon
 tags: [Interviews, 采访, 嘻哈, Tabber, "you.will.knovv"]
