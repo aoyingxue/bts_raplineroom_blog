@@ -40,19 +40,35 @@ SUGA继续说道，“这是出道以来在韩国停留时间最长的一次，�
 
 > [原文链接](https://www.vogue.co.kr/2021/12/21/%eb%af%bc%ec%8a%a4%ed%8a%b8%eb%9d%bc%eb%8b%a4%eb%ac%b4%ec%8a%a4-%ec%8a%88%ea%b0%80%ec%9d%98-%ed%99%94%eb%b2%95/) 
 
-![1607504274930-000020](https://img.vogue.co.kr/vogue/2021/12/style_61c16721b65da.jpg#pic-center)
+<center>
+  <img src="https://img.vogue.co.kr/vogue/2021/12/style_61c16721b65da.jpg"> 
+</center>
 
-![img](https://img.vogue.co.kr/vogue/2021/12/style_61c1672ce58bf-748x930.jpg#pic-center)
+<center>
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxtsz6l5x0j30ks0pujsv.jpg"> 
+</center>
 
-![img](https://tva1.sinaimg.cn/large/008i3skNgy1gxtsjwrq1rj30ks0pu0ub.jpg#pic-center)
+<center>
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxtsjwrq1rj30ks0pu0ub.jpg"> 
+</center>
 
-![img](https://tva1.sinaimg.cn/large/008i3skNgy1gxtskmz1bhj30ks0pudhe.jpg#pic-center)
+<center>
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxtskmz1bhj30ks0pudhe.jpg"> 
+</center>
 
-![img](https://tva1.sinaimg.cn/large/008i3skNgy1gxtskvck6ej30ks0pu76w.jpg#pic-center)
+<center>
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxtskvck6ej30ks0pu76w.jpg"> 
+</center>
 
-![img](https://tva1.sinaimg.cn/large/008i3skNgy1gxtsl4c3s1j30pu0g2q4f.jpg#pic-center)
+<center>
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxtsl4c3s1j30pu0g2q4f.jpg"> 
+</center>
 
-![img](https://tva1.sinaimg.cn/large/008i3skNgy1gxtslco7pdj30ks0puwfr.jpg#pic-center)
+<center>
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxtslco7pdj30ks0puwfr.jpg"> 
+</center>
 
-![img](https://tva1.sinaimg.cn/large/008i3skNgy1gxtslt1jysj30u011bjuc.jpg#pic-center)
+<center>
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxtslt1jysj30u011bjuc.jpg"> 
+</center>
 
