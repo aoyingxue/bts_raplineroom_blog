@@ -8,7 +8,7 @@ comments: true
 toc: false
 ---
 
-**堪称“闵斯特拉德马斯”的SUGA，异想天开又别具一格。** 
+### 堪称“闵斯特拉德马斯”的SUGA，异想天开又别具一格。
 
 > 注：标题中的Minstradamus，是粉丝为SUGA取的一个英文昵称，由闵玧其的闵和著名预言家Nostradamus合成。Nostradamus是被视为历史上预言最为准确的先知之一，而闵玧其的多个预言也成真了。
 
