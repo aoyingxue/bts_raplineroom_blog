@@ -80,6 +80,8 @@ Indigo la End和他们的厂牌联系了我的公司，希望进行合作。在�
 
 今年是有点惭愧的一年，我本来有很多职业规划的，但都被COVID-19给打破了。虽然很令人伤心，但我也学会了感激一切被给予的东西。能在这里靠制作音乐谋生，养活我自己和我的家人们，我感到很幸福。很期待明年能够线下演出。祈祷。
 
+[原文链接](https://www.tatlerasia.com/culture/entertainment/south-korean-rapper-ph-1-lately-interview) 
+
 <center>
   <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxtx9ywovmj30rm15o42m.jpg">
 </center>
