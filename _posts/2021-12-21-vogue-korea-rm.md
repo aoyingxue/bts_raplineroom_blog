@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RM的热烈旅途"
+title: "RM的激烈旅途"
 date: 2021-12-29
 author: "Vogue Korea"
 tags: [BTS, RM, Interviews, 采访]
