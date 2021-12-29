@@ -71,4 +71,3 @@ SUGA继续说道，“这是出道以来在韩国停留时间最长的一次，�
 <center>
   <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gxtslt1jysj30u011bjuc.jpg"> 
 </center>
-
