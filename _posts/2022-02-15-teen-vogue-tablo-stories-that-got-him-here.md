@@ -3,7 +3,7 @@ layout: post
 title: "Epik High的Tablo讲述成功，霸凌以及引领他到这里的故事"
 date: 2022-02-17
 author: "Teen Vogue 金在河"
-tags: [Epik High, Interviews, 采访]
+tags: [Epik High, Interviews, 采访, Teen Vogue]
 comments: true
 toc: false
 ---
