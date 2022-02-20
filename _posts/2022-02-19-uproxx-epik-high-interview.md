@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Epik High的Tablo讲述成功、霸凌以及引领他到这里的故事"
+title: "Epik High将永远引领着这里的一切"
 date: 2022-02-20
 author: "UPROXX"
 tags: [Epik High, Interviews, 采访, 嘻哈]
@@ -59,4 +59,3 @@ toc: false
 <center>
   <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzk3o6h4u0j20xc0m8n08.jpg"> 
 </center>
-
