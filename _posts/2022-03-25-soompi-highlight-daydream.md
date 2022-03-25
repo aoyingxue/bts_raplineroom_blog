@@ -98,3 +98,4 @@ Highlight发布了他们的第一张正规专辑“Daydream”！为了庆祝他
   <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h0mifbvat7j21900u0juq.jpg"> 
 </center>
 
+[原文链接](https://www.soompi.com/article/1518685wpp/exclusive-interview-highlight-dishes-on-daydream-comeback-dramas-hobbies-and-more)
