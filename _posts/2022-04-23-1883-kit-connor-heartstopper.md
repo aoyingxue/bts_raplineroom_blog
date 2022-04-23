@@ -155,3 +155,4 @@ Special thanks to **[Woolwich Equitable,](https://www.instagram.com/woolwich_equ
 
 翻译 **[RaplineRoom/CutiePieCP](https://weibo.com/u/1648765875/home?topnav=1&wvr=6)**
 
+原文 **[1883 magazine](http://www.1883magazine.com/kit-connor)** 
