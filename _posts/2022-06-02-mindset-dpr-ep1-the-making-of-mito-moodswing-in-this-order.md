@@ -10,7 +10,7 @@ toc: false
 
 我为生命中不同时期选择不同的名字，只是源于我对创造新的行为、新的角色、新的身份的热爱。我就是一个这样的人。
 
-第一集：Moodswings in This Order，MITO的制作过程。
+**第一集：Moodswings in This Order，MITO的制作过程。**
 
 我是DPR IAN，一名艺术家，也同时是DPR的视觉总监。
 
