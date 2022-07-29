@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "DPR IAN's MINDSET EP.1翻译(片段1)"
+title: "DPR IAN's MINDSET EP.1 翻译(片段1)"
 date: 2022-06-02
-author: Billboard
+author: Mindset
 tags: [Interviews, 采访, 嘻哈, DPR IAN, DPR]
 comments: true
 toc: false
