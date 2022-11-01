@@ -3,7 +3,7 @@ layout: post
 title: "‘如果我不再喜欢音乐了怎么办?’——一段BTS RM与Pharrell Williams之间的尤为诚实的对话(上)"
 date: 2022-11-01
 author: RollingStone
-tags: [Interviews, 采访, BTS, Pharrell Williams]
+tags: [Interviews, 采访, BTS, RM, Pharrell Williams]
 comments: true
 toc: false
 ---
