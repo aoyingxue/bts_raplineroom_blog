@@ -1,7 +1,7 @@
 ## About
 
-Rapline Room Blog was initiated on 2020/02/24. The website is mainly for recording all the translation of news and album reviews posted by global media platforms.
+RaplineRoom Blog was initiated on 2020/02/24. The website is mainly for recording all the translation of news and album reviews posted by global media platforms. It's renamed to RecmRoom on January 24.
 
-Most of the news will be credited to the original website or YouTube video, unless it is lost. Credits to all those contributed. 
+Most of the news will be credited to the original website or YouTube video, unless it is lost. Credits to all those contributed.
 
-Domain is distributed by Google Domain and hosted by GitHub Repo. 
+Domain is distributed by Google Domain and hosted by GitHub Repo.
