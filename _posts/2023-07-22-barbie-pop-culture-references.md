@@ -213,3 +213,4 @@ Ryan Gosling的solo先行曲"I'm Just Ken"，是高司令向Mark Ronson提出要
 2. NSYNC’s JC Chasez Talks Meow Mix Commercial and Ryan Gosling’s ‘Barbie’ Movie https://theknockturnal.com/nsyncs-jc-chasez-talks-meow-mix-commercial-and-ryan-goslings-barbie-movie/
 3. Oscar-Winning Costume Designer Ann Roth Shares a Brief — but Impactful — Moment with Margot Robbie in 'Barbie' https://people.com/who-is-ann-roth-barbie-cameo-oscar-winning-costume-designer-7563599
 4. The Official Barbie Watchlist: Greta Gerwig on the classic film influences behind her fantasy-comedy-kind-of-musical https://letterboxd.com/journal/the-official-barbie-watchlist-greta-gerwig/
+5. Greta Gerwig on Adding a Proust “Easter Egg” in ‘Barbie,’ Connection to ‘Oppenheimer’ https://www.hollywoodreporter.com/movies/movie-news/greta-gerwig-barbie-proust-easter-egg-oppenheimer-1235540750/
