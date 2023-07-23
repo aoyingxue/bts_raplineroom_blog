@@ -19,23 +19,21 @@ toc: false
 
 ### 影视方面
 
-#### 多达33部电影的官方致敬列表 (Greta Gerwig’s Official Barbie Watchlist by Letterboxd)
+#### 1. 多达33部电影的官方致敬列表 (Greta Gerwig’s Official Barbie Watchlist by Letterboxd)
 
 ##### The Wizard of Oz (1939) (绿野仙踪)
 
 可能是致敬内容最多的一部电影，无论是片场设计，离开Barbie Land的步道方式 (Oz是黄色地面，芭比是粉红路面)，甚至在Barbie Land电影院里放的也是Oz
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/1.jpg" alt="1" style="zoom:30%;" class="center" />
-
-
+<img src="../images/2023-07-22-barbie-pop-culture-references/1.jpg" alt="1" style="zoom:20%;" class="center" />
 
 ##### 法国导演Jacques Demy的多部作品，包括"The Umbrellas of Cherbourg (1964) (瑟堡的雨伞)"，"The Young Girls of Rochefort (1967) (柳媚花娇)"，"Model Shop (1969) (悬崖勒马)"
 
 对粉蓝色系的运用、经典视觉造型和音乐剧形式的表达，参考致敬了Catherine Deneuve在"瑟堡的雨伞"中的法式发型，以及"柳媚花娇"中的帽子
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/2.jpg" alt="2" style="zoom:30%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/2.jpg" alt="2" style="zoom: 15%;" class="center" />
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/3.jpg" alt="3" style="zoom: 67%;" class="center"/>
+<img src="../images/2023-07-22-barbie-pop-culture-references/3.jpg" alt="3" style="zoom: 30%;" class="center"/>
 
 
 
@@ -43,15 +41,13 @@ toc: false
 
 参考了西班牙导演Pedro Almodóvar镜头下鲜亮丰富的色彩语言
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/4.jpg" alt="4" style="zoom: 33%;" class="center"/>
-
-
+<img src="../images/2023-07-22-barbie-pop-culture-references/4.jpg" alt="4" style="zoom: 20%;" class="center"/>
 
 ##### Gene Kelly的多部作品，包括 "An American in Paris (1951) (一个美国人在巴黎)"， "Singin’ in the Rain (1952) (雨中曲)"
 
 芭比每日醒来的晨间准备参考了"An American in Paris"中Gene的角色（另外也有1995年青春电影Clueless主角Cher形象的影子）；Barbie Land的整体视觉效果参考了30s-50s黄金时期的好莱坞经典电影场景，而Ken们身着黑衣斗舞的那段更是参考了"Singin’ in the Rain"中的芭蕾双人舞经典桥段
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/5.jpg" alt="5" style="zoom:33%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/5.jpg" alt="5" style="zoom:20%;" class="center" />
 
 
 
@@ -59,21 +55,17 @@ toc: false
 
 电影中长达15分钟的Dream Ballet，非常经典的一段芭蕾歌舞戏
 
-
-
 ##### Gold Diggers of 1935 (1935)
 
 超现实的快速群舞
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/6.jpg" alt="6" style="zoom:33%;" class="center"/>
-
-
+<img src="../images/2023-07-22-barbie-pop-culture-references/6.jpg" alt="6" style="zoom:10%;" class="center"/>
 
 ##### All That Jazz (1979)
 
 片头经典的舞蹈试镜戏为群舞拍摄设立了标杆
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/7.jpg" alt="7" style="zoom:33%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/7.jpg" alt="7" style="zoom:20%;" class="center" />
 
 
 
@@ -81,9 +73,9 @@ toc: false
 
 芭比变成平足之后去找怪芭比的住所寻求答案时的场景参考了"The Red Shoes"中的场景，高司令带了两次的墨镜idea也是参考了片中导演的猫眼墨镜；学用了"平步青云"中创新的特效拍摄和打光技巧
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/8.jpg" alt="8" style="zoom:33%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/8.jpg" alt="8" style="zoom:20%;" class="center" />
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/9.jpg" alt="9" style="zoom:33%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/9.jpg" alt="9" style="zoom:20%;" class="center" />
 
 
 
@@ -91,7 +83,7 @@ toc: false
 
 最明显的一大致敬，即电影开场的叙事，用女孩代替了2001中的猿猴；同时也借用相似的主旨，标志着玩偶甚至是电影的新世代的到来
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/10.jpg" alt="10" style="zoom:30%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/10.jpg" alt="10" style="zoom:20%;" class="center" />
 
 
 
@@ -115,7 +107,7 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 芭比没有镜面可以直接看穿的镜子是直接借鉴了猎艳高手中同样的拍摄手法
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/13.jpg" alt="13" style="zoom:33%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/13.jpg" alt="13" style="zoom:20%;" class="center" />
 
 
 
@@ -123,7 +115,7 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 模仿了后窗处处被看透的片场设计
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/14.jpg" alt="14" style="zoom:33%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/14.jpg" alt="14" style="zoom:20%;" class="center" />
 
 
 
@@ -131,7 +123,7 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 如何制作和表现假海片场
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/15.jpg" alt="15" style="zoom:33%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/15.jpg" alt="15" style="zoom:20%;" class="center" />
 
 
 
@@ -175,7 +167,7 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 电影把控幽默的节奏很有参考价值，比如有一段主角上了火车，和流浪汉唱着歌，唱着唱着不耐烦了，最后跳了火车，虽然只有60s的剧情但是非常有趣
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/20.jpg" alt="20" style="zoom:33%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/20.jpg" alt="20" style="zoom:20%;" class="center" />
 
 
 
@@ -209,9 +201,7 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 一部穿越次元的爱情电影，充满了Daryl Hannah和Tom Hanks的魅力演绎
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/25.jpg" alt="25" style="zoom:50%;" class="center" />
-
-
+<img src="../images/2023-07-22-barbie-pop-culture-references/25.jpg" alt="25" style="zoom:30%;" class="center" />
 
 ##### Saturday Night Fever (1977) & 纪录片 The Bee Gees: How Can You Mend a Broken Heart (2020)
 
@@ -261,7 +251,7 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 芭比和Gloria之间的通灵关系就像史蒂芬金的闪灵中的能力一样，甚至在车上Gloria女儿问道"Are you shining right now?"，直接提及了闪灵
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/31.png" alt="31" style="zoom:33%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/31.png" alt="31" style="zoom:30%;" class="center" />
 
 #### 9. Top Gun (1986) (壮志凌云)
 
@@ -303,7 +293,7 @@ Ken对于马、以及其暗示的男性气质充满执念，他们跳着骑马�
 
  玛丽莲·梦露在电影中著名的压裙动作，也被运用在芭比飞下芭比屋时
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/36.jpg" alt="36" style="zoom:20%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/36.jpg" alt="36" style="zoom:10%;" class="center" />
 
 ### 音乐方面
 
