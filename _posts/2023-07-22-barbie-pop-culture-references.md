@@ -181,7 +181,7 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 ##### Grease (1978) (油脂)
 
-70年代拍摄的50年代的音乐剧，至今为止仍是时尚文化和音乐电影的一大标志
+70年代拍摄的50年代相关音乐剧，至今为止仍是时尚文化和音乐电影的一大标志；黑色t恤和西裤的斗舞造型致敬了油脂中John Travolta 和 Olivia Newton John的"You're The One That I Want"，舞步也有参考
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/21.jpg" alt="21" style="zoom:50%;" class="center" />
 
@@ -277,7 +277,7 @@ Princess Diaries (公主日记), Miss Congeniality (特工佳丽)等等电影里
 
 #### 黑客帝国的经典问题：红蓝药丸你选哪个 (The Matrix, 1999)
 
-芭比寻求怪芭比的帮助时，怪芭比一只手提着高跟鞋，一只手托着平底拖，问芭比选哪个，很难不让人联想到黑客帝国的这个经典药丸问题
+芭比寻求怪芭比的帮助时，怪芭比一只手提着高跟鞋，一只手托着平底拖，问芭比选哪个，很难不让人联想到黑客帝国的这个经典药丸问题；另外，逃离Mattel公司遇见创始人的过程也很致敬
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/33.jpg" alt="33" style="zoom:20%;" class="center" />
 
@@ -291,23 +291,27 @@ Princess Diaries (公主日记), Miss Congeniality (特工佳丽)等等电影里
 
 Ken对于马、以及其暗示的男性气质充满执念，他们跳着骑马舞趾高气昂的模样，致敬了《巨蟒与圣杯》中的假装骑马的无厘头经典动作；《巨蟒与圣杯》通过无厘头笑点对制度滥用、盲目信奉的讽刺，和芭比也正不谋而合
 
-<img src="../images/2023-07-22-barbie-pop-culture-references/34.jpg" alt="34" style="zoom:33%;" class="center" />
+<img src="../images/2023-07-22-barbie-pop-culture-references/34.jpg" alt="34" style="zoom:30%;" class="center" />
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/35.jpg" alt="35" style="zoom:20%;" class="center" />
 
 
 
+#### 14. The Seven Year Itch (1955) (七年之痒) 的梦露压裙摆动作
+
+ 玛丽莲·梦露在电影中著名的压裙动作，也被运用在芭比飞下芭比屋时
+
 <img src="../images/2023-07-22-barbie-pop-culture-references/36.jpg" alt="36" style="zoom:20%;" class="center" />
 
 ### 音乐方面
 
-#### 专辑阵容
+#### 1. 专辑阵容
 
 - 和电影一样，原声带也是一张在致敬经典流行文化的同时体现当下流行趋势、阵容强大的电影音乐专辑
-- 负责全专的音乐制作人是著名制作人Mark Ronson，Spotify官方的Barbie Official Playlist (https://open.spotify.com/playlist/37i9dQZF1DX0wIBbVnPvie?si=48136c7977414ba4) 同样由Ronson亲自添加，除了原声带之外，还包括了制作专辑过程中的致敬歌曲
+- 负责全专的音乐制作人是著名制作人Mark Ronson，Spotify官方的 [Barbie Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0wIBbVnPvie?si=48136c7977414ba4) 同样由Ronson亲自添加，除了原声带之外，还包括了制作专辑过程中的致敬歌曲
 - 演唱迪斯科Party曲"Dance The Night"的Dua Lipa同时其中饰演人鱼芭比
 
-#### "I'm Just Ken"的传奇合作
+#### 2. I'm Just Ken 的传奇合作
 
 - Ryan Gosling的solo先行曲"I'm Just Ken"，是高司令向Mark Ronson提出要本人演唱
 - 这首歌高潮的吉他solo，是由Ronson主动邀请到两位乐队名人参与表演，分别是Guns N' Roses(枪花乐队)的首席吉他手Slash，和Van Halen(范海伦乐队)传奇乐手Eddie Van Halen儿子、同时也负责过范海伦贝斯的Wolfgang Van Halen
@@ -315,13 +319,13 @@ Ken对于马、以及其暗示的男性气质充满执念，他们跳着骑马�
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/37.jpg" alt="37" style="zoom:33%;" class="center" />
 
-- me
+- Ken包上的字体模仿的是Metallica乐队logo
 
   <img src="../images/2023-07-22-barbie-pop-culture-references/38.jpg" alt="38" style="zoom:20%;" class="center" />
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/39.jpg" alt="39" style="zoom:20%;" class="center" />
 
-#### 翻唱改编
+#### 3. 翻唱改编
 
 除了音乐电影的场景和编舞上的致敬之外，原声带也有很多直接翻唱经典的歌曲
 
@@ -329,7 +333,7 @@ Ken对于马、以及其暗示的男性气质充满执念，他们跳着骑马�
 - Ryan Gosling和一众Ken的吉他弹唱曲翻唱了Matchbox Twenty的同名曲"Push"
 - 乡村女歌手Brandi Carlile和妻子Catherine Shepherd (英国喜剧演员，饰演过IT狂人、帕丁顿熊等) 一同翻唱Indigo Girls的同名曲"Closer to Fine"
 
-#### \*NSYNC
+#### 4. \*NSYNC
 
 - Allan在试图和Gloria母女离开Kendom Land时，说自己在外面并不是独一无二的Aaron，顺带吐槽了现实世界的\*NSYNC、曾经是成员之一的贾老板Justin Timberlake以及同时期火遍全球的Aaron Carter
 
@@ -341,15 +345,25 @@ Ken对于马、以及其暗示的男性气质充满执念，他们跳着骑马�
 
   <img src="../images/2023-07-22-barbie-pop-culture-references/40.jpg" alt="40" style="zoom:33%;" class="center" />
 
+#### 5. Lou Reed 和 Pavement 乐队主唱 Stephen Malkmus
 
+Ken给芭比说教那段中，音乐的部分提及了Pavement乐队主唱Stephen Malkmus是如何受Lou Reed风格影响，角落里还有一张Pavement于1992年发行的专辑"Slanted & Enchanted"唱片；在知道自己被芭比提及之后，乐队官方IG也半开玩笑地支持了电影和导演Greta
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/41.jpg" alt="41" style="zoom:33%;" class="center" />
 
 ### 其他
 
-多邻国广告植入：丈夫在家学习西班牙语，使用的APP是Duolingo多邻国，可以听到答题答对的经典音效，多邻国经典形象猫头鹰也出席了首映礼
+#### 1. 多邻国广告植入
+
+丈夫在家学习西班牙语，使用的APP是Duolingo多邻国，可以听到答题答对的经典音效，多邻国经典形象猫头鹰也出席了首映礼
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/42.jpg" alt="42" style="zoom:33%;" class="center" />
+
+#### 2. 学西班牙语的 Gloria 老公扮演者 Ryan Piers Williams
+
+芭比里饰演妈妈Gloria的老公的是Ryan Piers Williams，是Gloria扮演者America Ferrera的真老公；而且最好笑的是IMDB里的角色名是西班牙语的“Gloria的丈夫” 
+
+<img src="../images/2023-07-22-barbie-pop-culture-references/62462bb3ly1hg6xy7h23gj20wi067wes.jpg" alt="img" style="zoom:50%;" class="center"/>
 
 -----
 
