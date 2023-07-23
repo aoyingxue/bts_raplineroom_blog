@@ -221,27 +221,27 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 
 
-#### Pygmalion (皮格马利翁)
+#### 2. Pygmalion (皮格马利翁)
 
 罗马神话中的雕刻家皮格马利翁，创造了完美的女性雕像并为之魂牵梦绕，这个故事原型后被改编成萧伯纳的著名剧本《卖花女》以及音乐剧"My Fair Lady (窈窕淑女)"，而在芭比的剧本中同理，创始人Ruth是那位造物者，芭比代表了完美的女性形象。就像皮格马利翁里的雕像一样，芭比最终也变成了真实的人类踏入了真实的人类社会。
 
-#### 低调却重量级的温暖客串
+#### 3. 低调却重量级的温暖客串
 
 导演Greta Gerwig不允许被剪掉的一幕戏，由91岁的奥斯卡得主、著名电影服装设计师Ann Roth客串，她扮演了一位在芭比刚闯入真实世界时在长椅上偶遇的老妇人，与涉世未深的芭比进行的"You're beautiful." "I know."两句虽简短但感动的对话，被Greta称为"the heart of the movie"
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/27.jpg" alt="27" style="zoom:20%;" class="center" />
 
-#### Zack Snyder's Justice League (Snyder Cut) 扎剪版正联
+#### 4. Zack Snyder's Justice League (Snyder Cut) 扎剪版正联
 
 在芭比们被肯洗脑后，由Alexandra Shipp饰演的芭比苏醒时分说了一句“It’s like I’ve been in a dream where I was really invested in the Zack Snyder cut of Justice League”，在电影上映后也有大量粉丝认为其有讽刺之意而为此攻击
 
-#### 史泰龙的貂皮大衣
+#### 5. 史泰龙的貂皮大衣
 
 在Ken到了现实社会之后看到的一系列经典影像中就有史泰龙的身影，而回到Barbie Land之后身着貂皮的形象也部分参考了史泰龙的经典造型，他曾多次穿着貂皮大衣出席活动
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/28.jpg" alt="28" style="zoom:80%;" class="center" />
 
-#### The Godfather (1972) (教父)
+#### 6. The Godfather (1972) (教父)
 
 相较于致敬，更像是用教父之名讽刺某些普信男，片中总统芭比试图控制刘思慕饰演的Ken时，故意在他看教父时装作无知少女询问道“Oh, are you watching The Godfather”，从而成功点燃其说教欲
 
@@ -249,7 +249,7 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 
 
-#### Pride and Prejudice (BBC, 1995) (傲慢与偏见)
+#### 7. Pride and Prejudice (BBC, 1995) (傲慢与偏见)
 
 在抑郁芭比的那段广告中，芭比穿着运动裤，沉迷《傲慢与偏见》的电视重播；大部分（英国）女生都看过95年的版本，至少也看过Colin Firth的经典镜头，而那时的Firth同样也是英国影视的一大icon
 
@@ -257,13 +257,13 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 
 
-#### The Shining (1980) (闪灵)
+#### 8. The Shining (1980) (闪灵)
 
 芭比和Gloria之间的通灵关系就像史蒂芬金的闪灵中的能力一样，甚至在车上Gloria女儿问道"Are you shining right now?"，直接提及了闪灵
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/31.png" alt="31" style="zoom:33%;" class="center" />
 
-#### Top Gun (1986) (壮志凌云)
+#### 9. Top Gun (1986) (壮志凌云)
 
 展现男性魅力的沙滩排球戏码是壮志凌云的经典戏剧场面，在Barbie Land被Ken攻陷之后，沙滩上打排球的人从芭比换成了Ken，重现了这一充满荷尔蒙的男性场面
 
@@ -271,23 +271,23 @@ John Barrymore饰演的充满drama感的男主形象成为了高司令的Ken灵�
 
 
 
-#### 摘眼镜知美貌的经典桥段
+#### 10. 摘眼镜知美貌的经典桥段
 
 Princess Diaries (公主日记), Miss Congeniality (特工佳丽)等等电影里都有过这样的类似桥段
 
-#### 黑客帝国的经典问题：红蓝药丸你选哪个 (The Matrix, 1999)
+#### 11. 黑客帝国的经典问题：红蓝药丸你选哪个 (The Matrix, 1999)
 
 芭比寻求怪芭比的帮助时，怪芭比一只手提着高跟鞋，一只手托着平底拖，问芭比选哪个，很难不让人联想到黑客帝国的这个经典药丸问题；另外，逃离Mattel公司遇见创始人的过程也很致敬
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/33.jpg" alt="33" style="zoom:20%;" class="center" />
 
-#### 法国作家马塞尔·普鲁斯特 (Marcel Proust)
+#### 12. 法国作家马塞尔·普鲁斯特 (Marcel Proust)
 
 在《追忆似水年华》中，Proust将浸在茶中的玛德琳蛋糕 (madeleine)写作他启动儿时回忆的开关，Greta将芭比走进塑料包装盒与之类比，于是Will Ferrell饰演的Mattel CE因此说道，“Remember Proust Barbie? That did not sell well.” (还记得普鲁斯特芭比吗，那款卖得不咋地)
 
 在宣传期间，由于同期的奥本海默电影原型J. Robert Oppenheimer本人据说很喜欢普鲁斯特，Greta曾笑称“So he would have loved Proust Barbie!” (那他应该会很喜欢普鲁斯特芭比了)
 
-#### Monty Python and the Holy Grail (1975) (巨蟒与圣杯)
+#### 13. Monty Python and the Holy Grail (1975) (巨蟒与圣杯)
 
 Ken对于马、以及其暗示的男性气质充满执念，他们跳着骑马舞趾高气昂的模样，致敬了《巨蟒与圣杯》中的假装骑马的无厘头经典动作；《巨蟒与圣杯》通过无厘头笑点对制度滥用、盲目信奉的讽刺，和芭比也正不谋而合
 
@@ -295,7 +295,9 @@ Ken对于马、以及其暗示的男性气质充满执念，他们跳着骑马�
 
 <img src="../images/2023-07-22-barbie-pop-culture-references/35.jpg" alt="35" style="zoom:20%;" class="center" />
 
+#### 13. 《查拉图斯特拉如是说》
 
+被多次提及的《查拉图斯特拉如是说》是[德国](https://zh.wikipedia.org/wiki/德國)[哲学家](https://zh.wikipedia.org/wiki/哲學家)[尼采](https://zh.wikipedia.org/wiki/尼采)假托[古波斯](https://zh.wikipedia.org/wiki/古波斯)[祆教](https://zh.wikipedia.org/wiki/祆教)创始人[查拉图斯特拉](https://zh.wikipedia.org/wiki/查拉圖斯特拉)（又译[琐罗亚斯德](https://zh.wikipedia.org/wiki/瑣羅亞斯德)）之口于1885年完成的作品，是哲学史上最著名的[哲学](https://zh.wikipedia.org/wiki/哲學)书籍之一
 
 #### 14. The Seven Year Itch (1955) (七年之痒) 的梦露压裙摆动作
 
