@@ -5,7 +5,7 @@ date: 2023-07-22
 author: RecmRoom
 tags: [电影, Movie, Review]
 comments: true
-toc: false
+toc: true
 ---
 
 浅浅汇总一些芭比电影中的流行文化致敬与彩蛋，主要分为影视和音乐两方面
