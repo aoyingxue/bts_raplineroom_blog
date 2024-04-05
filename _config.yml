@@ -7,33 +7,33 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 name: RecmRoom
 # 描述/签名
-description: 安利博客
+description: Yuki的安利博客
 
 #
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: /images/RR-logo-2021-transparent-01.png
+avatar: ./images/RR-logo-2021-transparent-01.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: /images/apple-touch-icon.png
+favicon: ./images/apple-touch-icon.png
 
 
 # 菜单中的按钮
 navigation:
   - name: Home
     url: /
-  - name: SongRECM
-    url: /recmsurvey
   - name: Archive
     url: /archive
   - name: Tags
     url: /tags
-  - name: About
-    url: /about
-  - name: BTSCalendar
-    url: /calendar
+  - name: SongRECM
+    url: /recmsurvey
+  # - name: About
+  #   url: /about
+  # - name: BTSCalendar
+  #   url: /calendar
 
 # 每页的文章数
 paginate: 12
@@ -43,8 +43,8 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: raplineroom #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  email: admin@recmroom.com
+  weibo: RecmRoom #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  email: aoyingxue@gmail.com
   twitter: RecmRoom # https://www.twitter.com/<your_twitter_username>
   # facebook: #https://www.facebook.com/<>
   # flickr: #https://www.flickr.com/<>
@@ -70,13 +70,13 @@ disqus: recmroom #shortname
 #gitalk: # changed from http to https; has to apply for a new oauth
 
 # 输入Google Analytics web tracking code
-google_analytics: UA-158973117-1
+google_analytics: 
 
 # 输入Google AdSense code
 data-ad-client: ca-pub-5133541748054290
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: recmroom.com
+url: 
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
