@@ -1,1 +1,1 @@
-https://aoyingxue.github.io/recmroom_blog/
+https://aoyingxue.github.io/recmroom/
